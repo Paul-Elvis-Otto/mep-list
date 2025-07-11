@@ -1,5 +1,10 @@
 # MEP List
 
+```diff
+! This is currently under heavy construction !
+! expect breaking changes !
+```
+
 This project provides a comprehensive and enriched dataset of Members of the European Parliament (MEPs). It aggregates data from various sources, including the official European Parliament API, [HowTheyVote.eu](https://howtheyvote.eu/), and custom scraping for social media profiles, to create a unified and easy-to-use dataset.
 
 The primary goal is to simplify the process of working with MEP data for researchers, journalists, and developers.
