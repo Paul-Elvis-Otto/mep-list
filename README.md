@@ -31,7 +31,7 @@ This project uses `uv` for package and environment management.
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:Paul-Elvis-Otto/mep-list.git
     cd mep-list
     ```
 
@@ -40,8 +40,6 @@ This project uses `uv` for package and environment management.
     ```bash
     uv sync 
     ```
-
-    *(Note: Based on `pyproject.toml`, you might need to generate a `requirements.txt` first or install dependencies directly. If a `requirements.txt` is not present, you can use `uv pip install .`)*
 
 3. **Run the main pipeline:**
     This single command will execute the entire data aggregation and enrichment process.
