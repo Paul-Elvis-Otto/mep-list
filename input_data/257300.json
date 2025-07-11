@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": "person/257300",
+      "type": "Person",
+      "identifier": "257300",
+      "label": "Michael MCNAMARA",
+      "notation_codictPersonId": "257300",
+      "bday": "1974-03-01",
+      "hasEmail": "mailto:michael.mcnamara@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257300-f-177181",
+          "type": "Membership",
+          "identifier": "257300-f-177181",
+          "notation_codictFunctionId": "177181",
+          "memberDuring": {
+            "id": "time-period/20240927-20241007",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-07",
+            "startDate": "2024-09-27"
+          },
+          "organization": "org/6614",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257300-f-174879",
+          "type": "Membership",
+          "identifier": "257300-f-174879",
+          "notation_codictFunctionId": "174879",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257300-f-171423",
+          "type": "Membership",
+          "identifier": "257300-f-171423",
+          "notation_codictFunctionId": "171423",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257300-f-171967",
+          "type": "Membership",
+          "identifier": "257300-f-171967",
+          "notation_codictFunctionId": "171967",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6739",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257300-m-17536",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/IRL"
+          ],
+          "identifier": "257300-m-17536",
+          "notation_codictMandateId": "17536",
+          "contactPoint": [
+            {
+              "id": "contact-point/257300-m-17536-M02108",
+              "type": "ContactPoint",
+              "officeAddress": "M02108",
+              "hasTelephone": {
+                "id": "tel/0033388175543",
+                "type": "Voice",
+                "hasValue": "tel:+33388175543"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            },
+            {
+              "id": "contact-point/257300-m-17536-09G351",
+              "type": "ContactPoint",
+              "officeAddress": "09G351",
+              "hasTelephone": {
+                "id": "tel/003222845543",
+                "type": "Voice",
+                "hasValue": "tel:+3222845543"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257300-f-172031",
+          "type": "Membership",
+          "identifier": "257300-f-172031",
+          "notation_codictFunctionId": "172031",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7035",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257300-f-180441",
+          "type": "Membership",
+          "identifier": "257300-f-180441",
+          "notation_codictFunctionId": "180441",
+          "memberDuring": {
+            "id": "time-period/20250703",
+            "type": "PeriodOfTime",
+            "startDate": "2025-07-03"
+          },
+          "organization": "org/6614",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257300-f-177362",
+          "type": "Membership",
+          "identifier": "257300-f-177362",
+          "notation_codictFunctionId": "177362",
+          "memberDuring": {
+            "id": "time-period/20241008-20250702",
+            "type": "PeriodOfTime",
+            "endDate": "2025-07-02",
+            "startDate": "2024-10-08"
+          },
+          "organization": "org/6614",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257300-f-179093",
+          "type": "Membership",
+          "identifier": "257300-f-179093",
+          "notation_codictFunctionId": "179093",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7905",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257300-f-173547",
+          "type": "Membership",
+          "identifier": "257300-f-173547",
+          "notation_codictFunctionId": "173547",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257300-f-176483",
+          "type": "Membership",
+          "identifier": "257300-f-176483",
+          "notation_codictFunctionId": "176483",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/IRL",
+      "placeOfBirth": "Limerick",
+      "familyName": "McNamara",
+      "givenName": "Michael",
+      "img": "https://www.europarl.europa.eu/mepphoto/257300.jpg",
+      "sortLabel": "MCNAMARAM",
+      "upperFamilyName": "MCNAMARA",
+      "upperGivenName": "MICHAEL"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

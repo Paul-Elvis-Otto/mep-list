@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "id": "person/256868",
+      "type": "Person",
+      "identifier": "256868",
+      "label": "Péter MAGYAR",
+      "notation_codictPersonId": "256868",
+      "bday": "1981-03-16",
+      "hasEmail": "mailto:peter.magyar@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256868-f-172921",
+          "type": "Membership",
+          "identifier": "256868-f-172921",
+          "notation_codictFunctionId": "172921",
+          "memberDuring": {
+            "id": "time-period/20240719-20240722",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-22",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6587",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256868-f-171632",
+          "type": "Membership",
+          "identifier": "256868-f-171632",
+          "notation_codictFunctionId": "171632",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6847",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256868-f-175040",
+          "type": "Membership",
+          "identifier": "256868-f-175040",
+          "notation_codictFunctionId": "175040",
+          "memberDuring": {
+            "id": "time-period/20240723",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-23"
+          },
+          "organization": "org/6587",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256868-f-176457",
+          "type": "Membership",
+          "identifier": "256868-f-176457",
+          "notation_codictFunctionId": "176457",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256868-m-16916",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/HUN"
+          ],
+          "identifier": "256868-m-16916",
+          "notation_codictMandateId": "16916",
+          "contactPoint": [
+            {
+              "id": "contact-point/256868-m-16916-T08147",
+              "type": "ContactPoint",
+              "officeAddress": "T08147",
+              "hasTelephone": {
+                "id": "tel/0033388175704",
+                "type": "Voice",
+                "hasValue": "tel:+33388175704"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256868-m-16916-12E254",
+              "type": "ContactPoint",
+              "officeAddress": "12E254",
+              "hasTelephone": {
+                "id": "tel/003222845704",
+                "type": "Voice",
+                "hasValue": "tel:+3222845704"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256868-f-174770",
+          "type": "Membership",
+          "identifier": "256868-f-174770",
+          "notation_codictFunctionId": "174770",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6582",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256868-f-176211",
+          "type": "Membership",
+          "identifier": "256868-f-176211",
+          "notation_codictFunctionId": "176211",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6622",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256868-f-169617",
+          "type": "Membership",
+          "identifier": "256868-f-169617",
+          "notation_codictFunctionId": "169617",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256868-f-175550",
+          "type": "Membership",
+          "identifier": "256868-f-175550",
+          "notation_codictFunctionId": "175550",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256868-f-172350",
+          "type": "Membership",
+          "identifier": "256868-f-172350",
+          "notation_codictFunctionId": "172350",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/HUN",
+      "placeOfBirth": "Budapest",
+      "account": [
+        {
+          "id": "https://www.youtube.com/@magyarpeterofficial",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/YTB"
+        },
+        {
+          "id": "https://www.instagram.com/magyar_peter_official_the_man/?hl=hu",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.facebook.com/peter.magyar.102",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Magyar",
+      "givenName": "Péter",
+      "img": "https://www.europarl.europa.eu/mepphoto/256868.jpg",
+      "sortLabel": "MAGYARP",
+      "upperFamilyName": "MAGYAR",
+      "upperGivenName": "PÉTER"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

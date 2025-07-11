@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "id": "person/250538",
+      "type": "Person",
+      "identifier": "250538",
+      "label": "Rafał ROMANOWSKI",
+      "notation_codictPersonId": "250538",
+      "bday": "1978-02-15",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/250538-f-168721",
+          "type": "Membership",
+          "identifier": "250538-f-168721",
+          "notation_codictFunctionId": "168721",
+          "memberDuring": {
+            "id": "time-period/20231206-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-06"
+          },
+          "organization": "org/5106",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/250538-f-168732",
+          "type": "Membership",
+          "identifier": "250538-f-168732",
+          "notation_codictFunctionId": "168732",
+          "memberDuring": {
+            "id": "time-period/20231211-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-11"
+          },
+          "organization": "org/5105",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/250538-f-168706",
+          "type": "Membership",
+          "identifier": "250538-f-168706",
+          "notation_codictFunctionId": "168706",
+          "memberDuring": {
+            "id": "time-period/20231129-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-29"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/250538-f-168707",
+          "type": "Membership",
+          "identifier": "250538-f-168707",
+          "notation_codictFunctionId": "168707",
+          "memberDuring": {
+            "id": "time-period/20231129-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-29"
+          },
+          "organization": "org/5148",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/250538-f-168709",
+          "type": "Membership",
+          "identifier": "250538-f-168709",
+          "notation_codictFunctionId": "168709",
+          "memberDuring": {
+            "id": "time-period/20231129-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-29"
+          },
+          "organization": "org/5311",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/250538-f-168720",
+          "type": "Membership",
+          "identifier": "250538-f-168720",
+          "notation_codictFunctionId": "168720",
+          "memberDuring": {
+            "id": "time-period/20231206-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-06"
+          },
+          "organization": "org/5145",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/250538-f-168731",
+          "type": "Membership",
+          "identifier": "250538-f-168731",
+          "notation_codictFunctionId": "168731",
+          "memberDuring": {
+            "id": "time-period/20231211-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-11"
+          },
+          "organization": "org/6353",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250538-m-16782",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/POL"
+          ],
+          "identifier": "250538-m-16782",
+          "notation_codictMandateId": "16782",
+          "memberDuring": {
+            "id": "time-period/20231129-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-29"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/250538-f-168719",
+          "type": "Membership",
+          "identifier": "250538-f-168719",
+          "notation_codictFunctionId": "168719",
+          "memberDuring": {
+            "id": "time-period/20231206-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-06"
+          },
+          "organization": "org/6351",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/POL",
+      "placeOfBirth": "Ciechanów",
+      "familyName": "Romanowski",
+      "givenName": "Rafał",
+      "img": "https://www.europarl.europa.eu/mepphoto/250538.jpg",
+      "sortLabel": "ROMANOWSKIR",
+      "upperFamilyName": "ROMANOWSKI",
+      "upperGivenName": "RAFAŁ"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

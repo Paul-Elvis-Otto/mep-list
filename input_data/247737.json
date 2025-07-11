@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "person/247737",
+      "type": "Person",
+      "identifier": "247737",
+      "label": "Ana COLLADO JIMÉNEZ",
+      "notation_codictPersonId": "247737",
+      "bday": "1984-02-08",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/247737-f-168539",
+          "type": "Membership",
+          "identifier": "247737-f-168539",
+          "notation_codictFunctionId": "168539",
+          "memberDuring": {
+            "id": "time-period/20230906-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-06"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/247737-f-168540",
+          "type": "Membership",
+          "identifier": "247737-f-168540",
+          "notation_codictFunctionId": "168540",
+          "memberDuring": {
+            "id": "time-period/20230906-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-06"
+          },
+          "organization": "org/5153",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/247737-f-168563",
+          "type": "Membership",
+          "identifier": "247737-f-168563",
+          "notation_codictFunctionId": "168563",
+          "memberDuring": {
+            "id": "time-period/20230914-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-14"
+          },
+          "organization": "org/6353",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/247737-m-16774",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ESP"
+          ],
+          "identifier": "247737-m-16774",
+          "notation_codictMandateId": "16774",
+          "memberDuring": {
+            "id": "time-period/20230906-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-06"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/247737-f-168562",
+          "type": "Membership",
+          "identifier": "247737-f-168562",
+          "notation_codictFunctionId": "168562",
+          "memberDuring": {
+            "id": "time-period/20230914-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-14"
+          },
+          "organization": "org/6362",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/247737-f-168546",
+          "type": "Membership",
+          "identifier": "247737-f-168546",
+          "notation_codictFunctionId": "168546",
+          "memberDuring": {
+            "id": "time-period/20230906-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-06"
+          },
+          "organization": "org/5211",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/247737-f-168564",
+          "type": "Membership",
+          "identifier": "247737-f-168564",
+          "notation_codictFunctionId": "168564",
+          "memberDuring": {
+            "id": "time-period/20230914-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-14"
+          },
+          "organization": "org/5144",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/247737-f-168565",
+          "type": "Membership",
+          "identifier": "247737-f-168565",
+          "notation_codictFunctionId": "168565",
+          "memberDuring": {
+            "id": "time-period/20230914-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-14"
+          },
+          "organization": "org/5119",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ESP",
+      "placeOfBirth": "ÁVILA",
+      "familyName": "Collado Jiménez",
+      "givenName": "Ana",
+      "img": "https://www.europarl.europa.eu/mepphoto/247737.jpg",
+      "sortLabel": "COLLADOJIMENEZ",
+      "upperFamilyName": "COLLADO JIMÉNEZ",
+      "upperGivenName": "ANA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

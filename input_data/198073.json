@@ -1,0 +1,287 @@
+{
+  "data": [
+    {
+      "id": "person/198073",
+      "type": "Person",
+      "identifier": "198073",
+      "label": "Anna-Maja HENRIKSSON",
+      "notation_codictPersonId": "198073",
+      "bday": "1964-01-07",
+      "hasEmail": "mailto:anna-maja.henriksson@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/198073-f-175174",
+          "type": "Membership",
+          "identifier": "198073-f-175174",
+          "notation_codictFunctionId": "175174",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6589",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/198073-f-177144",
+          "type": "Membership",
+          "identifier": "198073-f-177144",
+          "notation_codictFunctionId": "177144",
+          "memberDuring": {
+            "id": "time-period/20240919-20241002",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-02",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6625",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/198073-f-169440",
+          "type": "Membership",
+          "identifier": "198073-f-169440",
+          "notation_codictFunctionId": "169440",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/198073-f-172064",
+          "type": "Membership",
+          "identifier": "198073-f-172064",
+          "notation_codictFunctionId": "172064",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6673",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/198073-m-16827",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FIN"
+          ],
+          "identifier": "198073-m-16827",
+          "notation_codictMandateId": "16827",
+          "contactPoint": [
+            {
+              "id": "contact-point/198073-m-16827-08G169",
+              "type": "ContactPoint",
+              "officeAddress": "08G169",
+              "hasTelephone": {
+                "id": "tel/003222845503",
+                "type": "Voice",
+                "hasValue": "tel:+3222845503"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/198073-m-16827-M01045",
+              "type": "ContactPoint",
+              "officeAddress": "M01045",
+              "hasTelephone": {
+                "id": "tel/0033388175503",
+                "type": "Voice",
+                "hasValue": "tel:+33388175503"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/198073-f-172011",
+          "type": "Membership",
+          "identifier": "198073-f-172011",
+          "notation_codictFunctionId": "172011",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7035",
+          "role": "def/ep-roles/MEMBER_BUREAU",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/198073-f-177142",
+          "type": "Membership",
+          "identifier": "198073-f-177142",
+          "notation_codictFunctionId": "177142",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6577",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/198073-f-174954",
+          "type": "Membership",
+          "identifier": "198073-f-174954",
+          "notation_codictFunctionId": "174954",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6563",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/198073-f-173741",
+          "type": "Membership",
+          "identifier": "198073-f-173741",
+          "notation_codictFunctionId": "173741",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/198073-f-179156",
+          "type": "Membership",
+          "identifier": "198073-f-179156",
+          "notation_codictFunctionId": "179156",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7891",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/198073-f-177273",
+          "type": "Membership",
+          "identifier": "198073-f-177273",
+          "notation_codictFunctionId": "177273",
+          "memberDuring": {
+            "id": "time-period/20241003",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-03"
+          },
+          "organization": "org/6625",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/198073-f-174390",
+          "type": "Membership",
+          "identifier": "198073-f-174390",
+          "notation_codictFunctionId": "174390",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/198073-f-178646",
+          "type": "Membership",
+          "identifier": "198073-f-178646",
+          "notation_codictFunctionId": "178646",
+          "memberDuring": {
+            "id": "time-period/20250129",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-29"
+          },
+          "organization": "org/7895",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/198073-f-177141",
+          "type": "Membership",
+          "identifier": "198073-f-177141",
+          "notation_codictFunctionId": "177141",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6573",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/198073-f-177165",
+          "type": "Membership",
+          "identifier": "198073-f-177165",
+          "notation_codictFunctionId": "177165",
+          "memberDuring": {
+            "id": "time-period/20240923",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-23"
+          },
+          "organization": "org/6615",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FIN",
+      "placeOfBirth": "Jakobstad",
+      "account": [
+        {
+          "id": "https://x.com/anna_maja",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/annamajah",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.facebook.com/annamajahenriksson",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Henriksson",
+      "givenName": "Anna-Maja",
+      "homepage": "https://www.anna-maja.fi",
+      "img": "https://www.europarl.europa.eu/mepphoto/198073.jpg",
+      "sortLabel": "HENRIKSSONA",
+      "upperFamilyName": "HENRIKSSON",
+      "upperGivenName": "ANNA-MAJA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

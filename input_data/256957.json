@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "id": "person/256957",
+      "type": "Person",
+      "identifier": "256957",
+      "label": "Mary KHAN",
+      "notation_codictPersonId": "256957",
+      "bday": "1994-06-25",
+      "hasEmail": "mailto:mary.khan@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256957-m-17129",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256957-m-17129",
+          "notation_codictMandateId": "17129",
+          "contactPoint": [
+            {
+              "id": "contact-point/256957-m-17129-V03008",
+              "type": "ContactPoint",
+              "officeAddress": "V03008",
+              "hasTelephone": {
+                "id": "tel/0033388175810",
+                "type": "Voice",
+                "hasValue": "tel:+33388175810"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/HAV"
+            },
+            {
+              "id": "contact-point/256957-m-17129-03F171",
+              "type": "ContactPoint",
+              "officeAddress": "03F171",
+              "hasTelephone": {
+                "id": "tel/003222845810",
+                "type": "Voice",
+                "hasValue": "tel:+3222845810"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256957-f-170037",
+          "type": "Membership",
+          "identifier": "256957-f-170037",
+          "notation_codictFunctionId": "170037",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256957-f-171693",
+          "type": "Membership",
+          "identifier": "256957-f-171693",
+          "notation_codictFunctionId": "171693",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6802",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256957-f-178343",
+          "type": "Membership",
+          "identifier": "256957-f-178343",
+          "notation_codictFunctionId": "178343",
+          "memberDuring": {
+            "id": "time-period/20250122",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-22"
+          },
+          "organization": "org/6585",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256957-f-172760",
+          "type": "Membership",
+          "identifier": "256957-f-172760",
+          "notation_codictFunctionId": "172760",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7151",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256957-f-173376",
+          "type": "Membership",
+          "identifier": "256957-f-173376",
+          "notation_codictFunctionId": "173376",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256957-f-175118",
+          "type": "Membership",
+          "identifier": "256957-f-175118",
+          "notation_codictFunctionId": "175118",
+          "memberDuring": {
+            "id": "time-period/20240905",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-05"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256957-f-175890",
+          "type": "Membership",
+          "identifier": "256957-f-175890",
+          "notation_codictFunctionId": "175890",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6612",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256957-f-175652",
+          "type": "Membership",
+          "identifier": "256957-f-175652",
+          "notation_codictFunctionId": "175652",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6605",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Frankfurt am Main",
+      "account": [
+        {
+          "id": "https://www.facebook.com/profile.php?id=100094500706996",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.instagram.com/marykhan_afd?igsh=MzQzOW9hNXNqanVk&utm_source=qr",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://x.com/mary_khan94?s=21&t=BtVwX1wxzCO-1YMv4k8FRw",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Khan",
+      "givenName": "Mary",
+      "img": "https://www.europarl.europa.eu/mepphoto/256957.jpg",
+      "sortLabel": "KHANHOHLOCHM",
+      "upperFamilyName": "KHAN",
+      "upperGivenName": "MARY"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

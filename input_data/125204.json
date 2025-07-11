@@ -1,0 +1,250 @@
+{
+  "data": [
+    {
+      "id": "person/125204",
+      "type": "Person",
+      "identifier": "125204",
+      "label": "Borja GIMÉNEZ LARRAZ",
+      "notation_codictPersonId": "125204",
+      "hasEmail": "mailto:borja.gimenezlarraz@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/125204-f-172573",
+          "type": "Membership",
+          "identifier": "125204-f-172573",
+          "notation_codictFunctionId": "172573",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6666",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/125204-f-172930",
+          "type": "Membership",
+          "identifier": "125204-f-172930",
+          "notation_codictFunctionId": "172930",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6587",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/125204-f-172507",
+          "type": "Membership",
+          "identifier": "125204-f-172507",
+          "notation_codictFunctionId": "172507",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/125204-f-178592",
+          "type": "Membership",
+          "identifier": "125204-f-178592",
+          "notation_codictFunctionId": "178592",
+          "memberDuring": {
+            "id": "time-period/20250129",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-29"
+          },
+          "organization": "org/7889",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/125204-f-174512",
+          "type": "Membership",
+          "identifier": "125204-f-174512",
+          "notation_codictFunctionId": "174512",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6580",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/125204-m-17306",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ESP"
+          ],
+          "identifier": "125204-m-17306",
+          "notation_codictMandateId": "17306",
+          "contactPoint": [
+            {
+              "id": "contact-point/125204-m-17306-T10009",
+              "type": "ContactPoint",
+              "officeAddress": "T10009",
+              "hasTelephone": {
+                "id": "tel/0033388175967",
+                "type": "Voice",
+                "hasValue": "tel:+33388175967"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/125204-m-17306-10E217",
+              "type": "ContactPoint",
+              "officeAddress": "10E217",
+              "hasTelephone": {
+                "id": "tel/003222845967",
+                "type": "Voice",
+                "hasValue": "tel:+3222845967"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/125204-f-179077",
+          "type": "Membership",
+          "identifier": "125204-f-179077",
+          "notation_codictFunctionId": "179077",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7905",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/125204-f-180098",
+          "type": "Membership",
+          "identifier": "125204-f-180098",
+          "notation_codictFunctionId": "180098",
+          "memberDuring": {
+            "id": "time-period/20250307",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-07"
+          },
+          "organization": "org/7915",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_TEMPORARY"
+        },
+        {
+          "id": "membership/125204-f-175837",
+          "type": "Membership",
+          "identifier": "125204-f-175837",
+          "notation_codictFunctionId": "175837",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6611",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/125204-f-170391",
+          "type": "Membership",
+          "identifier": "125204-f-170391",
+          "notation_codictFunctionId": "170391",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/125204-f-174508",
+          "type": "Membership",
+          "identifier": "125204-f-174508",
+          "notation_codictFunctionId": "174508",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/125204-f-175249",
+          "type": "Membership",
+          "identifier": "125204-f-175249",
+          "notation_codictFunctionId": "175249",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6593",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/125204-f-180390",
+          "type": "Membership",
+          "identifier": "125204-f-180390",
+          "notation_codictFunctionId": "180390",
+          "memberDuring": {
+            "id": "time-period/20250519",
+            "type": "PeriodOfTime",
+            "startDate": "2025-05-19"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ESP",
+      "account": [
+        {
+          "id": "https://x.com/borjagimenezl",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/borja_gimenezlarraz/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Giménez Larraz",
+      "givenName": "Borja",
+      "img": "https://www.europarl.europa.eu/mepphoto/125204.jpg",
+      "sortLabel": "GIMENEZLARRAZB",
+      "upperFamilyName": "GIMÉNEZ LARRAZ",
+      "upperGivenName": "BORJA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

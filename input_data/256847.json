@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "id": "person/256847",
+      "type": "Person",
+      "identifier": "256847",
+      "label": "Danuše NERUDOVÁ",
+      "notation_codictPersonId": "256847",
+      "bday": "1979-01-04",
+      "hasEmail": "mailto:danuse.nerudova@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256847-f-176044",
+          "type": "Membership",
+          "identifier": "256847-f-176044",
+          "notation_codictFunctionId": "176044",
+          "memberDuring": {
+            "id": "time-period/20240919-20241002",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-02",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6616",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256847-f-177312",
+          "type": "Membership",
+          "identifier": "256847-f-177312",
+          "notation_codictFunctionId": "177312",
+          "memberDuring": {
+            "id": "time-period/20241003",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-03"
+          },
+          "organization": "org/6616",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256847-f-172494",
+          "type": "Membership",
+          "identifier": "256847-f-172494",
+          "notation_codictFunctionId": "172494",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256847-m-16894",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/CZE"
+          ],
+          "identifier": "256847-m-16894",
+          "notation_codictMandateId": "16894",
+          "contactPoint": [
+            {
+              "id": "contact-point/256847-m-16894-T08058",
+              "type": "ContactPoint",
+              "officeAddress": "T08058",
+              "hasTelephone": {
+                "id": "tel/0033388175767",
+                "type": "Voice",
+                "hasValue": "tel:+33388175767"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256847-m-16894-07F252",
+              "type": "ContactPoint",
+              "officeAddress": "07F252",
+              "hasTelephone": {
+                "id": "tel/003222845767",
+                "type": "Voice",
+                "hasValue": "tel:+3222845767"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256847-f-174021",
+          "type": "Membership",
+          "identifier": "256847-f-174021",
+          "notation_codictFunctionId": "174021",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256847-f-175509",
+          "type": "Membership",
+          "identifier": "256847-f-175509",
+          "notation_codictFunctionId": "175509",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6603",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256847-f-178721",
+          "type": "Membership",
+          "identifier": "256847-f-178721",
+          "notation_codictFunctionId": "178721",
+          "memberDuring": {
+            "id": "time-period/20250129",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-29"
+          },
+          "organization": "org/7903",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256847-f-171388",
+          "type": "Membership",
+          "identifier": "256847-f-171388",
+          "notation_codictFunctionId": "171388",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6835",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256847-f-174444",
+          "type": "Membership",
+          "identifier": "256847-f-174444",
+          "notation_codictFunctionId": "174444",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256847-f-173490",
+          "type": "Membership",
+          "identifier": "256847-f-173490",
+          "notation_codictFunctionId": "173490",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256847-f-177509",
+          "type": "Membership",
+          "identifier": "256847-f-177509",
+          "notation_codictFunctionId": "177509",
+          "memberDuring": {
+            "id": "time-period/20241024",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-24"
+          },
+          "organization": "org/7007",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/256847-f-177817",
+          "type": "Membership",
+          "identifier": "256847-f-177817",
+          "notation_codictFunctionId": "177817",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256847-f-179277",
+          "type": "Membership",
+          "identifier": "256847-f-179277",
+          "notation_codictFunctionId": "179277",
+          "memberDuring": {
+            "id": "time-period/20250205",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-05"
+          },
+          "organization": "org/7908",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256847-f-169574",
+          "type": "Membership",
+          "identifier": "256847-f-169574",
+          "notation_codictFunctionId": "169574",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256847-f-174938",
+          "type": "Membership",
+          "identifier": "256847-f-174938",
+          "notation_codictFunctionId": "174938",
+          "memberDuring": {
+            "id": "time-period/20240719-20241023",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-23",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7007",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/CZE",
+      "placeOfBirth": "Brno",
+      "account": [
+        {
+          "id": "https://x.com/danusenerudova",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/danusenerudova/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Nerudová",
+      "givenName": "Danuše",
+      "img": "https://www.europarl.europa.eu/mepphoto/256847.jpg",
+      "sortLabel": "NERUDOVAD",
+      "upperFamilyName": "NERUDOVÁ",
+      "upperGivenName": "DANUŠE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

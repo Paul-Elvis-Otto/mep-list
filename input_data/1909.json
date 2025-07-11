@@ -1,0 +1,1307 @@
+{
+  "data": [
+    {
+      "id": "person/1909",
+      "type": "Person",
+      "identifier": "1909",
+      "label": "Bernd LANGE",
+      "notation_codictPersonId": "1909",
+      "bday": "1955-11-14",
+      "hasEmail": "mailto:bernd.lange@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/1909-f-104083",
+          "type": "Membership",
+          "identifier": "1909-f-104083",
+          "notation_codictFunctionId": "104083",
+          "memberDuring": {
+            "id": "time-period/20020207-20040719",
+            "type": "PeriodOfTime",
+            "endDate": "2004-07-19",
+            "startDate": "2002-02-07"
+          },
+          "organization": "org/1111",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-91104",
+          "type": "Membership",
+          "identifier": "1909-f-91104",
+          "notation_codictFunctionId": "91104",
+          "memberDuring": {
+            "id": "time-period/19940719-19990719",
+            "type": "PeriodOfTime",
+            "endDate": "1999-07-19",
+            "startDate": "1994-07-19"
+          },
+          "organization": "org/ep-4",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/1909-f-96710",
+          "type": "Membership",
+          "identifier": "1909-f-96710",
+          "notation_codictFunctionId": "96710",
+          "memberDuring": {
+            "id": "time-period/19990720-20040719",
+            "type": "PeriodOfTime",
+            "endDate": "2004-07-19",
+            "startDate": "1999-07-20"
+          },
+          "organization": "org/509",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-130832",
+          "type": "Membership",
+          "identifier": "1909-f-130832",
+          "notation_codictFunctionId": "130832",
+          "memberDuring": {
+            "id": "time-period/20090714-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2009-07-14"
+          },
+          "organization": "org/2953",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-99592",
+          "type": "Membership",
+          "identifier": "1909-f-99592",
+          "notation_codictFunctionId": "99592",
+          "memberDuring": {
+            "id": "time-period/19991006-20020114",
+            "type": "PeriodOfTime",
+            "endDate": "2002-01-14",
+            "startDate": "1999-10-06"
+          },
+          "organization": "org/1014",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-m-10871",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "1909-m-10871",
+          "notation_codictMandateId": "10871",
+          "contactPoint": [
+            {
+              "id": "contact-point/1909-m-10871-12G301",
+              "type": "ContactPoint",
+              "officeAddress": "12G301",
+              "hasTelephone": {
+                "id": "tel/003222845555",
+                "type": "Voice",
+                "hasValue": "tel:+3222845555"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/1909-m-10871-T12046",
+              "type": "ContactPoint",
+              "officeAddress": "T12046",
+              "hasTelephone": {
+                "id": "tel/0033388175555",
+                "type": "Voice",
+                "hasValue": "tel:+33388175555"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/19990720-20040719",
+            "type": "PeriodOfTime",
+            "endDate": "2004-07-19",
+            "startDate": "1999-07-20"
+          },
+          "organization": "org/ep-5",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/1909-f-153413",
+          "type": "Membership",
+          "identifier": "1909-f-153413",
+          "notation_codictFunctionId": "153413",
+          "memberDuring": {
+            "id": "time-period/20190702-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5196",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-95318",
+          "type": "Membership",
+          "identifier": "1909-f-95318",
+          "notation_codictFunctionId": "95318",
+          "memberDuring": {
+            "id": "time-period/19990224-19990719",
+            "type": "PeriodOfTime",
+            "endDate": "1999-07-19",
+            "startDate": "1999-02-24"
+          },
+          "organization": "org/563",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-143252",
+          "type": "Membership",
+          "identifier": "1909-f-143252",
+          "notation_codictFunctionId": "143252",
+          "memberDuring": {
+            "id": "time-period/20140701-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2014-07-01"
+          },
+          "organization": "org/4284",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-m-15978",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "1909-m-15978",
+          "notation_codictMandateId": "15978",
+          "contactPoint": [
+            {
+              "id": "contact-point/1909-m-15978-12G301",
+              "type": "ContactPoint",
+              "officeAddress": "12G301",
+              "hasTelephone": "tel/003222845555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/1909-m-15978-T12046",
+              "type": "ContactPoint",
+              "officeAddress": "T12046",
+              "hasTelephone": "tel/0033388175555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20190702-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/1909-f-98396",
+          "type": "Membership",
+          "identifier": "1909-f-98396",
+          "notation_codictFunctionId": "98396",
+          "memberDuring": {
+            "id": "time-period/19990722-20020114",
+            "type": "PeriodOfTime",
+            "endDate": "2002-01-14",
+            "startDate": "1999-07-22"
+          },
+          "organization": "org/982",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-171203",
+          "type": "Membership",
+          "identifier": "1909-f-171203",
+          "notation_codictFunctionId": "171203",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6772",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-158486",
+          "type": "Membership",
+          "identifier": "1909-f-158486",
+          "notation_codictFunctionId": "158486",
+          "memberDuring": {
+            "id": "time-period/20190710-20220214",
+            "type": "PeriodOfTime",
+            "endDate": "2022-02-14",
+            "startDate": "2019-07-10"
+          },
+          "organization": "org/5158",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/1909-f-81074",
+          "type": "Membership",
+          "identifier": "1909-f-81074",
+          "notation_codictFunctionId": "81074",
+          "memberDuring": {
+            "id": "time-period/19941117-19950711",
+            "type": "PeriodOfTime",
+            "endDate": "1995-07-11",
+            "startDate": "1994-11-17"
+          },
+          "organization": "org/368",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-174971",
+          "type": "Membership",
+          "identifier": "1909-f-174971",
+          "notation_codictFunctionId": "174971",
+          "memberDuring": {
+            "id": "time-period/20240723",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-23"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-76092",
+          "type": "Membership",
+          "identifier": "1909-f-76092",
+          "notation_codictFunctionId": "76092",
+          "memberDuring": {
+            "id": "time-period/19970116-19990719",
+            "type": "PeriodOfTime",
+            "endDate": "1999-07-19",
+            "startDate": "1997-01-16"
+          },
+          "organization": "org/120",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-136682",
+          "type": "Membership",
+          "identifier": "1909-f-136682",
+          "notation_codictFunctionId": "136682",
+          "memberDuring": {
+            "id": "time-period/20120119-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2012-01-19"
+          },
+          "organization": "org/3752",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-84713",
+          "type": "Membership",
+          "identifier": "1909-f-84713",
+          "notation_codictFunctionId": "84713",
+          "memberDuring": {
+            "id": "time-period/19971014-19990223",
+            "type": "PeriodOfTime",
+            "endDate": "1999-02-23",
+            "startDate": "1997-10-14"
+          },
+          "organization": "org/433",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-81587",
+          "type": "Membership",
+          "identifier": "1909-f-81587",
+          "notation_codictFunctionId": "81587",
+          "memberDuring": {
+            "id": "time-period/19950712-19970115",
+            "type": "PeriodOfTime",
+            "endDate": "1997-01-15",
+            "startDate": "1995-07-12"
+          },
+          "organization": "org/389",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-89541",
+          "type": "Membership",
+          "identifier": "1909-f-89541",
+          "notation_codictFunctionId": "89541",
+          "memberDuring": {
+            "id": "time-period/19940719-19990719",
+            "type": "PeriodOfTime",
+            "endDate": "1999-07-19",
+            "startDate": "1994-07-19"
+          },
+          "organization": "org/509",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-76376",
+          "type": "Membership",
+          "identifier": "1909-f-76376",
+          "notation_codictFunctionId": "76376",
+          "memberDuring": {
+            "id": "time-period/19970116-19990719",
+            "type": "PeriodOfTime",
+            "endDate": "1999-07-19",
+            "startDate": "1997-01-16"
+          },
+          "organization": "org/126",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-153412",
+          "type": "Membership",
+          "identifier": "1909-f-153412",
+          "notation_codictFunctionId": "153412",
+          "memberDuring": {
+            "id": "time-period/20190702-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/1909-f-159456",
+          "type": "Membership",
+          "identifier": "1909-f-159456",
+          "notation_codictFunctionId": "159456",
+          "memberDuring": {
+            "id": "time-period/20190702-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5128",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-131631",
+          "type": "Membership",
+          "identifier": "1909-f-131631",
+          "notation_codictFunctionId": "131631",
+          "memberDuring": {
+            "id": "time-period/20090716-20120118",
+            "type": "PeriodOfTime",
+            "endDate": "2012-01-18",
+            "startDate": "2009-07-16"
+          },
+          "organization": "org/2866",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-133805",
+          "type": "Membership",
+          "identifier": "1909-f-133805",
+          "notation_codictFunctionId": "133805",
+          "memberDuring": {
+            "id": "time-period/20090916-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2009-09-16"
+          },
+          "organization": "org/2900",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-150316",
+          "type": "Membership",
+          "identifier": "1909-f-150316",
+          "notation_codictFunctionId": "150316",
+          "memberDuring": {
+            "id": "time-period/20170119-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2017-01-19"
+          },
+          "organization": "org/4965",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-75054",
+          "type": "Membership",
+          "identifier": "1909-f-75054",
+          "notation_codictFunctionId": "75054",
+          "memberDuring": {
+            "id": "time-period/19940929-19970115",
+            "type": "PeriodOfTime",
+            "endDate": "1997-01-15",
+            "startDate": "1994-09-29"
+          },
+          "organization": "org/96",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-m-10311",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "1909-m-10311",
+          "notation_codictMandateId": "10311",
+          "contactPoint": [
+            {
+              "id": "contact-point/1909-m-10311-12G301",
+              "type": "ContactPoint",
+              "officeAddress": "12G301",
+              "hasTelephone": "tel/003222845555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/1909-m-10311-T12046",
+              "type": "ContactPoint",
+              "officeAddress": "T12046",
+              "hasTelephone": "tel/0033388175555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/19940719-19990719",
+            "type": "PeriodOfTime",
+            "endDate": "1999-07-19",
+            "startDate": "1994-07-19"
+          },
+          "organization": "org/ep-4",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/1909-f-141257",
+          "type": "Membership",
+          "identifier": "1909-f-141257",
+          "notation_codictFunctionId": "141257",
+          "memberDuring": {
+            "id": "time-period/20140701-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2014-07-01"
+          },
+          "organization": "org/4009",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-130361",
+          "type": "Membership",
+          "identifier": "1909-f-130361",
+          "notation_codictFunctionId": "130361",
+          "memberDuring": {
+            "id": "time-period/20090714-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2009-07-14"
+          },
+          "organization": "org/2664",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-164206",
+          "type": "Membership",
+          "identifier": "1909-f-164206",
+          "notation_codictFunctionId": "164206",
+          "memberDuring": {
+            "id": "time-period/20191217-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2019-12-17"
+          },
+          "organization": "org/6313",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/1909-f-167073",
+          "type": "Membership",
+          "identifier": "1909-f-167073",
+          "notation_codictFunctionId": "167073",
+          "memberDuring": {
+            "id": "time-period/20220215-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-02-15"
+          },
+          "organization": "org/5158",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/1909-f-151397",
+          "type": "Membership",
+          "identifier": "1909-f-151397",
+          "notation_codictFunctionId": "151397",
+          "memberDuring": {
+            "id": "time-period/20170123-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2017-01-23"
+          },
+          "organization": "org/4959",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-131213",
+          "type": "Membership",
+          "identifier": "1909-f-131213",
+          "notation_codictFunctionId": "131213",
+          "memberDuring": {
+            "id": "time-period/20090716-20120118",
+            "type": "PeriodOfTime",
+            "endDate": "2012-01-18",
+            "startDate": "2009-07-16"
+          },
+          "organization": "org/2859",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-74454",
+          "type": "Membership",
+          "identifier": "1909-f-74454",
+          "notation_codictFunctionId": "74454",
+          "memberDuring": {
+            "id": "time-period/19940721-19940930",
+            "type": "PeriodOfTime",
+            "endDate": "1994-09-30",
+            "startDate": "1994-07-21"
+          },
+          "organization": "org/106",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-143728",
+          "type": "Membership",
+          "identifier": "1909-f-143728",
+          "notation_codictFunctionId": "143728",
+          "memberDuring": {
+            "id": "time-period/20140701-20140706",
+            "type": "PeriodOfTime",
+            "endDate": "2014-07-06",
+            "startDate": "2014-07-01"
+          },
+          "organization": "org/3948",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-98526",
+          "type": "Membership",
+          "identifier": "1909-f-98526",
+          "notation_codictFunctionId": "98526",
+          "memberDuring": {
+            "id": "time-period/19990721-20020114",
+            "type": "PeriodOfTime",
+            "endDate": "2002-01-14",
+            "startDate": "1999-07-21"
+          },
+          "organization": "org/979",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-146588",
+          "type": "Membership",
+          "identifier": "1909-f-146588",
+          "notation_codictFunctionId": "146588",
+          "memberDuring": {
+            "id": "time-period/20140714-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2014-07-14"
+          },
+          "organization": "org/4197",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-102592",
+          "type": "Membership",
+          "identifier": "1909-f-102592",
+          "notation_codictFunctionId": "102592",
+          "memberDuring": {
+            "id": "time-period/20020117-20040719",
+            "type": "PeriodOfTime",
+            "endDate": "2004-07-19",
+            "startDate": "2002-01-17"
+          },
+          "organization": "org/1079",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-165697",
+          "type": "Membership",
+          "identifier": "1909-f-165697",
+          "notation_codictFunctionId": "165697",
+          "memberDuring": {
+            "id": "time-period/20220120-20220307",
+            "type": "PeriodOfTime",
+            "endDate": "2022-03-07",
+            "startDate": "2022-01-20"
+          },
+          "organization": "org/6359",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-145183",
+          "type": "Membership",
+          "identifier": "1909-f-145183",
+          "notation_codictFunctionId": "145183",
+          "memberDuring": {
+            "id": "time-period/20140707-20170118",
+            "type": "PeriodOfTime",
+            "endDate": "2017-01-18",
+            "startDate": "2014-07-07"
+          },
+          "organization": "org/3971",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/1909-m-17061",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "1909-m-17061",
+          "notation_codictMandateId": "17061",
+          "contactPoint": [
+            {
+              "id": "contact-point/1909-m-17061-12G301",
+              "type": "ContactPoint",
+              "officeAddress": "12G301",
+              "hasTelephone": "tel/003222845555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/1909-m-17061-T12046",
+              "type": "ContactPoint",
+              "officeAddress": "T12046",
+              "hasTelephone": "tel/0033388175555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/1909-f-145131",
+          "type": "Membership",
+          "identifier": "1909-f-145131",
+          "notation_codictFunctionId": "145131",
+          "memberDuring": {
+            "id": "time-period/20140707-20170118",
+            "type": "PeriodOfTime",
+            "endDate": "2017-01-18",
+            "startDate": "2014-07-07"
+          },
+          "organization": "org/3948",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-129803",
+          "type": "Membership",
+          "identifier": "1909-f-129803",
+          "notation_codictFunctionId": "129803",
+          "memberDuring": {
+            "id": "time-period/20090714-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2009-07-14"
+          },
+          "organization": "org/ep-7",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/1909-f-107017",
+          "type": "Membership",
+          "identifier": "1909-f-107017",
+          "notation_codictFunctionId": "107017",
+          "memberDuring": {
+            "id": "time-period/19990720-20040719",
+            "type": "PeriodOfTime",
+            "endDate": "2004-07-19",
+            "startDate": "1999-07-20"
+          },
+          "organization": "org/741",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-146867",
+          "type": "Membership",
+          "identifier": "1909-f-146867",
+          "notation_codictFunctionId": "146867",
+          "memberDuring": {
+            "id": "time-period/20140714-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2014-07-14"
+          },
+          "organization": "org/4204",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/1909-f-156635",
+          "type": "Membership",
+          "identifier": "1909-f-156635",
+          "notation_codictFunctionId": "156635",
+          "memberDuring": {
+            "id": "time-period/20190702-20190709",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-09",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5083",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-134827",
+          "type": "Membership",
+          "identifier": "1909-f-134827",
+          "notation_codictFunctionId": "134827",
+          "memberDuring": {
+            "id": "time-period/20100616-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2010-06-16"
+          },
+          "organization": "org/3649",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/1909-f-173879",
+          "type": "Membership",
+          "identifier": "1909-f-173879",
+          "notation_codictFunctionId": "173879",
+          "memberDuring": {
+            "id": "time-period/20240719-20240722",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-22",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-133437",
+          "type": "Membership",
+          "identifier": "1909-f-133437",
+          "notation_codictFunctionId": "133437",
+          "memberDuring": {
+            "id": "time-period/20090916-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2009-09-16"
+          },
+          "organization": "org/2908",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-84474",
+          "type": "Membership",
+          "identifier": "1909-f-84474",
+          "notation_codictFunctionId": "84474",
+          "memberDuring": {
+            "id": "time-period/19970116-19971013",
+            "type": "PeriodOfTime",
+            "endDate": "1997-10-13",
+            "startDate": "1997-01-16"
+          },
+          "organization": "org/390",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-149708",
+          "type": "Membership",
+          "identifier": "1909-f-149708",
+          "notation_codictFunctionId": "149708",
+          "memberDuring": {
+            "id": "time-period/20170119-20170122",
+            "type": "PeriodOfTime",
+            "endDate": "2017-01-22",
+            "startDate": "2017-01-19"
+          },
+          "organization": "org/4959",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-159251",
+          "type": "Membership",
+          "identifier": "1909-f-159251",
+          "notation_codictFunctionId": "159251",
+          "memberDuring": {
+            "id": "time-period/20190702-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5123",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-156380",
+          "type": "Membership",
+          "identifier": "1909-f-156380",
+          "notation_codictFunctionId": "156380",
+          "memberDuring": {
+            "id": "time-period/20190702-20211214",
+            "type": "PeriodOfTime",
+            "endDate": "2021-12-14",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5154",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-151401",
+          "type": "Membership",
+          "identifier": "1909-f-151401",
+          "notation_codictFunctionId": "151401",
+          "memberDuring": {
+            "id": "time-period/20170123-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2017-01-23"
+          },
+          "organization": "org/5010",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/1909-f-162494",
+          "type": "Membership",
+          "identifier": "1909-f-162494",
+          "notation_codictFunctionId": "162494",
+          "memberDuring": {
+            "id": "time-period/20200517-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2020-05-17"
+          },
+          "organization": "org/6289",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/1909-f-141256",
+          "type": "Membership",
+          "identifier": "1909-f-141256",
+          "notation_codictFunctionId": "141256",
+          "memberDuring": {
+            "id": "time-period/20140701-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2014-07-01"
+          },
+          "organization": "org/ep-8",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/1909-f-175102",
+          "type": "Membership",
+          "identifier": "1909-f-175102",
+          "notation_codictFunctionId": "175102",
+          "memberDuring": {
+            "id": "time-period/20240723-20240723",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-23",
+            "startDate": "2024-07-23"
+          },
+          "organization": "org/6633",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/1909-m-14450",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "1909-m-14450",
+          "notation_codictMandateId": "14450",
+          "contactPoint": [
+            {
+              "id": "contact-point/1909-m-14450-T12046",
+              "type": "ContactPoint",
+              "officeAddress": "T12046",
+              "hasTelephone": "tel/0033388175555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/1909-m-14450-12G301",
+              "type": "ContactPoint",
+              "officeAddress": "12G301",
+              "hasTelephone": "tel/003222845555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20090714-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2009-07-14"
+          },
+          "organization": "org/ep-7",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/1909-f-163951",
+          "type": "Membership",
+          "identifier": "1909-f-163951",
+          "notation_codictFunctionId": "163951",
+          "memberDuring": {
+            "id": "time-period/20200205-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2020-02-05"
+          },
+          "organization": "org/6309",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/1909-f-157245",
+          "type": "Membership",
+          "identifier": "1909-f-157245",
+          "notation_codictFunctionId": "157245",
+          "memberDuring": {
+            "id": "time-period/20190702-20220119",
+            "type": "PeriodOfTime",
+            "endDate": "2022-01-19",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5089",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-176025",
+          "type": "Membership",
+          "identifier": "1909-f-176025",
+          "notation_codictFunctionId": "176025",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6615",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-137324",
+          "type": "Membership",
+          "identifier": "1909-f-137324",
+          "notation_codictFunctionId": "137324",
+          "memberDuring": {
+            "id": "time-period/20120119-20140630",
+            "type": "PeriodOfTime",
+            "endDate": "2014-06-30",
+            "startDate": "2012-01-19"
+          },
+          "organization": "org/3746",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-172311",
+          "type": "Membership",
+          "identifier": "1909-f-172311",
+          "notation_codictFunctionId": "172311",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7038",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-169907",
+          "type": "Membership",
+          "identifier": "1909-f-169907",
+          "notation_codictFunctionId": "169907",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/1909-f-178985",
+          "type": "Membership",
+          "identifier": "1909-f-178985",
+          "notation_codictFunctionId": "178985",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7894",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/1909-m-15261",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "1909-m-15261",
+          "notation_codictMandateId": "15261",
+          "contactPoint": [
+            {
+              "id": "contact-point/1909-m-15261-T12046",
+              "type": "ContactPoint",
+              "officeAddress": "T12046",
+              "hasTelephone": "tel/0033388175555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/1909-m-15261-12G301",
+              "type": "ContactPoint",
+              "officeAddress": "12G301",
+              "hasTelephone": "tel/003222845555",
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20140701-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2014-07-01"
+          },
+          "organization": "org/ep-8",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/1909-f-97444",
+          "type": "Membership",
+          "identifier": "1909-f-97444",
+          "notation_codictFunctionId": "97444",
+          "memberDuring": {
+            "id": "time-period/19990720-20040719",
+            "type": "PeriodOfTime",
+            "endDate": "2004-07-19",
+            "startDate": "1999-07-20"
+          },
+          "organization": "org/ep-5",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/1909-f-74843",
+          "type": "Membership",
+          "identifier": "1909-f-74843",
+          "notation_codictFunctionId": "74843",
+          "memberDuring": {
+            "id": "time-period/19940721-19970115",
+            "type": "PeriodOfTime",
+            "endDate": "1997-01-15",
+            "startDate": "1994-07-21"
+          },
+          "organization": "org/102",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-175112",
+          "type": "Membership",
+          "identifier": "1909-f-175112",
+          "notation_codictFunctionId": "175112",
+          "memberDuring": {
+            "id": "time-period/20240724",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-24"
+          },
+          "organization": "org/6633",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/1909-f-165041",
+          "type": "Membership",
+          "identifier": "1909-f-165041",
+          "notation_codictFunctionId": "165041",
+          "memberDuring": {
+            "id": "time-period/20220120-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-01-20"
+          },
+          "organization": "org/6352",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-145411",
+          "type": "Membership",
+          "identifier": "1909-f-145411",
+          "notation_codictFunctionId": "145411",
+          "memberDuring": {
+            "id": "time-period/20140708-20170118",
+            "type": "PeriodOfTime",
+            "endDate": "2017-01-18",
+            "startDate": "2014-07-08"
+          },
+          "organization": "org/3954",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-107018",
+          "type": "Membership",
+          "identifier": "1909-f-107018",
+          "notation_codictFunctionId": "107018",
+          "memberDuring": {
+            "id": "time-period/19940719-19990719",
+            "type": "PeriodOfTime",
+            "endDate": "1999-07-19",
+            "startDate": "1994-07-19"
+          },
+          "organization": "org/741",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-103391",
+          "type": "Membership",
+          "identifier": "1909-f-103391",
+          "notation_codictFunctionId": "103391",
+          "memberDuring": {
+            "id": "time-period/20020117-20040719",
+            "type": "PeriodOfTime",
+            "endDate": "2004-07-19",
+            "startDate": "2002-01-17"
+          },
+          "organization": "org/1077",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/1909-f-147415",
+          "type": "Membership",
+          "identifier": "1909-f-147415",
+          "notation_codictFunctionId": "147415",
+          "memberDuring": {
+            "id": "time-period/20141010-20190701",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-01",
+            "startDate": "2014-10-10"
+          },
+          "organization": "org/4187",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/1909-f-167704",
+          "type": "Membership",
+          "identifier": "1909-f-167704",
+          "notation_codictFunctionId": "167704",
+          "memberDuring": {
+            "id": "time-period/20211215-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2021-12-15"
+          },
+          "organization": "org/5154",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/1909-f-158384",
+          "type": "Membership",
+          "identifier": "1909-f-158384",
+          "notation_codictFunctionId": "158384",
+          "memberDuring": {
+            "id": "time-period/20190710-20220119",
+            "type": "PeriodOfTime",
+            "endDate": "2022-01-19",
+            "startDate": "2019-07-10"
+          },
+          "organization": "org/5083",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Oldenburg",
+      "account": [
+        {
+          "id": "https://www.facebook.com/bernd.lange.europa/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBP"
+        },
+        {
+          "id": "https://twitter.com/berndlange",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Lange",
+      "givenName": "Bernd",
+      "img": "https://www.europarl.europa.eu/mepphoto/1909.jpg",
+      "sortLabel": "LANGE BERND",
+      "upperFamilyName": "LANGE",
+      "upperGivenName": "BERND"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

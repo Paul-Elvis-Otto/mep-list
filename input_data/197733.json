@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "id": "person/197733",
+      "type": "Person",
+      "identifier": "197733",
+      "label": "Robert ROWLAND",
+      "notation_codictPersonId": "197733",
+      "bday": "1966-02-28",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/197733-f-158576",
+          "type": "Membership",
+          "identifier": "197733-f-158576",
+          "notation_codictFunctionId": "158576",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5104",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/197733-m-16428",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GBR"
+          ],
+          "identifier": "197733-m-16428",
+          "notation_codictMandateId": "16428",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/197733-f-158948",
+          "type": "Membership",
+          "identifier": "197733-f-158948",
+          "notation_codictFunctionId": "158948",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5116",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/197733-f-156883",
+          "type": "Membership",
+          "identifier": "197733-f-156883",
+          "notation_codictFunctionId": "156883",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5086",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197733-f-160257",
+          "type": "Membership",
+          "identifier": "197733-f-160257",
+          "notation_codictFunctionId": "160257",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5141",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/197733-f-157281",
+          "type": "Membership",
+          "identifier": "197733-f-157281",
+          "notation_codictFunctionId": "157281",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5089",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197733-f-154772",
+          "type": "Membership",
+          "identifier": "197733-f-154772",
+          "notation_codictFunctionId": "154772",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/197733-f-154774",
+          "type": "Membership",
+          "identifier": "197733-f-154774",
+          "notation_codictFunctionId": "154774",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5152",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197733-f-154773",
+          "type": "Membership",
+          "identifier": "197733-f-154773",
+          "notation_codictFunctionId": "154773",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5506",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GBR",
+      "placeOfBirth": "BOWDON",
+      "familyName": "Rowland",
+      "givenName": "Robert",
+      "img": "https://www.europarl.europa.eu/mepphoto/197733.jpg",
+      "deathDate": "2021-01-23",
+      "sortLabel": "ROWLAND",
+      "upperFamilyName": "ROWLAND",
+      "upperGivenName": "ROBERT"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

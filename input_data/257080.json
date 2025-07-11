@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "id": "person/257080",
+      "type": "Person",
+      "identifier": "257080",
+      "label": "Piotr MÜLLER",
+      "notation_codictPersonId": "257080",
+      "bday": "1989-05-02",
+      "hasEmail": "mailto:piotr.muller@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257080-f-172117",
+          "type": "Membership",
+          "identifier": "257080-f-172117",
+          "notation_codictFunctionId": "172117",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257080-f-171660",
+          "type": "Membership",
+          "identifier": "257080-f-171660",
+          "notation_codictFunctionId": "171660",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6702",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257080-f-173663",
+          "type": "Membership",
+          "identifier": "257080-f-173663",
+          "notation_codictFunctionId": "173663",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257080-f-170491",
+          "type": "Membership",
+          "identifier": "257080-f-170491",
+          "notation_codictFunctionId": "170491",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257080-f-175767",
+          "type": "Membership",
+          "identifier": "257080-f-175767",
+          "notation_codictFunctionId": "175767",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6610",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257080-f-180215",
+          "type": "Membership",
+          "identifier": "257080-f-180215",
+          "notation_codictFunctionId": "180215",
+          "memberDuring": {
+            "id": "time-period/20250318",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-18"
+          },
+          "organization": "org/6619",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257080-f-174271",
+          "type": "Membership",
+          "identifier": "257080-f-174271",
+          "notation_codictFunctionId": "174271",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6583",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257080-m-17355",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/POL"
+          ],
+          "identifier": "257080-m-17355",
+          "notation_codictMandateId": "17355",
+          "contactPoint": [
+            {
+              "id": "contact-point/257080-m-17355-M06084",
+              "type": "ContactPoint",
+              "officeAddress": "M06084",
+              "hasTelephone": {
+                "id": "tel/0033388175776",
+                "type": "Voice",
+                "hasValue": "tel:+33388175776"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            },
+            {
+              "id": "contact-point/257080-m-17355-06U001",
+              "type": "ContactPoint",
+              "officeAddress": "06U001",
+              "hasTelephone": {
+                "id": "tel/003222845776",
+                "type": "Voice",
+                "hasValue": "tel:+3222845776"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIE"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257080-f-176041",
+          "type": "Membership",
+          "identifier": "257080-f-176041",
+          "notation_codictFunctionId": "176041",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6616",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/POL",
+      "placeOfBirth": "Słupsk",
+      "account": [
+        {
+          "id": "https://www.facebook.com/piotr.muller",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://twitter.com/PiotrMuller",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Müller",
+      "givenName": "Piotr",
+      "homepage": "https://piotrmuller.pl/",
+      "img": "https://www.europarl.europa.eu/mepphoto/257080.jpg",
+      "sortLabel": "MULLERP",
+      "upperFamilyName": "MÜLLER",
+      "upperGivenName": "PIOTR"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

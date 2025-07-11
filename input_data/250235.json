@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "id": "person/250235",
+      "type": "Person",
+      "identifier": "250235",
+      "label": "Witold PAHL",
+      "notation_codictPersonId": "250235",
+      "bday": "1961-12-07",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/250235-f-168694",
+          "type": "Membership",
+          "identifier": "250235-f-168694",
+          "notation_codictFunctionId": "168694",
+          "memberDuring": {
+            "id": "time-period/20231121-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-21"
+          },
+          "organization": "org/6368",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250235-f-168716",
+          "type": "Membership",
+          "identifier": "250235-f-168716",
+          "notation_codictFunctionId": "168716",
+          "memberDuring": {
+            "id": "time-period/20231206-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-06"
+          },
+          "organization": "org/5131",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/250235-f-168735",
+          "type": "Membership",
+          "identifier": "250235-f-168735",
+          "notation_codictFunctionId": "168735",
+          "memberDuring": {
+            "id": "time-period/20231211-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-11"
+          },
+          "organization": "org/5144",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/250235-f-168693",
+          "type": "Membership",
+          "identifier": "250235-f-168693",
+          "notation_codictFunctionId": "168693",
+          "memberDuring": {
+            "id": "time-period/20231121-20231205",
+            "type": "PeriodOfTime",
+            "endDate": "2023-12-05",
+            "startDate": "2023-11-21"
+          },
+          "organization": "org/6360",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250235-f-168690",
+          "type": "Membership",
+          "identifier": "250235-f-168690",
+          "notation_codictFunctionId": "168690",
+          "memberDuring": {
+            "id": "time-period/20231116-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-16"
+          },
+          "organization": "org/5313",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/250235-m-16781",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/POL"
+          ],
+          "identifier": "250235-m-16781",
+          "notation_codictMandateId": "16781",
+          "memberDuring": {
+            "id": "time-period/20231116-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-16"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/250235-f-168698",
+          "type": "Membership",
+          "identifier": "250235-f-168698",
+          "notation_codictFunctionId": "168698",
+          "memberDuring": {
+            "id": "time-period/20231121-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-21"
+          },
+          "organization": "org/6349",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250235-f-168662",
+          "type": "Membership",
+          "identifier": "250235-f-168662",
+          "notation_codictFunctionId": "168662",
+          "memberDuring": {
+            "id": "time-period/20231116-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-16"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/250235-f-168664",
+          "type": "Membership",
+          "identifier": "250235-f-168664",
+          "notation_codictFunctionId": "168664",
+          "memberDuring": {
+            "id": "time-period/20231116-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-16"
+          },
+          "organization": "org/5153",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/POL",
+      "placeOfBirth": "Wrocław",
+      "familyName": "Pahl",
+      "givenName": "Witold",
+      "img": "https://www.europarl.europa.eu/mepphoto/250235.jpg",
+      "sortLabel": "PAHLW",
+      "upperFamilyName": "PAHL",
+      "upperGivenName": "WITOLD"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

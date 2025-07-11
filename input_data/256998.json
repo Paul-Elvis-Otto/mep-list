@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "id": "person/256998",
+      "type": "Person",
+      "identifier": "256998",
+      "label": "Rachel BLOM",
+      "notation_codictPersonId": "256998",
+      "bday": "1987-10-07",
+      "hasEmail": "mailto:rachel.blom@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256998-f-174402",
+          "type": "Membership",
+          "identifier": "256998-f-174402",
+          "notation_codictFunctionId": "174402",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6580",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256998-f-170236",
+          "type": "Membership",
+          "identifier": "256998-f-170236",
+          "notation_codictFunctionId": "170236",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256998-m-17228",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/NLD"
+          ],
+          "identifier": "256998-m-17228",
+          "notation_codictMandateId": "17228",
+          "contactPoint": [
+            {
+              "id": "contact-point/256998-m-17228-T03035",
+              "type": "ContactPoint",
+              "officeAddress": "T03035",
+              "hasTelephone": {
+                "id": "tel/0033388175262",
+                "type": "Voice",
+                "hasValue": "tel:+33388175262"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256998-m-17228-07M031",
+              "type": "ContactPoint",
+              "officeAddress": "07M031",
+              "hasTelephone": {
+                "id": "tel/003222845262",
+                "type": "Voice",
+                "hasValue": "tel:+3222845262"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256998-f-172599",
+          "type": "Membership",
+          "identifier": "256998-f-172599",
+          "notation_codictFunctionId": "172599",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256998-f-173961",
+          "type": "Membership",
+          "identifier": "256998-f-173961",
+          "notation_codictFunctionId": "173961",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256998-f-178121",
+          "type": "Membership",
+          "identifier": "256998-f-178121",
+          "notation_codictFunctionId": "178121",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7915",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_TEMPORARY"
+        },
+        {
+          "id": "membership/256998-f-175667",
+          "type": "Membership",
+          "identifier": "256998-f-175667",
+          "notation_codictFunctionId": "175667",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6605",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256998-f-175196",
+          "type": "Membership",
+          "identifier": "256998-f-175196",
+          "notation_codictFunctionId": "175196",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6590",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256998-f-171353",
+          "type": "Membership",
+          "identifier": "256998-f-171353",
+          "notation_codictFunctionId": "171353",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6696",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/NLD",
+      "placeOfBirth": "Rotterdam",
+      "familyName": "Blom",
+      "givenName": "Rachel",
+      "img": "https://www.europarl.europa.eu/mepphoto/256998.jpg",
+      "sortLabel": "BLOMR",
+      "upperFamilyName": "BLOM",
+      "upperGivenName": "RACHEL"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

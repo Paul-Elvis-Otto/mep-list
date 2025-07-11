@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "person/197642",
+      "type": "Person",
+      "identifier": "197642",
+      "label": "Ben HABIB",
+      "notation_codictPersonId": "197642",
+      "bday": "1965-06-07",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/197642-f-159407",
+          "type": "Membership",
+          "identifier": "197642-f-159407",
+          "notation_codictFunctionId": "159407",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5127",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/197642-f-154409",
+          "type": "Membership",
+          "identifier": "197642-f-154409",
+          "notation_codictFunctionId": "154409",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5152",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197642-f-154407",
+          "type": "Membership",
+          "identifier": "197642-f-154407",
+          "notation_codictFunctionId": "154407",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/197642-f-154408",
+          "type": "Membership",
+          "identifier": "197642-f-154408",
+          "notation_codictFunctionId": "154408",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5506",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197642-f-158569",
+          "type": "Membership",
+          "identifier": "197642-f-158569",
+          "notation_codictFunctionId": "158569",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5104",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/197642-f-156691",
+          "type": "Membership",
+          "identifier": "197642-f-156691",
+          "notation_codictFunctionId": "156691",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5084",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197642-f-156836",
+          "type": "Membership",
+          "identifier": "197642-f-156836",
+          "notation_codictFunctionId": "156836",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5086",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197642-m-16308",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GBR"
+          ],
+          "identifier": "197642-m-16308",
+          "notation_codictMandateId": "16308",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GBR",
+      "placeOfBirth": "Karachi",
+      "familyName": "Habib",
+      "givenName": "Ben",
+      "img": "https://www.europarl.europa.eu/mepphoto/197642.jpg",
+      "sortLabel": "HABIB",
+      "upperFamilyName": "HABIB",
+      "upperGivenName": "BEN"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

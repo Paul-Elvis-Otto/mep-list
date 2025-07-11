@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "id": "person/256991",
+      "type": "Person",
+      "identifier": "256991",
+      "label": "Sebastiaan STÖTELER",
+      "notation_codictPersonId": "256991",
+      "hasEmail": "mailto:sebastiaan.stoteler@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256991-f-175361",
+          "type": "Membership",
+          "identifier": "256991-f-175361",
+          "notation_codictFunctionId": "175361",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6597",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256991-f-176018",
+          "type": "Membership",
+          "identifier": "256991-f-176018",
+          "notation_codictFunctionId": "176018",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6615",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256991-f-175147",
+          "type": "Membership",
+          "identifier": "256991-f-175147",
+          "notation_codictFunctionId": "175147",
+          "memberDuring": {
+            "id": "time-period/20240916-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-09-16"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256991-f-178094",
+          "type": "Membership",
+          "identifier": "256991-f-178094",
+          "notation_codictFunctionId": "178094",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7911",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256991-f-173572",
+          "type": "Membership",
+          "identifier": "256991-f-173572",
+          "notation_codictFunctionId": "173572",
+          "memberDuring": {
+            "id": "time-period/20240719-20240915",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-15",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256991-f-172978",
+          "type": "Membership",
+          "identifier": "256991-f-172978",
+          "notation_codictFunctionId": "172978",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256991-f-174570",
+          "type": "Membership",
+          "identifier": "256991-f-174570",
+          "notation_codictFunctionId": "174570",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7006",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/256991-m-17214",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/NLD"
+          ],
+          "identifier": "256991-m-17214",
+          "notation_codictMandateId": "17214",
+          "contactPoint": [
+            {
+              "id": "contact-point/256991-m-17214-07M009",
+              "type": "ContactPoint",
+              "officeAddress": "07M009",
+              "hasTelephone": {
+                "id": "tel/003222845495",
+                "type": "Voice",
+                "hasValue": "tel:+3222845495"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            },
+            {
+              "id": "contact-point/256991-m-17214-T03051",
+              "type": "ContactPoint",
+              "officeAddress": "T03051",
+              "hasTelephone": {
+                "id": "tel/0033388175495",
+                "type": "Voice",
+                "hasValue": "tel:+33388175495"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256991-f-172581",
+          "type": "Membership",
+          "identifier": "256991-f-172581",
+          "notation_codictFunctionId": "172581",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256991-f-170209",
+          "type": "Membership",
+          "identifier": "256991-f-170209",
+          "notation_codictFunctionId": "170209",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256991-f-171351",
+          "type": "Membership",
+          "identifier": "256991-f-171351",
+          "notation_codictFunctionId": "171351",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6696",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256991-f-177768",
+          "type": "Membership",
+          "identifier": "256991-f-177768",
+          "notation_codictFunctionId": "177768",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/NLD",
+      "placeOfBirth": "Almelo",
+      "account": [
+        {
+          "id": "https://x.com/stoteler_pvv",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Stöteler",
+      "givenName": "Sebastiaan",
+      "img": "https://www.europarl.europa.eu/mepphoto/256991.jpg",
+      "sortLabel": "STOTELERS",
+      "upperFamilyName": "STÖTELER",
+      "upperGivenName": "SEBASTIAAN"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

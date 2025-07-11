@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "id": "person/256830",
+      "type": "Person",
+      "identifier": "256830",
+      "label": "Elisabeth GROSSMANN",
+      "notation_codictPersonId": "256830",
+      "bday": "1968-11-25",
+      "hasEmail": "mailto:elisabeth.grossmann@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256830-f-175459",
+          "type": "Membership",
+          "identifier": "256830-f-175459",
+          "notation_codictFunctionId": "175459",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6600",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256830-m-16865",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/AUT"
+          ],
+          "identifier": "256830-m-16865",
+          "notation_codictMandateId": "16865",
+          "contactPoint": [
+            {
+              "id": "contact-point/256830-m-16865-T05008",
+              "type": "ContactPoint",
+              "officeAddress": "T05008",
+              "hasTelephone": {
+                "id": "tel/0033388175594",
+                "type": "Voice",
+                "hasValue": "tel:+33388175594"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256830-m-16865-14G269",
+              "type": "ContactPoint",
+              "officeAddress": "14G269",
+              "hasTelephone": {
+                "id": "tel/003222845594",
+                "type": "Voice",
+                "hasValue": "tel:+3222845594"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256830-f-172697",
+          "type": "Membership",
+          "identifier": "256830-f-172697",
+          "notation_codictFunctionId": "172697",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7038",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256830-f-171681",
+          "type": "Membership",
+          "identifier": "256830-f-171681",
+          "notation_codictFunctionId": "171681",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6746",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256830-f-173328",
+          "type": "Membership",
+          "identifier": "256830-f-173328",
+          "notation_codictFunctionId": "173328",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256830-f-176322",
+          "type": "Membership",
+          "identifier": "256830-f-176322",
+          "notation_codictFunctionId": "176322",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6625",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256830-f-169516",
+          "type": "Membership",
+          "identifier": "256830-f-169516",
+          "notation_codictFunctionId": "169516",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256830-f-174753",
+          "type": "Membership",
+          "identifier": "256830-f-174753",
+          "notation_codictFunctionId": "174753",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6588",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256830-f-179251",
+          "type": "Membership",
+          "identifier": "256830-f-179251",
+          "notation_codictFunctionId": "179251",
+          "memberDuring": {
+            "id": "time-period/20250205",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-05"
+          },
+          "organization": "org/7908",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256830-f-179396",
+          "type": "Membership",
+          "identifier": "256830-f-179396",
+          "notation_codictFunctionId": "179396",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7906",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256830-f-178758",
+          "type": "Membership",
+          "identifier": "256830-f-178758",
+          "notation_codictFunctionId": "178758",
+          "memberDuring": {
+            "id": "time-period/20250130",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-30"
+          },
+          "organization": "org/7907",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256830-f-178968",
+          "type": "Membership",
+          "identifier": "256830-f-178968",
+          "notation_codictFunctionId": "178968",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7894",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256830-f-178663",
+          "type": "Membership",
+          "identifier": "256830-f-178663",
+          "notation_codictFunctionId": "178663",
+          "memberDuring": {
+            "id": "time-period/20250129",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-29"
+          },
+          "organization": "org/7895",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/AUT",
+      "placeOfBirth": "Graz",
+      "familyName": "Grossmann",
+      "givenName": "Elisabeth",
+      "img": "https://www.europarl.europa.eu/mepphoto/256830.jpg",
+      "sortLabel": "GROSSMANNE",
+      "upperFamilyName": "GROSSMANN",
+      "upperGivenName": "ELISABETH"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

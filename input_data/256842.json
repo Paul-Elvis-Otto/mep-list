@@ -1,0 +1,306 @@
+{
+  "data": [
+    {
+      "id": "person/256842",
+      "type": "Person",
+      "identifier": "256842",
+      "label": "Gerald HAUSER",
+      "notation_codictPersonId": "256842",
+      "bday": "1961-09-30",
+      "hasEmail": "mailto:gerald.hauser@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256842-m-16888",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/AUT"
+          ],
+          "identifier": "256842-m-16888",
+          "notation_codictMandateId": "16888",
+          "contactPoint": [
+            {
+              "id": "contact-point/256842-m-16888-07M081",
+              "type": "ContactPoint",
+              "officeAddress": "07M081",
+              "hasTelephone": {
+                "id": "tel/003222845844",
+                "type": "Voice",
+                "hasValue": "tel:+3222845844"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            },
+            {
+              "id": "contact-point/256842-m-16888-G07025",
+              "type": "ContactPoint",
+              "officeAddress": "G07025",
+              "hasTelephone": {
+                "id": "tel/0033388175844",
+                "type": "Voice",
+                "hasValue": "tel:+33388175844"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256842-f-178103",
+          "type": "Membership",
+          "identifier": "256842-f-178103",
+          "notation_codictFunctionId": "178103",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7912",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256842-f-179778",
+          "type": "Membership",
+          "identifier": "256842-f-179778",
+          "notation_codictFunctionId": "179778",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256842-f-172267",
+          "type": "Membership",
+          "identifier": "256842-f-172267",
+          "notation_codictFunctionId": "172267",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6747",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256842-f-177587",
+          "type": "Membership",
+          "identifier": "256842-f-177587",
+          "notation_codictFunctionId": "177587",
+          "memberDuring": {
+            "id": "time-period/20241212",
+            "type": "PeriodOfTime",
+            "startDate": "2024-12-12"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256842-f-177465",
+          "type": "Membership",
+          "identifier": "256842-f-177465",
+          "notation_codictFunctionId": "177465",
+          "memberDuring": {
+            "id": "time-period/20241021",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-21"
+          },
+          "organization": "org/6595",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256842-f-174645",
+          "type": "Membership",
+          "identifier": "256842-f-174645",
+          "notation_codictFunctionId": "174645",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7008",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/256842-f-176681",
+          "type": "Membership",
+          "identifier": "256842-f-176681",
+          "notation_codictFunctionId": "176681",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6569",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256842-f-175224",
+          "type": "Membership",
+          "identifier": "256842-f-175224",
+          "notation_codictFunctionId": "175224",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6592",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256842-f-174385",
+          "type": "Membership",
+          "identifier": "256842-f-174385",
+          "notation_codictFunctionId": "174385",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6582",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256842-f-172623",
+          "type": "Membership",
+          "identifier": "256842-f-172623",
+          "notation_codictFunctionId": "172623",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256842-f-177581",
+          "type": "Membership",
+          "identifier": "256842-f-177581",
+          "notation_codictFunctionId": "177581",
+          "memberDuring": {
+            "id": "time-period/20241212",
+            "type": "PeriodOfTime",
+            "startDate": "2024-12-12"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256842-f-175167",
+          "type": "Membership",
+          "identifier": "256842-f-175167",
+          "notation_codictFunctionId": "175167",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6589",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256842-f-169562",
+          "type": "Membership",
+          "identifier": "256842-f-169562",
+          "notation_codictFunctionId": "169562",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256842-f-177788",
+          "type": "Membership",
+          "identifier": "256842-f-177788",
+          "notation_codictFunctionId": "177788",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256842-f-173382",
+          "type": "Membership",
+          "identifier": "256842-f-173382",
+          "notation_codictFunctionId": "173382",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/AUT",
+      "placeOfBirth": "St. Jakob im Defereqqental",
+      "account": [
+        {
+          "id": "https://www.instagram.com/fpoe_gerald.hauser/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.youtube.com/@GeraldHauser_fpoe",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/YTB"
+        },
+        {
+          "id": "https://www.facebook.com/gerald.hauser.1829/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://t.me/GeraldHauser/2432",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TLG"
+        }
+      ],
+      "familyName": "Hauser",
+      "givenName": "Gerald",
+      "img": "https://www.europarl.europa.eu/mepphoto/256842.jpg",
+      "sortLabel": "HAUSERG",
+      "upperFamilyName": "HAUSER",
+      "upperGivenName": "GERALD"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": "person/249826",
+      "type": "Person",
+      "identifier": "249826",
+      "label": "Jozef MIHÁL",
+      "notation_codictPersonId": "249826",
+      "bday": "1965-03-18",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/249826-f-168630",
+          "type": "Membership",
+          "identifier": "249826-f-168630",
+          "notation_codictFunctionId": "168630",
+          "memberDuring": {
+            "id": "time-period/20231026-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-10-26"
+          },
+          "organization": "org/5438",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/249826-f-168627",
+          "type": "Membership",
+          "identifier": "249826-f-168627",
+          "notation_codictFunctionId": "168627",
+          "memberDuring": {
+            "id": "time-period/20231026-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-10-26"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/249826-f-168684",
+          "type": "Membership",
+          "identifier": "249826-f-168684",
+          "notation_codictFunctionId": "168684",
+          "memberDuring": {
+            "id": "time-period/20231120-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-20"
+          },
+          "organization": "org/5106",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/249826-f-168628",
+          "type": "Membership",
+          "identifier": "249826-f-168628",
+          "notation_codictFunctionId": "168628",
+          "memberDuring": {
+            "id": "time-period/20231026-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-10-26"
+          },
+          "organization": "org/5704",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/249826-f-168659",
+          "type": "Membership",
+          "identifier": "249826-f-168659",
+          "notation_codictFunctionId": "168659",
+          "memberDuring": {
+            "id": "time-period/20231113-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-13"
+          },
+          "organization": "org/6354",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/249826-m-16779",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/SVK"
+          ],
+          "identifier": "249826-m-16779",
+          "notation_codictMandateId": "16779",
+          "memberDuring": {
+            "id": "time-period/20231026-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-10-26"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/249826-f-168643",
+          "type": "Membership",
+          "identifier": "249826-f-168643",
+          "notation_codictFunctionId": "168643",
+          "memberDuring": {
+            "id": "time-period/20231108-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-08"
+          },
+          "organization": "org/6356",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/SVK",
+      "placeOfBirth": "Nitra",
+      "familyName": "Mihál",
+      "givenName": "Jozef",
+      "img": "https://www.europarl.europa.eu/mepphoto/249826.jpg",
+      "sortLabel": "MIHALJ",
+      "upperFamilyName": "MIHÁL",
+      "upperGivenName": "JOZEF"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

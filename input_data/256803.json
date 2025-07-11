@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "id": "person/256803",
+      "type": "Person",
+      "identifier": "256803",
+      "label": "Maria GUZENINA",
+      "notation_codictPersonId": "256803",
+      "bday": "1969-01-12",
+      "hasEmail": "mailto:maria.guzenina@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256803-f-176029",
+          "type": "Membership",
+          "identifier": "256803-f-176029",
+          "notation_codictFunctionId": "176029",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6615",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256803-f-174666",
+          "type": "Membership",
+          "identifier": "256803-f-174666",
+          "notation_codictFunctionId": "174666",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256803-f-174521",
+          "type": "Membership",
+          "identifier": "256803-f-174521",
+          "notation_codictFunctionId": "174521",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6588",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256803-f-172292",
+          "type": "Membership",
+          "identifier": "256803-f-172292",
+          "notation_codictFunctionId": "172292",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7038",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256803-f-179656",
+          "type": "Membership",
+          "identifier": "256803-f-179656",
+          "notation_codictFunctionId": "179656",
+          "memberDuring": {
+            "id": "time-period/20250219",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-19"
+          },
+          "organization": "org/7886",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256803-f-178970",
+          "type": "Membership",
+          "identifier": "256803-f-178970",
+          "notation_codictFunctionId": "178970",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7894",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256803-f-171382",
+          "type": "Membership",
+          "identifier": "256803-f-171382",
+          "notation_codictFunctionId": "171382",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6672",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256803-m-16811",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FIN"
+          ],
+          "identifier": "256803-m-16811",
+          "notation_codictMandateId": "16811",
+          "contactPoint": [
+            {
+              "id": "contact-point/256803-m-16811-T05041",
+              "type": "ContactPoint",
+              "officeAddress": "T05041",
+              "hasTelephone": {
+                "id": "tel/0033388175595",
+                "type": "Voice",
+                "hasValue": "tel:+33388175595"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256803-m-16811-12G318",
+              "type": "ContactPoint",
+              "officeAddress": "12G318",
+              "hasTelephone": {
+                "id": "tel/003222845595",
+                "type": "Voice",
+                "hasValue": "tel:+3222845595"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256803-f-169407",
+          "type": "Membership",
+          "identifier": "256803-f-169407",
+          "notation_codictFunctionId": "169407",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256803-f-177869",
+          "type": "Membership",
+          "identifier": "256803-f-177869",
+          "notation_codictFunctionId": "177869",
+          "memberDuring": {
+            "id": "time-period/20250108",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-08"
+          },
+          "organization": "org/7896",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256803-f-173048",
+          "type": "Membership",
+          "identifier": "256803-f-173048",
+          "notation_codictFunctionId": "173048",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6584",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256803-f-175608",
+          "type": "Membership",
+          "identifier": "256803-f-175608",
+          "notation_codictFunctionId": "175608",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FIN",
+      "placeOfBirth": "Helsinki",
+      "account": [
+        {
+          "id": "https://x.com/guzenina",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/maria_guzenina/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.facebook.com/guzeninamaria/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Guzenina",
+      "givenName": "Maria",
+      "homepage": "https://mariaguzenina.fi/",
+      "img": "https://www.europarl.europa.eu/mepphoto/256803.jpg",
+      "sortLabel": "GUZENINAM",
+      "upperFamilyName": "GUZENINA",
+      "upperGivenName": "MARIA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

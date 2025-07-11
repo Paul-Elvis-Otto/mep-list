@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "id": "person/197752",
+      "type": "Person",
+      "identifier": "197752",
+      "label": "Christina Sheila JORDAN",
+      "notation_codictPersonId": "197752",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/197752-f-154856",
+          "type": "Membership",
+          "identifier": "197752-f-154856",
+          "notation_codictFunctionId": "154856",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5152",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197752-m-16456",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GBR"
+          ],
+          "identifier": "197752-m-16456",
+          "notation_codictMandateId": "16456",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/197752-f-157076",
+          "type": "Membership",
+          "identifier": "197752-f-157076",
+          "notation_codictFunctionId": "157076",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5088",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197752-f-154853",
+          "type": "Membership",
+          "identifier": "197752-f-154853",
+          "notation_codictFunctionId": "154853",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5506",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197752-f-154850",
+          "type": "Membership",
+          "identifier": "197752-f-154850",
+          "notation_codictFunctionId": "154850",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/197752-f-159364",
+          "type": "Membership",
+          "identifier": "197752-f-159364",
+          "notation_codictFunctionId": "159364",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5125",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GBR",
+      "placeOfBirth": "Johor Baru",
+      "familyName": "Jordan",
+      "givenName": "Christina Sheila",
+      "img": "https://www.europarl.europa.eu/mepphoto/197752.jpg",
+      "sortLabel": "JORDANC",
+      "upperFamilyName": "JORDAN",
+      "upperGivenName": "CHRISTINA SHEILA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

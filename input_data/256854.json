@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "person/256854",
+      "type": "Person",
+      "identifier": "256854",
+      "label": "Balázs GYŐRFFY",
+      "notation_codictPersonId": "256854",
+      "bday": "1979-04-21",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256854-f-172619",
+          "type": "Membership",
+          "identifier": "256854-f-172619",
+          "notation_codictFunctionId": "172619",
+          "memberDuring": {
+            "id": "time-period/20240716-20240901",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-01",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256854-f-173304",
+          "type": "Membership",
+          "identifier": "256854-f-173304",
+          "notation_codictFunctionId": "173304",
+          "memberDuring": {
+            "id": "time-period/20240719-20240901",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-01",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6582",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256854-f-174614",
+          "type": "Membership",
+          "identifier": "256854-f-174614",
+          "notation_codictFunctionId": "174614",
+          "memberDuring": {
+            "id": "time-period/20240719-20240901",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-01",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6583",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256854-m-16900",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/HUN"
+          ],
+          "identifier": "256854-m-16900",
+          "notation_codictMandateId": "16900",
+          "memberDuring": {
+            "id": "time-period/20240716-20240901",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-01",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256854-f-171948",
+          "type": "Membership",
+          "identifier": "256854-f-171948",
+          "notation_codictFunctionId": "171948",
+          "memberDuring": {
+            "id": "time-period/20240716-20240901",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-01",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6737",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256854-f-169586",
+          "type": "Membership",
+          "identifier": "256854-f-169586",
+          "notation_codictFunctionId": "169586",
+          "memberDuring": {
+            "id": "time-period/20240716-20240901",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-01",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/HUN",
+      "placeOfBirth": "Papa",
+      "familyName": "Győrffy",
+      "givenName": "Balázs",
+      "img": "https://www.europarl.europa.eu/mepphoto/256854.jpg",
+      "sortLabel": "GYORFFYB",
+      "upperFamilyName": "GYŐRFFY",
+      "upperGivenName": "BALÁZS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "id": "person/99461",
+      "type": "Person",
+      "identifier": "99461",
+      "label": "Alexandra Lesley PHILLIPS",
+      "notation_codictPersonId": "99461",
+      "bday": "1983-12-26",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/99461-f-159572",
+          "type": "Membership",
+          "identifier": "99461-f-159572",
+          "notation_codictFunctionId": "159572",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5132",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/99461-f-154719",
+          "type": "Membership",
+          "identifier": "99461-f-154719",
+          "notation_codictFunctionId": "154719",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5506",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/99461-f-154717",
+          "type": "Membership",
+          "identifier": "99461-f-154717",
+          "notation_codictFunctionId": "154717",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/99461-f-159702",
+          "type": "Membership",
+          "identifier": "99461-f-159702",
+          "notation_codictFunctionId": "159702",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5142",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/99461-f-156491",
+          "type": "Membership",
+          "identifier": "99461-f-156491",
+          "notation_codictFunctionId": "156491",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5081",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/99461-f-154718",
+          "type": "Membership",
+          "identifier": "99461-f-154718",
+          "notation_codictFunctionId": "154718",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5152",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/99461-f-159375",
+          "type": "Membership",
+          "identifier": "99461-f-159375",
+          "notation_codictFunctionId": "159375",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5125",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/99461-m-16409",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GBR"
+          ],
+          "identifier": "99461-m-16409",
+          "notation_codictMandateId": "16409",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/99461-f-156572",
+          "type": "Membership",
+          "identifier": "99461-f-156572",
+          "notation_codictFunctionId": "156572",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5082",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GBR",
+      "placeOfBirth": "Gloucester",
+      "familyName": "Phillips",
+      "givenName": "Alexandra Lesley",
+      "img": "https://www.europarl.europa.eu/mepphoto/99461.jpg",
+      "sortLabel": "PHILLIPSA",
+      "upperFamilyName": "PHILLIPS",
+      "upperGivenName": "ALEXANDRA LESLEY"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

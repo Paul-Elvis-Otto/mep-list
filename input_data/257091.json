@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "id": "person/257091",
+      "type": "Person",
+      "identifier": "257091",
+      "label": "Dick ERIXON",
+      "notation_codictPersonId": "257091",
+      "hasEmail": "mailto:dick.erixon@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257091-f-170529",
+          "type": "Membership",
+          "identifier": "257091-f-170529",
+          "notation_codictFunctionId": "170529",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257091-m-17374",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/SWE"
+          ],
+          "identifier": "257091-m-17374",
+          "notation_codictMandateId": "17374",
+          "contactPoint": [
+            {
+              "id": "contact-point/257091-m-17374-M03052",
+              "type": "ContactPoint",
+              "officeAddress": "M03052",
+              "hasTelephone": {
+                "id": "tel/0033388175510",
+                "type": "Voice",
+                "hasValue": "tel:+33388175510"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            },
+            {
+              "id": "contact-point/257091-m-17374-01U021",
+              "type": "ContactPoint",
+              "officeAddress": "01U021",
+              "hasTelephone": {
+                "id": "tel/003222845510",
+                "type": "Voice",
+                "hasValue": "tel:+3222845510"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIE"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257091-f-173922",
+          "type": "Membership",
+          "identifier": "257091-f-173922",
+          "notation_codictFunctionId": "173922",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6563",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257091-f-171403",
+          "type": "Membership",
+          "identifier": "257091-f-171403",
+          "notation_codictFunctionId": "171403",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6810",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257091-f-174185",
+          "type": "Membership",
+          "identifier": "257091-f-174185",
+          "notation_codictFunctionId": "174185",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257091-f-172096",
+          "type": "Membership",
+          "identifier": "257091-f-172096",
+          "notation_codictFunctionId": "172096",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257091-f-173952",
+          "type": "Membership",
+          "identifier": "257091-f-173952",
+          "notation_codictFunctionId": "173952",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257091-f-175886",
+          "type": "Membership",
+          "identifier": "257091-f-175886",
+          "notation_codictFunctionId": "175886",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6612",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257091-f-175647",
+          "type": "Membership",
+          "identifier": "257091-f-175647",
+          "notation_codictFunctionId": "175647",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6605",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/SWE",
+      "placeOfBirth": "Stockholm",
+      "account": [
+        {
+          "id": "https://www.instagram.com/dickerixon/?hl=de",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.facebook.com/DickErixonEU",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://x.com/DickErixon",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Erixon",
+      "givenName": "Dick",
+      "homepage": "https://erixon.com/",
+      "img": "https://www.europarl.europa.eu/mepphoto/257091.jpg",
+      "sortLabel": "ERIXOND",
+      "upperFamilyName": "ERIXON",
+      "upperGivenName": "DICK"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

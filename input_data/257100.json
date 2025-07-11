@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "id": "person/257100",
+      "type": "Person",
+      "identifier": "257100",
+      "label": "Gheorghe CÂRCIU",
+      "notation_codictPersonId": "257100",
+      "bday": "1973-04-14",
+      "hasEmail": [
+        "mailto:gheorghe.carciu@europarl.europa.eu",
+        "mailto:gheorghe-florin.carciu@europarl.europa.eu"
+      ],
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257100-f-170602",
+          "type": "Membership",
+          "identifier": "257100-f-170602",
+          "notation_codictFunctionId": "170602",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257100-f-174888",
+          "type": "Membership",
+          "identifier": "257100-f-174888",
+          "notation_codictFunctionId": "174888",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6582",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257100-m-17412",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ROU"
+          ],
+          "identifier": "257100-m-17412",
+          "notation_codictMandateId": "17412",
+          "contactPoint": [
+            {
+              "id": "contact-point/257100-m-17412-13G242",
+              "type": "ContactPoint",
+              "officeAddress": "13G242",
+              "hasTelephone": {
+                "id": "tel/003222845287",
+                "type": "Voice",
+                "hasValue": "tel:+3222845287"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/257100-m-17412-T05069",
+              "type": "ContactPoint",
+              "officeAddress": "T05069",
+              "hasTelephone": {
+                "id": "tel/0033388175287",
+                "type": "Voice",
+                "hasValue": "tel:+33388175287"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257100-f-179062",
+          "type": "Membership",
+          "identifier": "257100-f-179062",
+          "notation_codictFunctionId": "179062",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7905",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257100-f-178435",
+          "type": "Membership",
+          "identifier": "257100-f-178435",
+          "notation_codictFunctionId": "178435",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7901",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257100-f-176557",
+          "type": "Membership",
+          "identifier": "257100-f-176557",
+          "notation_codictFunctionId": "176557",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6565",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/257100-f-171885",
+          "type": "Membership",
+          "identifier": "257100-f-171885",
+          "notation_codictFunctionId": "171885",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6708",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257100-f-172703",
+          "type": "Membership",
+          "identifier": "257100-f-172703",
+          "notation_codictFunctionId": "172703",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7038",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257100-f-175175",
+          "type": "Membership",
+          "identifier": "257100-f-175175",
+          "notation_codictFunctionId": "175175",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6589",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257100-f-173683",
+          "type": "Membership",
+          "identifier": "257100-f-173683",
+          "notation_codictFunctionId": "173683",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ROU",
+      "account": [
+        {
+          "id": "https://www.facebook.com/gheorgheflorincarciu/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Cârciu",
+      "givenName": "Gheorghe",
+      "img": "https://www.europarl.europa.eu/mepphoto/257100.jpg",
+      "sortLabel": "CARCIUG",
+      "upperFamilyName": "CÂRCIU",
+      "upperGivenName": "GHEORGHE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

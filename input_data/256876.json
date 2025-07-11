@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "id": "person/256876",
+      "type": "Person",
+      "identifier": "256876",
+      "label": "Anne-Sophie FRIGOUT",
+      "notation_codictPersonId": "256876",
+      "bday": "1991-04-11",
+      "hasEmail": "mailto:anne-sophie.frigout@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256876-f-175750",
+          "type": "Membership",
+          "identifier": "256876-f-175750",
+          "notation_codictFunctionId": "175750",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6608",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256876-f-177659",
+          "type": "Membership",
+          "identifier": "256876-f-177659",
+          "notation_codictFunctionId": "177659",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256876-f-177861",
+          "type": "Membership",
+          "identifier": "256876-f-177861",
+          "notation_codictFunctionId": "177861",
+          "memberDuring": {
+            "id": "time-period/20250108",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-08"
+          },
+          "organization": "org/7896",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256876-f-179771",
+          "type": "Membership",
+          "identifier": "256876-f-179771",
+          "notation_codictFunctionId": "179771",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256876-f-172272",
+          "type": "Membership",
+          "identifier": "256876-f-172272",
+          "notation_codictFunctionId": "172272",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256876-f-176427",
+          "type": "Membership",
+          "identifier": "256876-f-176427",
+          "notation_codictFunctionId": "176427",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6623",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256876-m-16940",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "256876-m-16940",
+          "notation_codictMandateId": "16940",
+          "contactPoint": [
+            {
+              "id": "contact-point/256876-m-16940-G06003",
+              "type": "ContactPoint",
+              "officeAddress": "G06003",
+              "hasTelephone": {
+                "id": "tel/0033388175753",
+                "type": "Voice",
+                "hasValue": "tel:+33388175753"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/256876-m-16940-05M033",
+              "type": "ContactPoint",
+              "officeAddress": "05M033",
+              "hasTelephone": {
+                "id": "tel/003222845753",
+                "type": "Voice",
+                "hasValue": "tel:+3222845753"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256876-f-172615",
+          "type": "Membership",
+          "identifier": "256876-f-172615",
+          "notation_codictFunctionId": "172615",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256876-f-174847",
+          "type": "Membership",
+          "identifier": "256876-f-174847",
+          "notation_codictFunctionId": "174847",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256876-f-169666",
+          "type": "Membership",
+          "identifier": "256876-f-169666",
+          "notation_codictFunctionId": "169666",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Reims",
+      "account": [
+        {
+          "id": "https://www.facebook.com/ASfrigout/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.instagram.com/annesophie_frigout/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://x.com/asfrigout?lang=de",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Frigout",
+      "givenName": "Anne-Sophie",
+      "homepage": "https://asfrigout.fr/",
+      "img": "https://www.europarl.europa.eu/mepphoto/256876.jpg",
+      "sortLabel": "FRIGOUTA",
+      "upperFamilyName": "FRIGOUT",
+      "upperGivenName": "ANNE-SOPHIE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

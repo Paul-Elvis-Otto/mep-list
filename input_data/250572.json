@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "id": "person/250572",
+      "type": "Person",
+      "identifier": "250572",
+      "label": "Patricia CARO MAYA",
+      "notation_codictPersonId": "250572",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/250572-f-168712",
+          "type": "Membership",
+          "identifier": "250572-f-168712",
+          "notation_codictFunctionId": "168712",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/5395",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/250572-f-169279",
+          "type": "Membership",
+          "identifier": "250572-f-169279",
+          "notation_codictFunctionId": "169279",
+          "memberDuring": {
+            "id": "time-period/20240315-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-15"
+          },
+          "organization": "org/6289",
+          "role": "def/ep-roles/CHAIR_CO",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/250572-m-16783",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ESP"
+          ],
+          "identifier": "250572-m-16783",
+          "notation_codictMandateId": "16783",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/250572-f-168994",
+          "type": "Membership",
+          "identifier": "250572-f-168994",
+          "notation_codictFunctionId": "168994",
+          "memberDuring": {
+            "id": "time-period/20240110-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-10"
+          },
+          "organization": "org/6360",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250572-f-168710",
+          "type": "Membership",
+          "identifier": "250572-f-168710",
+          "notation_codictFunctionId": "168710",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/250572-f-169056",
+          "type": "Membership",
+          "identifier": "250572-f-169056",
+          "notation_codictFunctionId": "169056",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6359",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250572-f-168711",
+          "type": "Membership",
+          "identifier": "250572-f-168711",
+          "notation_codictFunctionId": "168711",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/6259",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/250572-f-169057",
+          "type": "Membership",
+          "identifier": "250572-f-169057",
+          "notation_codictFunctionId": "169057",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6344",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ESP",
+      "familyName": "Caro Maya",
+      "givenName": "Patricia",
+      "img": "https://www.europarl.europa.eu/mepphoto/250572.jpg",
+      "sortLabel": "CAROMAYAP",
+      "upperFamilyName": "CARO MAYA",
+      "upperGivenName": "PATRICIA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

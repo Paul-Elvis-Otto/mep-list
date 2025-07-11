@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "id": "person/88552",
+      "type": "Person",
+      "identifier": "88552",
+      "label": "Julien SANCHEZ",
+      "notation_codictPersonId": "88552",
+      "bday": "1983-10-19",
+      "hasEmail": "mailto:julien.sanchez@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/88552-f-174066",
+          "type": "Membership",
+          "identifier": "88552-f-174066",
+          "notation_codictFunctionId": "174066",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/88552-f-179800",
+          "type": "Membership",
+          "identifier": "88552-f-179800",
+          "notation_codictFunctionId": "179800",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/88552-f-172648",
+          "type": "Membership",
+          "identifier": "88552-f-172648",
+          "notation_codictFunctionId": "172648",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/88552-m-16958",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "88552-m-16958",
+          "notation_codictMandateId": "16958",
+          "contactPoint": [
+            {
+              "id": "contact-point/88552-m-16958-G06048",
+              "type": "ContactPoint",
+              "officeAddress": "G06048",
+              "hasTelephone": {
+                "id": "tel/0033388175474",
+                "type": "Voice",
+                "hasValue": "tel:+33388175474"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/88552-m-16958-05M091",
+              "type": "ContactPoint",
+              "officeAddress": "05M091",
+              "hasTelephone": {
+                "id": "tel/003222845474",
+                "type": "Voice",
+                "hasValue": "tel:+3222845474"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/88552-f-175581",
+          "type": "Membership",
+          "identifier": "88552-f-175581",
+          "notation_codictFunctionId": "175581",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/88552-f-171924",
+          "type": "Membership",
+          "identifier": "88552-f-171924",
+          "notation_codictFunctionId": "171924",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/88552-f-173409",
+          "type": "Membership",
+          "identifier": "88552-f-173409",
+          "notation_codictFunctionId": "173409",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/88552-f-169702",
+          "type": "Membership",
+          "identifier": "88552-f-169702",
+          "notation_codictFunctionId": "169702",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/88552-f-175849",
+          "type": "Membership",
+          "identifier": "88552-f-175849",
+          "notation_codictFunctionId": "175849",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6611",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Argenteuil",
+      "account": [
+        {
+          "id": "https://www.linkedin.com/in/julien-sanchez-ba97a1a0/?originalSubdomain=fr",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/LNK"
+        },
+        {
+          "id": "https://x.com/jsanchez_rn?lang=en",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.facebook.com/p/Julien-Sanchez-100044874316374/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.instagram.com/jsanchez_rn/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Sanchez",
+      "givenName": "Julien",
+      "img": "https://www.europarl.europa.eu/mepphoto/88552.jpg",
+      "sortLabel": "SANCHEZJ",
+      "upperFamilyName": "SANCHEZ",
+      "upperGivenName": "JULIEN"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

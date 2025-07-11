@@ -1,0 +1,214 @@
+{
+  "data": [
+    {
+      "id": "person/257131",
+      "type": "Person",
+      "identifier": "257131",
+      "label": "Anna Maria CISINT",
+      "notation_codictPersonId": "257131",
+      "hasEmail": "mailto:anna.cisint@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/257131-f-174707",
+          "type": "Membership",
+          "identifier": "257131-f-174707",
+          "notation_codictFunctionId": "174707",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6580",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257131-f-173771",
+          "type": "Membership",
+          "identifier": "257131-f-173771",
+          "notation_codictFunctionId": "173771",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257131-f-174738",
+          "type": "Membership",
+          "identifier": "257131-f-174738",
+          "notation_codictFunctionId": "174738",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6583",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257131-f-172605",
+          "type": "Membership",
+          "identifier": "257131-f-172605",
+          "notation_codictFunctionId": "172605",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257131-f-170723",
+          "type": "Membership",
+          "identifier": "257131-f-170723",
+          "notation_codictFunctionId": "170723",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257131-m-17472",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ITA"
+          ],
+          "identifier": "257131-m-17472",
+          "notation_codictMandateId": "17472",
+          "contactPoint": [
+            {
+              "id": "contact-point/257131-m-17472-T03073",
+              "type": "ContactPoint",
+              "officeAddress": "T03073",
+              "hasTelephone": {
+                "id": "tel/0033388175569",
+                "type": "Voice",
+                "hasValue": "tel:+33388175569"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/257131-m-17472-04M035",
+              "type": "ContactPoint",
+              "officeAddress": "04M035",
+              "hasTelephone": {
+                "id": "tel/003222845569",
+                "type": "Voice",
+                "hasValue": "tel:+3222845569"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257131-f-179852",
+          "type": "Membership",
+          "identifier": "257131-f-179852",
+          "notation_codictFunctionId": "179852",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7885",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257131-f-174859",
+          "type": "Membership",
+          "identifier": "257131-f-174859",
+          "notation_codictFunctionId": "174859",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6588",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257131-f-175721",
+          "type": "Membership",
+          "identifier": "257131-f-175721",
+          "notation_codictFunctionId": "175721",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6607",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257131-f-171846",
+          "type": "Membership",
+          "identifier": "257131-f-171846",
+          "notation_codictFunctionId": "171846",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6870",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ITA",
+      "placeOfBirth": "Cormons",
+      "account": [
+        {
+          "id": "https://www.instagram.com/annacisint/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://x.com/annacisint?mx=2",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.facebook.com/cisintanna/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Cisint",
+      "givenName": "Anna Maria",
+      "img": "https://www.europarl.europa.eu/mepphoto/257131.jpg",
+      "sortLabel": "CISINTA",
+      "upperFamilyName": "CISINT",
+      "upperGivenName": "ANNA MARIA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "id": "person/257013",
+      "type": "Person",
+      "identifier": "257013",
+      "label": "Ľubica KARVAŠOVÁ",
+      "notation_codictPersonId": "257013",
+      "hasEmail": "mailto:lubica.karvasova@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/257013-m-17262",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/SVK"
+          ],
+          "identifier": "257013-m-17262",
+          "notation_codictMandateId": "17262",
+          "contactPoint": [
+            {
+              "id": "contact-point/257013-m-17262-M01088",
+              "type": "ContactPoint",
+              "officeAddress": "M01088",
+              "hasTelephone": {
+                "id": "tel/0033388175519",
+                "type": "Voice",
+                "hasValue": "tel:+33388175519"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            },
+            {
+              "id": "contact-point/257013-m-17262-08G146",
+              "type": "ContactPoint",
+              "officeAddress": "08G146",
+              "hasTelephone": {
+                "id": "tel/003222845519",
+                "type": "Voice",
+                "hasValue": "tel:+3222845519"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257013-f-171776",
+          "type": "Membership",
+          "identifier": "257013-f-171776",
+          "notation_codictFunctionId": "171776",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6874",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257013-f-170305",
+          "type": "Membership",
+          "identifier": "257013-f-170305",
+          "notation_codictFunctionId": "170305",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257013-f-172963",
+          "type": "Membership",
+          "identifier": "257013-f-172963",
+          "notation_codictFunctionId": "172963",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6587",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257013-f-176388",
+          "type": "Membership",
+          "identifier": "257013-f-176388",
+          "notation_codictFunctionId": "176388",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6628",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/257013-f-180251",
+          "type": "Membership",
+          "identifier": "257013-f-180251",
+          "notation_codictFunctionId": "180251",
+          "memberDuring": {
+            "id": "time-period/20250312",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-12"
+          },
+          "organization": "org/7893",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257013-f-172022",
+          "type": "Membership",
+          "identifier": "257013-f-172022",
+          "notation_codictFunctionId": "172022",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7035",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257013-f-176054",
+          "type": "Membership",
+          "identifier": "257013-f-176054",
+          "notation_codictFunctionId": "176054",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6616",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257013-f-174995",
+          "type": "Membership",
+          "identifier": "257013-f-174995",
+          "notation_codictFunctionId": "174995",
+          "memberDuring": {
+            "id": "time-period/20240723",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-23"
+          },
+          "organization": "org/6581",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257013-f-173225",
+          "type": "Membership",
+          "identifier": "257013-f-173225",
+          "notation_codictFunctionId": "173225",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257013-f-177166",
+          "type": "Membership",
+          "identifier": "257013-f-177166",
+          "notation_codictFunctionId": "177166",
+          "memberDuring": {
+            "id": "time-period/20240923",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-23"
+          },
+          "organization": "org/6611",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257013-f-174020",
+          "type": "Membership",
+          "identifier": "257013-f-174020",
+          "notation_codictFunctionId": "174020",
+          "memberDuring": {
+            "id": "time-period/20240719-20240722",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-22",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6581",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/SVK",
+      "account": [
+        {
+          "id": "https://twitter.com/lubicakarvasova?s=11",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.linkedin.com/in/lubica-karvasova/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/LNK"
+        },
+        {
+          "id": "https://www.instagram.com/lubicakarvasova/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.facebook.com/karvasovalubica",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Karvašová",
+      "givenName": "Ľubica",
+      "homepage": "https://progresivne.sk/kandidatka/lubica-karvasova/?europoslanec",
+      "img": "https://www.europarl.europa.eu/mepphoto/257013.jpg",
+      "sortLabel": "KARVASOVAL",
+      "upperFamilyName": "KARVAŠOVÁ",
+      "upperGivenName": "ĽUBICA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "data": [
+    {
+      "id": "person/257028",
+      "type": "Person",
+      "identifier": "257028",
+      "label": "Henrik DAHL",
+      "notation_codictPersonId": "257028",
+      "bday": "1960-02-20",
+      "hasEmail": "mailto:henrik.dahl@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257028-m-17294",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DNK"
+          ],
+          "identifier": "257028-m-17294",
+          "notation_codictMandateId": "17294",
+          "contactPoint": [
+            {
+              "id": "contact-point/257028-m-17294-08E254",
+              "type": "ContactPoint",
+              "officeAddress": "08E254",
+              "hasTelephone": {
+                "id": "tel/003222845259",
+                "type": "Voice",
+                "hasValue": "tel:+3222845259"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/257028-m-17294-T08073",
+              "type": "ContactPoint",
+              "officeAddress": "T08073",
+              "hasTelephone": {
+                "id": "tel/0033388175259",
+                "type": "Voice",
+                "hasValue": "tel:+33388175259"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257028-f-179558",
+          "type": "Membership",
+          "identifier": "257028-f-179558",
+          "notation_codictFunctionId": "179558",
+          "memberDuring": {
+            "id": "time-period/20250214",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-14"
+          },
+          "organization": "org/6585",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257028-f-174216",
+          "type": "Membership",
+          "identifier": "257028-f-174216",
+          "notation_codictFunctionId": "174216",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257028-f-177348",
+          "type": "Membership",
+          "identifier": "257028-f-177348",
+          "notation_codictFunctionId": "177348",
+          "memberDuring": {
+            "id": "time-period/20241007",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-07"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257028-f-173932",
+          "type": "Membership",
+          "identifier": "257028-f-173932",
+          "notation_codictFunctionId": "173932",
+          "memberDuring": {
+            "id": "time-period/20240719-20241006",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-06",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257028-f-172562",
+          "type": "Membership",
+          "identifier": "257028-f-172562",
+          "notation_codictFunctionId": "172562",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257028-f-170369",
+          "type": "Membership",
+          "identifier": "257028-f-170369",
+          "notation_codictFunctionId": "170369",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257028-f-176133",
+          "type": "Membership",
+          "identifier": "257028-f-176133",
+          "notation_codictFunctionId": "176133",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6619",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257028-f-180230",
+          "type": "Membership",
+          "identifier": "257028-f-180230",
+          "notation_codictFunctionId": "180230",
+          "memberDuring": {
+            "id": "time-period/20250312",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-12"
+          },
+          "organization": "org/7893",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257028-f-171357",
+          "type": "Membership",
+          "identifier": "257028-f-171357",
+          "notation_codictFunctionId": "171357",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6852",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257028-f-176461",
+          "type": "Membership",
+          "identifier": "257028-f-176461",
+          "notation_codictFunctionId": "176461",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DNK",
+      "placeOfBirth": "Aarhus",
+      "account": [
+        {
+          "id": "https://x.com/sociologenhd",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/denhenrikdahl/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Dahl",
+      "givenName": "Henrik",
+      "img": "https://www.europarl.europa.eu/mepphoto/257028.jpg",
+      "sortLabel": "DAHLH",
+      "upperFamilyName": "DAHL",
+      "upperGivenName": "HENRIK"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "id": "person/256908",
+      "type": "Person",
+      "identifier": "256908",
+      "label": "François KALFON",
+      "notation_codictPersonId": "256908",
+      "bday": "1968-06-11",
+      "hasEmail": "mailto:francois.kalfon@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256908-f-180082",
+          "type": "Membership",
+          "identifier": "256908-f-180082",
+          "notation_codictFunctionId": "180082",
+          "memberDuring": {
+            "id": "time-period/20250227",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-27"
+          },
+          "organization": "org/7892",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256908-f-178456",
+          "type": "Membership",
+          "identifier": "256908-f-178456",
+          "notation_codictFunctionId": "178456",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7901",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256908-f-178980",
+          "type": "Membership",
+          "identifier": "256908-f-178980",
+          "notation_codictFunctionId": "178980",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7894",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256908-f-179160",
+          "type": "Membership",
+          "identifier": "256908-f-179160",
+          "notation_codictFunctionId": "179160",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7891",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256908-f-179498",
+          "type": "Membership",
+          "identifier": "256908-f-179498",
+          "notation_codictFunctionId": "179498",
+          "memberDuring": {
+            "id": "time-period/20250127",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-27"
+          },
+          "organization": "org/7898",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256908-f-178800",
+          "type": "Membership",
+          "identifier": "256908-f-178800",
+          "notation_codictFunctionId": "178800",
+          "memberDuring": {
+            "id": "time-period/20250130",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-30"
+          },
+          "organization": "org/7907",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256908-f-175953",
+          "type": "Membership",
+          "identifier": "256908-f-175953",
+          "notation_codictFunctionId": "175953",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6609",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256908-f-172296",
+          "type": "Membership",
+          "identifier": "256908-f-172296",
+          "notation_codictFunctionId": "172296",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7038",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256908-m-17008",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "256908-m-17008",
+          "notation_codictMandateId": "17008",
+          "contactPoint": [
+            {
+              "id": "contact-point/256908-m-17008-T05070",
+              "type": "ContactPoint",
+              "officeAddress": "T05070",
+              "hasTelephone": {
+                "id": "tel/0033388175624",
+                "type": "Voice",
+                "hasValue": "tel:+33388175624"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256908-m-17008-11G115",
+              "type": "ContactPoint",
+              "officeAddress": "11G115",
+              "hasTelephone": {
+                "id": "tel/003222845624",
+                "type": "Voice",
+                "hasValue": "tel:+3222845624"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256908-f-177516",
+          "type": "Membership",
+          "identifier": "256908-f-177516",
+          "notation_codictFunctionId": "177516",
+          "memberDuring": {
+            "id": "time-period/20241106",
+            "type": "PeriodOfTime",
+            "startDate": "2024-11-06"
+          },
+          "organization": "org/6622",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256908-f-171641",
+          "type": "Membership",
+          "identifier": "256908-f-171641",
+          "notation_codictFunctionId": "171641",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6728",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256908-f-177486",
+          "type": "Membership",
+          "identifier": "256908-f-177486",
+          "notation_codictFunctionId": "177486",
+          "memberDuring": {
+            "id": "time-period/20241025",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-25"
+          },
+          "organization": "org/3730",
+          "role": "def/ep-roles/MEMBER"
+        },
+        {
+          "id": "membership/256908-f-169801",
+          "type": "Membership",
+          "identifier": "256908-f-169801",
+          "notation_codictFunctionId": "169801",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256908-f-173929",
+          "type": "Membership",
+          "identifier": "256908-f-173929",
+          "notation_codictFunctionId": "173929",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6580",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256908-f-174658",
+          "type": "Membership",
+          "identifier": "256908-f-174658",
+          "notation_codictFunctionId": "174658",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Sarcelles",
+      "account": [
+        {
+          "id": "https://x.com/francoiskalfon",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://fr.linkedin.com/in/fran%C3%A7ois-kalfon-85294a23",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/LNK"
+        },
+        {
+          "id": "https://www.instagram.com/francoiskalfon/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.youtube.com/@FrancoisKalfonMEP",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/YTB"
+        }
+      ],
+      "familyName": "Kalfon",
+      "givenName": "François",
+      "homepage": "https://www.francoiskalfon.fr/",
+      "img": "https://www.europarl.europa.eu/mepphoto/256908.jpg",
+      "sortLabel": "KALFONF",
+      "upperFamilyName": "KALFON",
+      "upperGivenName": "FRANÇOIS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

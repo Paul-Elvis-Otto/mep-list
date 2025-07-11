@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "id": "person/257107",
+      "type": "Person",
+      "identifier": "257107",
+      "label": "Virgil-Daniel POPESCU",
+      "notation_codictPersonId": "257107",
+      "bday": "1968-04-25",
+      "hasEmail": "mailto:virgil.popescu@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257107-f-172540",
+          "type": "Membership",
+          "identifier": "257107-f-172540",
+          "notation_codictFunctionId": "172540",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257107-f-177781",
+          "type": "Membership",
+          "identifier": "257107-f-177781",
+          "notation_codictFunctionId": "177781",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257107-f-171783",
+          "type": "Membership",
+          "identifier": "257107-f-171783",
+          "notation_codictFunctionId": "171783",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6709",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257107-f-175483",
+          "type": "Membership",
+          "identifier": "257107-f-175483",
+          "notation_codictFunctionId": "175483",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6601",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257107-m-17423",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ROU"
+          ],
+          "identifier": "257107-m-17423",
+          "notation_codictMandateId": "17423",
+          "contactPoint": [
+            {
+              "id": "contact-point/257107-m-17423-T13016",
+              "type": "ContactPoint",
+              "officeAddress": "T13016",
+              "hasTelephone": {
+                "id": "tel/0033388175954",
+                "type": "Voice",
+                "hasValue": "tel:+33388175954"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/257107-m-17423-11E102",
+              "type": "ContactPoint",
+              "officeAddress": "11E102",
+              "hasTelephone": {
+                "id": "tel/003222845954",
+                "type": "Voice",
+                "hasValue": "tel:+3222845954"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257107-f-170625",
+          "type": "Membership",
+          "identifier": "257107-f-170625",
+          "notation_codictFunctionId": "170625",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257107-f-173598",
+          "type": "Membership",
+          "identifier": "257107-f-173598",
+          "notation_codictFunctionId": "173598",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257107-f-174254",
+          "type": "Membership",
+          "identifier": "257107-f-174254",
+          "notation_codictFunctionId": "174254",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257107-f-173671",
+          "type": "Membership",
+          "identifier": "257107-f-173671",
+          "notation_codictFunctionId": "173671",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257107-f-175323",
+          "type": "Membership",
+          "identifier": "257107-f-175323",
+          "notation_codictFunctionId": "175323",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6596",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ROU",
+      "placeOfBirth": "Drobeta Turnu Severin",
+      "account": [
+        {
+          "id": "https://x.com/vpopescu68",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/virgil.popescu.mh/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Popescu",
+      "givenName": "Virgil-Daniel",
+      "img": "https://www.europarl.europa.eu/mepphoto/257107.jpg",
+      "sortLabel": "POPESCUV",
+      "upperFamilyName": "POPESCU",
+      "upperGivenName": "VIRGIL-DANIEL"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

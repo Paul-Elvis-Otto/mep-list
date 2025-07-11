@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": "person/197747",
+      "type": "Person",
+      "officialFamilyName": "Βελόπουλος",
+      "officialGivenName": "Κυριάκος",
+      "identifier": "197747",
+      "label": "Kyriakos VELOPOULOS",
+      "notation_codictPersonId": "197747",
+      "bday": "1965-10-24",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/197747-f-157153",
+          "type": "Membership",
+          "identifier": "197747-f-157153",
+          "notation_codictFunctionId": "157153",
+          "memberDuring": {
+            "id": "time-period/20190702-20190706",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-06",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5088",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197747-f-158134",
+          "type": "Membership",
+          "identifier": "197747-f-158134",
+          "notation_codictFunctionId": "158134",
+          "memberDuring": {
+            "id": "time-period/20190702-20190706",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-06",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5100",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197747-f-156656",
+          "type": "Membership",
+          "identifier": "197747-f-156656",
+          "notation_codictFunctionId": "156656",
+          "memberDuring": {
+            "id": "time-period/20190702-20190706",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-06",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5083",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197747-f-154829",
+          "type": "Membership",
+          "identifier": "197747-f-154829",
+          "notation_codictFunctionId": "154829",
+          "memberDuring": {
+            "id": "time-period/20190702-20190706",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-06",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/197747-f-154832",
+          "type": "Membership",
+          "identifier": "197747-f-154832",
+          "notation_codictFunctionId": "154832",
+          "memberDuring": {
+            "id": "time-period/20190702-20190706",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-06",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5534",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197747-f-156367",
+          "type": "Membership",
+          "identifier": "197747-f-156367",
+          "notation_codictFunctionId": "156367",
+          "memberDuring": {
+            "id": "time-period/20190702-20190706",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-06",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5148",
+          "role": "def/ep-roles/MEMBER_BUREAU",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197747-m-16448",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GRC"
+          ],
+          "identifier": "197747-m-16448",
+          "notation_codictMandateId": "16448",
+          "memberDuring": {
+            "id": "time-period/20190702-20190706",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-06",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GRC",
+      "placeOfBirth": "Essen",
+      "familyName": "Velopoulos",
+      "givenName": "Kyriakos",
+      "img": "https://www.europarl.europa.eu/mepphoto/197747.jpg",
+      "sortLabel": "VELOPOULOS",
+      "upperFamilyName": "VELOPOULOS",
+      "upperGivenName": "KYRIAKOS",
+      "upperOfficialFamilyName": "ΒΕΛΟΠΟΥΛΟΣ",
+      "upperOfficialGivenName": "ΚΥΡΙΑΚΟΣ"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

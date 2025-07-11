@@ -1,0 +1,223 @@
+{
+  "data": [
+    {
+      "id": "person/256871",
+      "type": "Person",
+      "identifier": "256871",
+      "label": "Malika SOREL",
+      "notation_codictPersonId": "256871",
+      "hasEmail": "mailto:malika.sorel@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256871-f-175854",
+          "type": "Membership",
+          "identifier": "256871-f-175854",
+          "notation_codictFunctionId": "175854",
+          "memberDuring": {
+            "id": "time-period/20240919-20250418",
+            "type": "PeriodOfTime",
+            "endDate": "2025-04-18",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6611",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256871-f-176472",
+          "type": "Membership",
+          "identifier": "256871-f-176472",
+          "notation_codictFunctionId": "176472",
+          "memberDuring": {
+            "id": "time-period/20240919-20250418",
+            "type": "PeriodOfTime",
+            "endDate": "2025-04-18",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256871-f-173042",
+          "type": "Membership",
+          "identifier": "256871-f-173042",
+          "notation_codictFunctionId": "173042",
+          "memberDuring": {
+            "id": "time-period/20240719-20250418",
+            "type": "PeriodOfTime",
+            "endDate": "2025-04-18",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256871-f-179802",
+          "type": "Membership",
+          "identifier": "256871-f-179802",
+          "notation_codictFunctionId": "179802",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256871-m-16926",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "256871-m-16926",
+          "notation_codictMandateId": "16926",
+          "contactPoint": [
+            {
+              "id": "contact-point/256871-m-16926-03E266",
+              "type": "ContactPoint",
+              "officeAddress": "03E266",
+              "hasTelephone": {
+                "id": "tel/003222845480",
+                "type": "Voice",
+                "hasValue": "tel:+3222845480"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/256871-m-16926-G00044",
+              "type": "ContactPoint",
+              "officeAddress": "G00044",
+              "hasTelephone": {
+                "id": "tel/0033388175480",
+                "type": "Voice",
+                "hasValue": "tel:+33388175480"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256871-f-173752",
+          "type": "Membership",
+          "identifier": "256871-f-173752",
+          "notation_codictFunctionId": "173752",
+          "memberDuring": {
+            "id": "time-period/20240719-20250418",
+            "type": "PeriodOfTime",
+            "endDate": "2025-04-18",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6584",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256871-f-175116",
+          "type": "Membership",
+          "identifier": "256871-f-175116",
+          "notation_codictFunctionId": "175116",
+          "memberDuring": {
+            "id": "time-period/20240717",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-17"
+          },
+          "organization": "org/7023",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256871-f-180357",
+          "type": "Membership",
+          "identifier": "256871-f-180357",
+          "notation_codictFunctionId": "180357",
+          "memberDuring": {
+            "id": "time-period/20250419",
+            "type": "PeriodOfTime",
+            "startDate": "2025-04-19"
+          },
+          "organization": "org/6561",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256871-f-172651",
+          "type": "Membership",
+          "identifier": "256871-f-172651",
+          "notation_codictFunctionId": "172651",
+          "memberDuring": {
+            "id": "time-period/20240716-20250418",
+            "type": "PeriodOfTime",
+            "endDate": "2025-04-18",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256871-f-169638",
+          "type": "Membership",
+          "identifier": "256871-f-169638",
+          "notation_codictFunctionId": "169638",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256871-f-171915",
+          "type": "Membership",
+          "identifier": "256871-f-171915",
+          "notation_codictFunctionId": "171915",
+          "memberDuring": {
+            "id": "time-period/20240716-20240716",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-16",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "account": [
+        {
+          "id": "http://www.malikasorel.fr/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/BLG"
+        }
+      ],
+      "familyName": "Sorel",
+      "givenName": "Malika",
+      "img": "https://www.europarl.europa.eu/mepphoto/256871.jpg",
+      "sortLabel": "SORELM",
+      "upperFamilyName": "SOREL",
+      "upperGivenName": "MALIKA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

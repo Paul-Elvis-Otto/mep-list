@@ -1,0 +1,201 @@
+{
+  "data": [
+    {
+      "id": "person/220897",
+      "type": "Person",
+      "identifier": "220897",
+      "label": "Petra STEGER",
+      "notation_codictPersonId": "220897",
+      "bday": "1987-10-04",
+      "hasEmail": "mailto:petra.steger@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/220897-f-176536",
+          "type": "Membership",
+          "identifier": "220897-f-176536",
+          "notation_codictFunctionId": "176536",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6565",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/220897-m-16892",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/AUT"
+          ],
+          "identifier": "220897-m-16892",
+          "notation_codictMandateId": "16892",
+          "contactPoint": [
+            {
+              "id": "contact-point/220897-m-16892-T02107",
+              "type": "ContactPoint",
+              "officeAddress": "T02107",
+              "hasTelephone": {
+                "id": "tel/0033388175484",
+                "type": "Voice",
+                "hasValue": "tel:+33388175484"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/220897-m-16892-07M089",
+              "type": "ContactPoint",
+              "officeAddress": "07M089",
+              "hasTelephone": {
+                "id": "tel/003222845484",
+                "type": "Voice",
+                "hasValue": "tel:+3222845484"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/220897-f-169570",
+          "type": "Membership",
+          "identifier": "220897-f-169570",
+          "notation_codictFunctionId": "169570",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/220897-f-178097",
+          "type": "Membership",
+          "identifier": "220897-f-178097",
+          "notation_codictFunctionId": "178097",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7911",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220897-f-173971",
+          "type": "Membership",
+          "identifier": "220897-f-173971",
+          "notation_codictFunctionId": "173971",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220897-f-176219",
+          "type": "Membership",
+          "identifier": "220897-f-176219",
+          "notation_codictFunctionId": "176219",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6622",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/220897-f-173095",
+          "type": "Membership",
+          "identifier": "220897-f-173095",
+          "notation_codictFunctionId": "173095",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220897-f-172653",
+          "type": "Membership",
+          "identifier": "220897-f-172653",
+          "notation_codictFunctionId": "172653",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/220897-f-171940",
+          "type": "Membership",
+          "identifier": "220897-f-171940",
+          "notation_codictFunctionId": "171940",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6747",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/AUT",
+      "placeOfBirth": "Vienna",
+      "account": [
+        {
+          "id": "https://www.youtube.com/@PetraSteger-hp1re",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/YTB"
+        },
+        {
+          "id": "https://www.facebook.com/stegerpetra",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.instagram.com/stegerpetra/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Steger",
+      "givenName": "Petra",
+      "img": "https://www.europarl.europa.eu/mepphoto/220897.jpg",
+      "sortLabel": "STEGERP",
+      "upperFamilyName": "STEGER",
+      "upperGivenName": "PETRA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

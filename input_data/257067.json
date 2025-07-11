@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "id": "person/257067",
+      "type": "Person",
+      "identifier": "257067",
+      "label": "Grzegorz BRAUN",
+      "notation_codictPersonId": "257067",
+      "bday": "1967-03-11",
+      "hasEmail": "mailto:grzegorz.braun@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257067-f-180335",
+          "type": "Membership",
+          "identifier": "257067-f-180335",
+          "notation_codictFunctionId": "180335",
+          "memberDuring": {
+            "id": "time-period/20250402",
+            "type": "PeriodOfTime",
+            "startDate": "2025-04-02"
+          },
+          "organization": "org/6628",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/257067-f-176376",
+          "type": "Membership",
+          "identifier": "257067-f-176376",
+          "notation_codictFunctionId": "176376",
+          "memberDuring": {
+            "id": "time-period/20240919-20250401",
+            "type": "PeriodOfTime",
+            "endDate": "2025-04-01",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6628",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/257067-f-173075",
+          "type": "Membership",
+          "identifier": "257067-f-173075",
+          "notation_codictFunctionId": "173075",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257067-m-17342",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/POL"
+          ],
+          "identifier": "257067-m-17342",
+          "notation_codictMandateId": "17342",
+          "contactPoint": [
+            {
+              "id": "contact-point/257067-m-17342-G00011",
+              "type": "ContactPoint",
+              "officeAddress": "G00011",
+              "hasTelephone": {
+                "id": "tel/0033388145444",
+                "type": "Voice",
+                "hasValue": "tel:+33388145444"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/257067-m-17342-06G340",
+              "type": "ContactPoint",
+              "officeAddress": "06G340",
+              "hasTelephone": {
+                "id": "tel/003222845444",
+                "type": "Voice",
+                "hasValue": "tel:+3222845444"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257067-f-174246",
+          "type": "Membership",
+          "identifier": "257067-f-174246",
+          "notation_codictFunctionId": "174246",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257067-f-170465",
+          "type": "Membership",
+          "identifier": "257067-f-170465",
+          "notation_codictFunctionId": "170465",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257067-f-175218",
+          "type": "Membership",
+          "identifier": "257067-f-175218",
+          "notation_codictFunctionId": "175218",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6592",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257067-f-171826",
+          "type": "Membership",
+          "identifier": "257067-f-171826",
+          "notation_codictFunctionId": "171826",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7029",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257067-f-170466",
+          "type": "Membership",
+          "identifier": "257067-f-170466",
+          "notation_codictFunctionId": "170466",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6561",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/POL",
+      "placeOfBirth": "Toruń",
+      "familyName": "Braun",
+      "givenName": "Grzegorz",
+      "img": "https://www.europarl.europa.eu/mepphoto/257067.jpg",
+      "sortLabel": "BRAUNG",
+      "upperFamilyName": "BRAUN",
+      "upperGivenName": "GRZEGORZ"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "person/204371",
+      "type": "Person",
+      "identifier": "204371",
+      "label": "Heather ANDERSON",
+      "notation_codictPersonId": "204371",
+      "bday": "1959-01-31",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/204371-m-16696",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GBR"
+          ],
+          "identifier": "204371-m-16696",
+          "notation_codictMandateId": "16696",
+          "memberDuring": {
+            "id": "time-period/20200127-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2020-01-27"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/204371-f-160846",
+          "type": "Membership",
+          "identifier": "204371-f-160846",
+          "notation_codictFunctionId": "160846",
+          "memberDuring": {
+            "id": "time-period/20200127-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2020-01-27"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/204371-f-160848",
+          "type": "Membership",
+          "identifier": "204371-f-160848",
+          "notation_codictFunctionId": "160848",
+          "memberDuring": {
+            "id": "time-period/20200127-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2020-01-27"
+          },
+          "organization": "org/5155",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/204371-f-160847",
+          "type": "Membership",
+          "identifier": "204371-f-160847",
+          "notation_codictFunctionId": "160847",
+          "memberDuring": {
+            "id": "time-period/20200127-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2020-01-27"
+          },
+          "organization": "org/5388",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GBR",
+      "placeOfBirth": "Dundee",
+      "familyName": "Anderson",
+      "givenName": "Heather",
+      "img": "https://www.europarl.europa.eu/mepphoto/204371.jpg",
+      "sortLabel": "ANDERSONHEATHER",
+      "upperFamilyName": "ANDERSON",
+      "upperGivenName": "HEATHER"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

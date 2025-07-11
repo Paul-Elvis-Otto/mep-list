@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "id": "person/188096",
+      "type": "Person",
+      "identifier": "188096",
+      "label": "Jüri RATAS",
+      "notation_codictPersonId": "188096",
+      "bday": "1978-07-02",
+      "hasEmail": "mailto:juri.ratas@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/188096-f-172564",
+          "type": "Membership",
+          "identifier": "188096-f-172564",
+          "notation_codictFunctionId": "172564",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/188096-m-17183",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/EST"
+          ],
+          "identifier": "188096-m-17183",
+          "notation_codictMandateId": "17183",
+          "contactPoint": [
+            {
+              "id": "contact-point/188096-m-17183-T08048",
+              "type": "ContactPoint",
+              "officeAddress": "T08048",
+              "hasTelephone": {
+                "id": "tel/0033388175731",
+                "type": "Voice",
+                "hasValue": "tel:+33388175731"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/188096-m-17183-06F247",
+              "type": "ContactPoint",
+              "officeAddress": "06F247",
+              "hasTelephone": {
+                "id": "tel/003222845731",
+                "type": "Voice",
+                "hasValue": "tel:+3222845731"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/188096-f-173192",
+          "type": "Membership",
+          "identifier": "188096-f-173192",
+          "notation_codictFunctionId": "173192",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/188096-f-179907",
+          "type": "Membership",
+          "identifier": "188096-f-179907",
+          "notation_codictFunctionId": "179907",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7885",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/188096-f-173318",
+          "type": "Membership",
+          "identifier": "188096-f-173318",
+          "notation_codictFunctionId": "173318",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/188096-f-170146",
+          "type": "Membership",
+          "identifier": "188096-f-170146",
+          "notation_codictFunctionId": "170146",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/188096-f-175554",
+          "type": "Membership",
+          "identifier": "188096-f-175554",
+          "notation_codictFunctionId": "175554",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/188096-f-178332",
+          "type": "Membership",
+          "identifier": "188096-f-178332",
+          "notation_codictFunctionId": "178332",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7915",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_TEMPORARY"
+        },
+        {
+          "id": "membership/188096-f-171590",
+          "type": "Membership",
+          "identifier": "188096-f-171590",
+          "notation_codictFunctionId": "171590",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6849",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/188096-f-175166",
+          "type": "Membership",
+          "identifier": "188096-f-175166",
+          "notation_codictFunctionId": "175166",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6589",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/EST",
+      "placeOfBirth": "Tallinn",
+      "account": [
+        {
+          "id": "https://www.instagram.com/ratasjuri/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.facebook.com/ratasjuri",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://x.com/ratasjuri",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Ratas",
+      "givenName": "Jüri",
+      "img": "https://www.europarl.europa.eu/mepphoto/188096.jpg",
+      "sortLabel": "RATASJ",
+      "upperFamilyName": "RATAS",
+      "upperGivenName": "JÜRI"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

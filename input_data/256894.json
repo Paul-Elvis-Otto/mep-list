@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "id": "person/256894",
+      "type": "Person",
+      "identifier": "256894",
+      "label": "Sylvie JOSSERAND",
+      "notation_codictPersonId": "256894",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256894-f-172628",
+          "type": "Membership",
+          "identifier": "256894-f-172628",
+          "notation_codictFunctionId": "172628",
+          "memberDuring": {
+            "id": "time-period/20240716-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256894-f-175979",
+          "type": "Membership",
+          "identifier": "256894-f-175979",
+          "notation_codictFunctionId": "175979",
+          "memberDuring": {
+            "id": "time-period/20240919-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6614",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256894-f-169752",
+          "type": "Membership",
+          "identifier": "256894-f-169752",
+          "notation_codictFunctionId": "169752",
+          "memberDuring": {
+            "id": "time-period/20240716-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256894-f-174176",
+          "type": "Membership",
+          "identifier": "256894-f-174176",
+          "notation_codictFunctionId": "174176",
+          "memberDuring": {
+            "id": "time-period/20240719-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7005",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/256894-m-16983",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "256894-m-16983",
+          "notation_codictMandateId": "16983",
+          "memberDuring": {
+            "id": "time-period/20240716-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256894-f-176216",
+          "type": "Membership",
+          "identifier": "256894-f-176216",
+          "notation_codictFunctionId": "176216",
+          "memberDuring": {
+            "id": "time-period/20240919-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6622",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256894-f-174291",
+          "type": "Membership",
+          "identifier": "256894-f-174291",
+          "notation_codictFunctionId": "174291",
+          "memberDuring": {
+            "id": "time-period/20240719-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256894-f-171951",
+          "type": "Membership",
+          "identifier": "256894-f-171951",
+          "notation_codictFunctionId": "171951",
+          "memberDuring": {
+            "id": "time-period/20240716-20240926",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-26",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "familyName": "Josserand",
+      "givenName": "Sylvie",
+      "img": "https://www.europarl.europa.eu/mepphoto/256894.jpg",
+      "sortLabel": "JOSSERANDS",
+      "upperFamilyName": "JOSSERAND",
+      "upperGivenName": "SYLVIE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

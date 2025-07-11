@@ -1,0 +1,165 @@
+{
+  "data": [
+    {
+      "id": "person/237320",
+      "type": "Person",
+      "identifier": "237320",
+      "label": "Eva-Maria Alexandrova POPTCHEVA",
+      "notation_codictPersonId": "237320",
+      "bday": "1979-10-17",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/237320-f-167853",
+          "type": "Membership",
+          "identifier": "237320-f-167853",
+          "notation_codictFunctionId": "167853",
+          "memberDuring": {
+            "id": "time-period/20220915-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-15"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/237320-f-167859",
+          "type": "Membership",
+          "identifier": "237320-f-167859",
+          "notation_codictFunctionId": "167859",
+          "memberDuring": {
+            "id": "time-period/20220915-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-15"
+          },
+          "organization": "org/5401",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/237320-f-167892",
+          "type": "Membership",
+          "identifier": "237320-f-167892",
+          "notation_codictFunctionId": "167892",
+          "memberDuring": {
+            "id": "time-period/20221003-20221107",
+            "type": "PeriodOfTime",
+            "endDate": "2022-11-07",
+            "startDate": "2022-10-03"
+          },
+          "organization": "org/6366",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/237320-f-167854",
+          "type": "Membership",
+          "identifier": "237320-f-167854",
+          "notation_codictFunctionId": "167854",
+          "memberDuring": {
+            "id": "time-period/20220915-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-15"
+          },
+          "organization": "org/5704",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/237320-f-167857",
+          "type": "Membership",
+          "identifier": "237320-f-167857",
+          "notation_codictFunctionId": "167857",
+          "memberDuring": {
+            "id": "time-period/20220915-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-15"
+          },
+          "organization": "org/6353",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/237320-f-167978",
+          "type": "Membership",
+          "identifier": "237320-f-167978",
+          "notation_codictFunctionId": "167978",
+          "memberDuring": {
+            "id": "time-period/20221108-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-11-08"
+          },
+          "organization": "org/6366",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/237320-f-167858",
+          "type": "Membership",
+          "identifier": "237320-f-167858",
+          "notation_codictFunctionId": "167858",
+          "memberDuring": {
+            "id": "time-period/20220915-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-15"
+          },
+          "organization": "org/5127",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/237320-m-16743",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ESP"
+          ],
+          "identifier": "237320-m-16743",
+          "notation_codictMandateId": "16743",
+          "contactPoint": [
+            {
+              "id": "contact-point/237320-m-16743-01Y081",
+              "type": "ContactPoint",
+              "officeAddress": "01Y081",
+              "hasTelephone": {
+                "id": "tel/003222841962",
+                "type": "Voice",
+                "hasValue": "tel:+3222841962"
+              }
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20220915-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-15"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/BGR",
+      "placeOfBirth": "Plovdiv",
+      "familyName": "Poptcheva",
+      "givenName": "Eva-Maria Alexandrova",
+      "img": "https://www.europarl.europa.eu/mepphoto/237320.jpg",
+      "sortLabel": "POPTCHEVA",
+      "upperFamilyName": "POPTCHEVA",
+      "upperGivenName": "EVA-MARIA ALEXANDROVA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

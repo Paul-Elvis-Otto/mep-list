@@ -1,0 +1,93 @@
+{
+  "data": [
+    {
+      "id": "person/256134",
+      "type": "Person",
+      "identifier": "256134",
+      "label": "Ansis PŪPOLS",
+      "notation_codictPersonId": "256134",
+      "bday": "1975-03-24",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256134-f-169373",
+          "type": "Membership",
+          "identifier": "256134-f-169373",
+          "notation_codictFunctionId": "169373",
+          "memberDuring": {
+            "id": "time-period/20240514-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-05-14"
+          },
+          "organization": "org/5288",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256134-m-16801",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/LVA"
+          ],
+          "identifier": "256134-m-16801",
+          "notation_codictMandateId": "16801",
+          "memberDuring": {
+            "id": "time-period/20240514-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-05-14"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256134-f-169374",
+          "type": "Membership",
+          "identifier": "256134-f-169374",
+          "notation_codictFunctionId": "169374",
+          "memberDuring": {
+            "id": "time-period/20240514-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-05-14"
+          },
+          "organization": "org/5148",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256134-f-169369",
+          "type": "Membership",
+          "identifier": "256134-f-169369",
+          "notation_codictFunctionId": "169369",
+          "memberDuring": {
+            "id": "time-period/20240514-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-05-14"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/LVA",
+      "placeOfBirth": "Riga",
+      "familyName": "Pūpols",
+      "givenName": "Ansis",
+      "img": "https://www.europarl.europa.eu/mepphoto/256134.jpg",
+      "sortLabel": "PUPOLSA",
+      "upperFamilyName": "PŪPOLS",
+      "upperGivenName": "ANSIS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

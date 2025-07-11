@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "id": "person/256959",
+      "type": "Person",
+      "identifier": "256959",
+      "label": "Alexander SELL",
+      "notation_codictPersonId": "256959",
+      "bday": "1980-11-25",
+      "hasEmail": "mailto:alexander.sell@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256959-f-175769",
+          "type": "Membership",
+          "identifier": "256959-f-175769",
+          "notation_codictFunctionId": "175769",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6610",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256959-f-174781",
+          "type": "Membership",
+          "identifier": "256959-f-174781",
+          "notation_codictFunctionId": "174781",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256959-f-170055",
+          "type": "Membership",
+          "identifier": "256959-f-170055",
+          "notation_codictFunctionId": "170055",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256959-f-171342",
+          "type": "Membership",
+          "identifier": "256959-f-171342",
+          "notation_codictFunctionId": "171342",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6802",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256959-f-172763",
+          "type": "Membership",
+          "identifier": "256959-f-172763",
+          "notation_codictFunctionId": "172763",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7151",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256959-f-173096",
+          "type": "Membership",
+          "identifier": "256959-f-173096",
+          "notation_codictFunctionId": "173096",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256959-m-17137",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256959-m-17137",
+          "notation_codictMandateId": "17137",
+          "contactPoint": [
+            {
+              "id": "contact-point/256959-m-17137-V03021",
+              "type": "ContactPoint",
+              "officeAddress": "V03021",
+              "hasTelephone": {
+                "id": "tel/0033388175877",
+                "type": "Voice",
+                "hasValue": "tel:+33388175877"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/HAV"
+            },
+            {
+              "id": "contact-point/256959-m-17137-02M111",
+              "type": "ContactPoint",
+              "officeAddress": "02M111",
+              "hasTelephone": {
+                "id": "tel/003222845877",
+                "type": "Voice",
+                "hasValue": "tel:+3222845877"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256959-f-177140",
+          "type": "Membership",
+          "identifier": "256959-f-177140",
+          "notation_codictFunctionId": "177140",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6624",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256959-f-176943",
+          "type": "Membership",
+          "identifier": "256959-f-176943",
+          "notation_codictFunctionId": "176943",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "familyName": "Sell",
+      "givenName": "Alexander",
+      "img": "https://www.europarl.europa.eu/mepphoto/256959.jpg",
+      "sortLabel": "SELLA",
+      "upperFamilyName": "SELL",
+      "upperGivenName": "ALEXANDER"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

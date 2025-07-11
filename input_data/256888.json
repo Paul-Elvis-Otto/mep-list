@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "id": "person/256888",
+      "type": "Person",
+      "identifier": "256888",
+      "label": "Rody TOLASSY",
+      "notation_codictPersonId": "256888",
+      "bday": "1987-09-21",
+      "hasEmail": "mailto:rody.tolassy@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256888-f-179811",
+          "type": "Membership",
+          "identifier": "256888-f-179811",
+          "notation_codictFunctionId": "179811",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256888-f-179972",
+          "type": "Membership",
+          "identifier": "256888-f-179972",
+          "notation_codictFunctionId": "179972",
+          "memberDuring": {
+            "id": "time-period/20250225",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-25"
+          },
+          "organization": "org/7899",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256888-m-16967",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "256888-m-16967",
+          "notation_codictMandateId": "16967",
+          "contactPoint": [
+            {
+              "id": "contact-point/256888-m-16967-G06038",
+              "type": "ContactPoint",
+              "officeAddress": "G06038",
+              "hasTelephone": {
+                "id": "tel/0033388175553",
+                "type": "Voice",
+                "hasValue": "tel:+33388175553"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/256888-m-16967-05M023",
+              "type": "ContactPoint",
+              "officeAddress": "05M023",
+              "hasTelephone": {
+                "id": "tel/003222845553",
+                "type": "Voice",
+                "hasValue": "tel:+3222845553"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256888-f-176982",
+          "type": "Membership",
+          "identifier": "256888-f-176982",
+          "notation_codictFunctionId": "176982",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256888-f-172784",
+          "type": "Membership",
+          "identifier": "256888-f-172784",
+          "notation_codictFunctionId": "172784",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256888-f-176795",
+          "type": "Membership",
+          "identifier": "256888-f-176795",
+          "notation_codictFunctionId": "176795",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6573",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256888-f-174069",
+          "type": "Membership",
+          "identifier": "256888-f-174069",
+          "notation_codictFunctionId": "174069",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6563",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256888-f-174196",
+          "type": "Membership",
+          "identifier": "256888-f-174196",
+          "notation_codictFunctionId": "174196",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6581",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256888-f-172657",
+          "type": "Membership",
+          "identifier": "256888-f-172657",
+          "notation_codictFunctionId": "172657",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256888-f-177047",
+          "type": "Membership",
+          "identifier": "256888-f-177047",
+          "notation_codictFunctionId": "177047",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6577",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256888-f-176316",
+          "type": "Membership",
+          "identifier": "256888-f-176316",
+          "notation_codictFunctionId": "176316",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6625",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256888-f-169720",
+          "type": "Membership",
+          "identifier": "256888-f-169720",
+          "notation_codictFunctionId": "169720",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Pointe-à-Pitre",
+      "familyName": "Tolassy",
+      "givenName": "Rody",
+      "img": "https://www.europarl.europa.eu/mepphoto/256888.jpg",
+      "sortLabel": "TOLASSYR",
+      "upperFamilyName": "TOLASSY",
+      "upperGivenName": "RODY"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

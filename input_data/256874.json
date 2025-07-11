@@ -1,0 +1,243 @@
+{
+  "data": [
+    {
+      "id": "person/256874",
+      "type": "Person",
+      "identifier": "256874",
+      "label": "Mélanie DISDIER",
+      "notation_codictPersonId": "256874",
+      "bday": "1974-01-27",
+      "hasEmail": "mailto:melanie.disdier@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256874-f-180006",
+          "type": "Membership",
+          "identifier": "256874-f-180006",
+          "notation_codictFunctionId": "180006",
+          "memberDuring": {
+            "id": "time-period/20250227",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-27"
+          },
+          "organization": "org/7892",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256874-f-169652",
+          "type": "Membership",
+          "identifier": "256874-f-169652",
+          "notation_codictFunctionId": "169652",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256874-f-173695",
+          "type": "Membership",
+          "identifier": "256874-f-173695",
+          "notation_codictFunctionId": "173695",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256874-m-16933",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "256874-m-16933",
+          "notation_codictMandateId": "16933",
+          "contactPoint": [
+            {
+              "id": "contact-point/256874-m-16933-06M033",
+              "type": "ContactPoint",
+              "officeAddress": "06M033",
+              "hasTelephone": {
+                "id": "tel/003222845653",
+                "type": "Voice",
+                "hasValue": "tel:+3222845653"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            },
+            {
+              "id": "contact-point/256874-m-16933-G06001",
+              "type": "ContactPoint",
+              "officeAddress": "G06001",
+              "hasTelephone": {
+                "id": "tel/0033388175653",
+                "type": "Voice",
+                "hasValue": "tel:+33388175653"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256874-f-175906",
+          "type": "Membership",
+          "identifier": "256874-f-175906",
+          "notation_codictFunctionId": "175906",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6612",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256874-f-177591",
+          "type": "Membership",
+          "identifier": "256874-f-177591",
+          "notation_codictFunctionId": "177591",
+          "memberDuring": {
+            "id": "time-period/20241212",
+            "type": "PeriodOfTime",
+            "startDate": "2024-12-12"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256874-f-179766",
+          "type": "Membership",
+          "identifier": "256874-f-179766",
+          "notation_codictFunctionId": "179766",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256874-f-179859",
+          "type": "Membership",
+          "identifier": "256874-f-179859",
+          "notation_codictFunctionId": "179859",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7885",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256874-f-175452",
+          "type": "Membership",
+          "identifier": "256874-f-175452",
+          "notation_codictFunctionId": "175452",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6600",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256874-f-176354",
+          "type": "Membership",
+          "identifier": "256874-f-176354",
+          "notation_codictFunctionId": "176354",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6627",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256874-f-172611",
+          "type": "Membership",
+          "identifier": "256874-f-172611",
+          "notation_codictFunctionId": "172611",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256874-f-171914",
+          "type": "Membership",
+          "identifier": "256874-f-171914",
+          "notation_codictFunctionId": "171914",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Cambrai",
+      "account": [
+        {
+          "id": "https://www.instagram.com/melaniedisdier/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.facebook.com/people/M%C3%A9lanie-Disdier/100066812976689/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://x.com/melanie_disdier",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Disdier",
+      "givenName": "Mélanie",
+      "img": "https://www.europarl.europa.eu/mepphoto/256874.jpg",
+      "sortLabel": "DISDIERM",
+      "upperFamilyName": "DISDIER",
+      "upperGivenName": "MÉLANIE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

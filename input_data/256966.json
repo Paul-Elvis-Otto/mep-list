@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "id": "person/256966",
+      "type": "Person",
+      "identifier": "256966",
+      "label": "Michael VON DER SCHULENBURG",
+      "notation_codictPersonId": "256966",
+      "bday": "1948-10-16",
+      "hasEmail": "mailto:michael.vonderschulenburg@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256966-f-173609",
+          "type": "Membership",
+          "identifier": "256966-f-173609",
+          "notation_codictFunctionId": "173609",
+          "memberDuring": {
+            "id": "time-period/20240719-20250309",
+            "type": "PeriodOfTime",
+            "endDate": "2025-03-09",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256966-f-170079",
+          "type": "Membership",
+          "identifier": "256966-f-170079",
+          "notation_codictFunctionId": "170079",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256966-f-171824",
+          "type": "Membership",
+          "identifier": "256966-f-171824",
+          "notation_codictFunctionId": "171824",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6850",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256966-f-170080",
+          "type": "Membership",
+          "identifier": "256966-f-170080",
+          "notation_codictFunctionId": "170080",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6561",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256966-f-173764",
+          "type": "Membership",
+          "identifier": "256966-f-173764",
+          "notation_codictFunctionId": "173764",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7006",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/256966-f-175219",
+          "type": "Membership",
+          "identifier": "256966-f-175219",
+          "notation_codictFunctionId": "175219",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6592",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256966-f-173214",
+          "type": "Membership",
+          "identifier": "256966-f-173214",
+          "notation_codictFunctionId": "173214",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256966-f-176068",
+          "type": "Membership",
+          "identifier": "256966-f-176068",
+          "notation_codictFunctionId": "176068",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6617",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256966-f-178079",
+          "type": "Membership",
+          "identifier": "256966-f-178079",
+          "notation_codictFunctionId": "178079",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7911",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256966-m-17149",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256966-m-17149",
+          "notation_codictMandateId": "17149",
+          "contactPoint": [
+            {
+              "id": "contact-point/256966-m-17149-03K062",
+              "type": "ContactPoint",
+              "officeAddress": "03K062",
+              "hasTelephone": {
+                "id": "tel/003222845888",
+                "type": "Voice",
+                "hasValue": "tel:+3222845888"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ATR"
+            },
+            {
+              "id": "contact-point/256966-m-17149-M01034",
+              "type": "ContactPoint",
+              "officeAddress": "M01034",
+              "hasTelephone": {
+                "id": "tel/0033388175888",
+                "type": "Voice",
+                "hasValue": "tel:+33388175888"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Munich",
+      "familyName": "von der Schulenburg",
+      "givenName": "Michael",
+      "img": "https://www.europarl.europa.eu/mepphoto/256966.jpg",
+      "sortLabel": "VONDERSCHULENBURGM",
+      "upperFamilyName": "VON DER SCHULENBURG",
+      "upperGivenName": "MICHAEL"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

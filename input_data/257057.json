@@ -1,0 +1,170 @@
+{
+  "data": [
+    {
+      "id": "person/257057",
+      "type": "Person",
+      "identifier": "257057",
+      "label": "João COTRIM DE FIGUEIREDO",
+      "notation_codictPersonId": "257057",
+      "bday": "1961-06-24",
+      "hasEmail": "mailto:joao.cotrim@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257057-f-173476",
+          "type": "Membership",
+          "identifier": "257057-f-173476",
+          "notation_codictFunctionId": "173476",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257057-f-175599",
+          "type": "Membership",
+          "identifier": "257057-f-175599",
+          "notation_codictFunctionId": "175599",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257057-f-174245",
+          "type": "Membership",
+          "identifier": "257057-f-174245",
+          "notation_codictFunctionId": "174245",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257057-f-171361",
+          "type": "Membership",
+          "identifier": "257057-f-171361",
+          "notation_codictFunctionId": "171361",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6641",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257057-f-180227",
+          "type": "Membership",
+          "identifier": "257057-f-180227",
+          "notation_codictFunctionId": "180227",
+          "memberDuring": {
+            "id": "time-period/20250312",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-12"
+          },
+          "organization": "org/7893",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257057-m-17331",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/PRT"
+          ],
+          "identifier": "257057-m-17331",
+          "notation_codictMandateId": "17331",
+          "contactPoint": [
+            {
+              "id": "contact-point/257057-m-17331-M02110",
+              "type": "ContactPoint",
+              "officeAddress": "M02110",
+              "hasTelephone": {
+                "id": "tel/0033388175275",
+                "type": "Voice",
+                "hasValue": "tel:+33388175275"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            },
+            {
+              "id": "contact-point/257057-m-17331-10G165",
+              "type": "ContactPoint",
+              "officeAddress": "10G165",
+              "hasTelephone": {
+                "id": "tel/003222845275",
+                "type": "Voice",
+                "hasValue": "tel:+3222845275"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257057-f-171996",
+          "type": "Membership",
+          "identifier": "257057-f-171996",
+          "notation_codictFunctionId": "171996",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7035",
+          "role": "def/ep-roles/MEMBER_BUREAU",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257057-f-170443",
+          "type": "Membership",
+          "identifier": "257057-f-170443",
+          "notation_codictFunctionId": "170443",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/PRT",
+      "placeOfBirth": "Lisbon",
+      "familyName": "Cotrim De Figueiredo",
+      "givenName": "João",
+      "img": "https://www.europarl.europa.eu/mepphoto/257057.jpg",
+      "sortLabel": "COTRIMDEFIGUEIREDOJ",
+      "upperFamilyName": "COTRIM DE FIGUEIREDO",
+      "upperGivenName": "JOÃO"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

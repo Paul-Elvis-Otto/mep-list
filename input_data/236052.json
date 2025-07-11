@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "id": "person/236052",
+      "type": "Person",
+      "identifier": "236052",
+      "label": "Patricia CHAGNON",
+      "notation_codictPersonId": "236052",
+      "bday": "1963-11-20",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/236052-f-168009",
+          "type": "Membership",
+          "identifier": "236052-f-168009",
+          "notation_codictFunctionId": "168009",
+          "memberDuring": {
+            "id": "time-period/20221109-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-11-09"
+          },
+          "organization": "org/5128",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/236052-f-167803",
+          "type": "Membership",
+          "identifier": "236052-f-167803",
+          "notation_codictFunctionId": "167803",
+          "memberDuring": {
+            "id": "time-period/20220909-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-09"
+          },
+          "organization": "org/6365",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/236052-f-167785",
+          "type": "Membership",
+          "identifier": "236052-f-167785",
+          "notation_codictFunctionId": "167785",
+          "memberDuring": {
+            "id": "time-period/20220729-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-07-29"
+          },
+          "organization": "org/5494",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/236052-m-16739",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "236052-m-16739",
+          "notation_codictMandateId": "16739",
+          "memberDuring": {
+            "id": "time-period/20220729-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-07-29"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/236052-f-168008",
+          "type": "Membership",
+          "identifier": "236052-f-168008",
+          "notation_codictFunctionId": "168008",
+          "memberDuring": {
+            "id": "time-period/20221109-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-11-09"
+          },
+          "organization": "org/5137",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/236052-f-167831",
+          "type": "Membership",
+          "identifier": "236052-f-167831",
+          "notation_codictFunctionId": "167831",
+          "memberDuring": {
+            "id": "time-period/20220912-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-09-12"
+          },
+          "organization": "org/6360",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/236052-f-167764",
+          "type": "Membership",
+          "identifier": "236052-f-167764",
+          "notation_codictFunctionId": "167764",
+          "memberDuring": {
+            "id": "time-period/20220729-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-07-29"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/236052-f-168014",
+          "type": "Membership",
+          "identifier": "236052-f-168014",
+          "notation_codictFunctionId": "168014",
+          "memberDuring": {
+            "id": "time-period/20221109-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-11-09"
+          },
+          "organization": "org/5144",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/236052-f-167766",
+          "type": "Membership",
+          "identifier": "236052-f-167766",
+          "notation_codictFunctionId": "167766",
+          "memberDuring": {
+            "id": "time-period/20220729-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2022-07-29"
+          },
+          "organization": "org/5588",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Eindhoven",
+      "familyName": "Chagnon",
+      "givenName": "Patricia",
+      "img": "https://www.europarl.europa.eu/mepphoto/236052.jpg",
+      "sortLabel": "CHAGNON",
+      "upperFamilyName": "CHAGNON",
+      "upperGivenName": "PATRICIA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

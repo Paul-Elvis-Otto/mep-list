@@ -1,0 +1,199 @@
+{
+  "data": [
+    {
+      "id": "person/256927",
+      "type": "Person",
+      "identifier": "256927",
+      "label": "Carola RACKETE",
+      "notation_codictPersonId": "256927",
+      "bday": "1988-05-08",
+      "hasEmail": "mailto:carola.rackete@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256927-f-173283",
+          "type": "Membership",
+          "identifier": "256927-f-173283",
+          "notation_codictFunctionId": "173283",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256927-f-175988",
+          "type": "Membership",
+          "identifier": "256927-f-175988",
+          "notation_codictFunctionId": "175988",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6614",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256927-f-173896",
+          "type": "Membership",
+          "identifier": "256927-f-173896",
+          "notation_codictFunctionId": "173896",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6582",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256927-f-169861",
+          "type": "Membership",
+          "identifier": "256927-f-169861",
+          "notation_codictFunctionId": "169861",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256927-f-172252",
+          "type": "Membership",
+          "identifier": "256927-f-172252",
+          "notation_codictFunctionId": "172252",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7036",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256927-f-173612",
+          "type": "Membership",
+          "identifier": "256927-f-173612",
+          "notation_codictFunctionId": "173612",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256927-m-17038",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256927-m-17038",
+          "notation_codictMandateId": "17038",
+          "contactPoint": [
+            {
+              "id": "contact-point/256927-m-17038-G02048",
+              "type": "ContactPoint",
+              "officeAddress": "G02048",
+              "hasTelephone": {
+                "id": "tel/0033388175906",
+                "type": "Voice",
+                "hasValue": "tel:+33388175906"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/256927-m-17038-08H159",
+              "type": "ContactPoint",
+              "officeAddress": "08H159",
+              "hasTelephone": {
+                "id": "tel/003222845906",
+                "type": "Voice",
+                "hasValue": "tel:+3222845906"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256927-f-176152",
+          "type": "Membership",
+          "identifier": "256927-f-176152",
+          "notation_codictFunctionId": "176152",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6619",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256927-f-170806",
+          "type": "Membership",
+          "identifier": "256927-f-170806",
+          "notation_codictFunctionId": "170806",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6823",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256927-f-177771",
+          "type": "Membership",
+          "identifier": "256927-f-177771",
+          "notation_codictFunctionId": "177771",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Preetz",
+      "familyName": "Rackete",
+      "givenName": "Carola",
+      "img": "https://www.europarl.europa.eu/mepphoto/256927.jpg",
+      "sortLabel": "RACKETEC",
+      "upperFamilyName": "RACKETE",
+      "upperGivenName": "CAROLA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

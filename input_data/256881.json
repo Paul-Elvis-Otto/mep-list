@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "id": "person/256881",
+      "type": "Person",
+      "identifier": "256881",
+      "label": "Barbara BONTE",
+      "notation_codictPersonId": "256881",
+      "bday": "1983-05-13",
+      "hasEmail": "mailto:barbara.bonte@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256881-f-179841",
+          "type": "Membership",
+          "identifier": "256881-f-179841",
+          "notation_codictFunctionId": "179841",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7885",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256881-f-171545",
+          "type": "Membership",
+          "identifier": "256881-f-171545",
+          "notation_codictFunctionId": "171545",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6751",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256881-f-172600",
+          "type": "Membership",
+          "identifier": "256881-f-172600",
+          "notation_codictFunctionId": "172600",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256881-f-176137",
+          "type": "Membership",
+          "identifier": "256881-f-176137",
+          "notation_codictFunctionId": "176137",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6619",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256881-m-16960",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/BEL"
+          ],
+          "identifier": "256881-m-16960",
+          "notation_codictMandateId": "16960",
+          "contactPoint": [
+            {
+              "id": "contact-point/256881-m-16960-07M045",
+              "type": "ContactPoint",
+              "officeAddress": "07M045",
+              "hasTelephone": {
+                "id": "tel/003222845401",
+                "type": "Voice",
+                "hasValue": "tel:+3222845401"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            },
+            {
+              "id": "contact-point/256881-m-16960-G06026",
+              "type": "ContactPoint",
+              "officeAddress": "G06026",
+              "hasTelephone": {
+                "id": "tel/0033388175401",
+                "type": "Voice",
+                "hasValue": "tel:+33388175401"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256881-f-173407",
+          "type": "Membership",
+          "identifier": "256881-f-173407",
+          "notation_codictFunctionId": "173407",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6582",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256881-f-173958",
+          "type": "Membership",
+          "identifier": "256881-f-173958",
+          "notation_codictFunctionId": "173958",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256881-f-176469",
+          "type": "Membership",
+          "identifier": "256881-f-176469",
+          "notation_codictFunctionId": "176469",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256881-f-179755",
+          "type": "Membership",
+          "identifier": "256881-f-179755",
+          "notation_codictFunctionId": "179755",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256881-f-173521",
+          "type": "Membership",
+          "identifier": "256881-f-173521",
+          "notation_codictFunctionId": "173521",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256881-f-177684",
+          "type": "Membership",
+          "identifier": "256881-f-177684",
+          "notation_codictFunctionId": "177684",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256881-f-169706",
+          "type": "Membership",
+          "identifier": "256881-f-169706",
+          "notation_codictFunctionId": "169706",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256881-f-175668",
+          "type": "Membership",
+          "identifier": "256881-f-175668",
+          "notation_codictFunctionId": "175668",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6605",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/BEL",
+      "placeOfBirth": "Brussels",
+      "account": [
+        {
+          "id": "https://www.facebook.com/profile.php?id=61556752824090",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://x.com/Barbarabonte",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/barbaravanilla",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Bonte",
+      "givenName": "Barbara",
+      "img": "https://www.europarl.europa.eu/mepphoto/256881.jpg",
+      "sortLabel": "BONTEB",
+      "upperFamilyName": "BONTE",
+      "upperGivenName": "BARBARA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

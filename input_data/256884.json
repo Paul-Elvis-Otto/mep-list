@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "id": "person/256884",
+      "type": "Person",
+      "identifier": "256884",
+      "label": "Kris VAN DIJCK",
+      "notation_codictPersonId": "256884",
+      "bday": "1963-10-02",
+      "hasEmail": "mailto:kris.vandijck@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256884-f-174277",
+          "type": "Membership",
+          "identifier": "256884-f-174277",
+          "notation_codictFunctionId": "174277",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6580",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256884-f-176066",
+          "type": "Membership",
+          "identifier": "256884-f-176066",
+          "notation_codictFunctionId": "176066",
+          "memberDuring": {
+            "id": "time-period/20240919-20240929",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-29",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6617",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256884-f-172094",
+          "type": "Membership",
+          "identifier": "256884-f-172094",
+          "notation_codictFunctionId": "172094",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256884-f-174418",
+          "type": "Membership",
+          "identifier": "256884-f-174418",
+          "notation_codictFunctionId": "174418",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256884-f-173853",
+          "type": "Membership",
+          "identifier": "256884-f-173853",
+          "notation_codictFunctionId": "173853",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256884-f-177220",
+          "type": "Membership",
+          "identifier": "256884-f-177220",
+          "notation_codictFunctionId": "177220",
+          "memberDuring": {
+            "id": "time-period/20240930",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-30"
+          },
+          "organization": "org/6617",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256884-f-169710",
+          "type": "Membership",
+          "identifier": "256884-f-169710",
+          "notation_codictFunctionId": "169710",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256884-f-171767",
+          "type": "Membership",
+          "identifier": "256884-f-171767",
+          "notation_codictFunctionId": "171767",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6754",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256884-m-16962",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/BEL"
+          ],
+          "identifier": "256884-m-16962",
+          "notation_codictMandateId": "16962",
+          "contactPoint": [
+            {
+              "id": "contact-point/256884-m-16962-05U019",
+              "type": "ContactPoint",
+              "officeAddress": "05U019",
+              "hasTelephone": {
+                "id": "tel/003222845941",
+                "type": "Voice",
+                "hasValue": "tel:+3222845941"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIE"
+            },
+            {
+              "id": "contact-point/256884-m-16962-M03064",
+              "type": "ContactPoint",
+              "officeAddress": "M03064",
+              "hasTelephone": {
+                "id": "tel/0033388175941",
+                "type": "Voice",
+                "hasValue": "tel:+33388175941"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/BEL",
+      "placeOfBirth": "Turnhout",
+      "familyName": "Van Dijck",
+      "givenName": "Kris",
+      "homepage": "https://www.krisvandijck.be/",
+      "img": "https://www.europarl.europa.eu/mepphoto/256884.jpg",
+      "sortLabel": "VANDIJCKK",
+      "upperFamilyName": "VAN DIJCK",
+      "upperGivenName": "KRIS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

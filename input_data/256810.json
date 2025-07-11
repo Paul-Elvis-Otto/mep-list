@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "id": "person/256810",
+      "type": "Person",
+      "identifier": "256810",
+      "label": "Mika AALTOLA",
+      "notation_codictPersonId": "256810",
+      "bday": "1969-05-02",
+      "hasEmail": "mailto:mika.aaltola@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256810-f-178252",
+          "type": "Membership",
+          "identifier": "256810-f-178252",
+          "notation_codictFunctionId": "178252",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7914",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_TEMPORARY"
+        },
+        {
+          "id": "membership/256810-f-172845",
+          "type": "Membership",
+          "identifier": "256810-f-172845",
+          "notation_codictFunctionId": "172845",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256810-m-16832",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FIN"
+          ],
+          "identifier": "256810-m-16832",
+          "notation_codictMandateId": "16832",
+          "contactPoint": [
+            {
+              "id": "contact-point/256810-m-16832-T08057",
+              "type": "ContactPoint",
+              "officeAddress": "T08057",
+              "hasTelephone": {
+                "id": "tel/0033388175975",
+                "type": "Voice",
+                "hasValue": "tel:+33388175975"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256810-m-16832-06F164",
+              "type": "ContactPoint",
+              "officeAddress": "06F164",
+              "hasTelephone": {
+                "id": "tel/003222845975",
+                "type": "Voice",
+                "hasValue": "tel:+3222845975"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256810-f-173570",
+          "type": "Membership",
+          "identifier": "256810-f-173570",
+          "notation_codictFunctionId": "173570",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256810-f-172519",
+          "type": "Membership",
+          "identifier": "256810-f-172519",
+          "notation_codictFunctionId": "172519",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256810-f-176451",
+          "type": "Membership",
+          "identifier": "256810-f-176451",
+          "notation_codictFunctionId": "176451",
+          "memberDuring": {
+            "id": "time-period/20240919-20241002",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-02",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256810-f-169450",
+          "type": "Membership",
+          "identifier": "256810-f-169450",
+          "notation_codictFunctionId": "169450",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256810-f-175560",
+          "type": "Membership",
+          "identifier": "256810-f-175560",
+          "notation_codictFunctionId": "175560",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256810-f-179124",
+          "type": "Membership",
+          "identifier": "256810-f-179124",
+          "notation_codictFunctionId": "179124",
+          "memberDuring": {
+            "id": "time-period/20250205",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-05"
+          },
+          "organization": "org/6589",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256810-f-177291",
+          "type": "Membership",
+          "identifier": "256810-f-177291",
+          "notation_codictFunctionId": "177291",
+          "memberDuring": {
+            "id": "time-period/20241003",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-03"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256810-f-171679",
+          "type": "Membership",
+          "identifier": "256810-f-171679",
+          "notation_codictFunctionId": "171679",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6726",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FIN",
+      "placeOfBirth": "Jämsänkoski",
+      "account": [
+        {
+          "id": "https://www.facebook.com/MikaAaltola2024/?locale=fi_FI",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.instagram.com/maaltola/?hl=fi",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://www.linkedin.com/in/mika-aaltola-6385501b/?originalSubdomain=fi",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/LNK"
+        },
+        {
+          "id": "https://x.com/MikaAaltola",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Aaltola",
+      "givenName": "Mika",
+      "img": "https://www.europarl.europa.eu/mepphoto/256810.jpg",
+      "sortLabel": "AALTOLAM",
+      "upperFamilyName": "AALTOLA",
+      "upperGivenName": "MIKA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

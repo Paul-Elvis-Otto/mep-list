@@ -1,0 +1,200 @@
+{
+  "data": [
+    {
+      "id": "person/257109",
+      "type": "Person",
+      "identifier": "257109",
+      "label": "Marco SQUARTA",
+      "notation_codictPersonId": "257109",
+      "bday": "1979-06-04",
+      "hasEmail": "mailto:marco.squarta@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257109-f-171906",
+          "type": "Membership",
+          "identifier": "257109-f-171906",
+          "notation_codictFunctionId": "171906",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6831",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257109-f-176445",
+          "type": "Membership",
+          "identifier": "257109-f-176445",
+          "notation_codictFunctionId": "176445",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6629",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/257109-f-172140",
+          "type": "Membership",
+          "identifier": "257109-f-172140",
+          "notation_codictFunctionId": "172140",
+          "memberDuring": {
+            "id": "time-period/20240716-20241216",
+            "type": "PeriodOfTime",
+            "endDate": "2024-12-16",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257109-m-17425",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ITA"
+          ],
+          "identifier": "257109-m-17425",
+          "notation_codictMandateId": "17425",
+          "contactPoint": [
+            {
+              "id": "contact-point/257109-m-17425-03U015",
+              "type": "ContactPoint",
+              "officeAddress": "03U015",
+              "hasTelephone": {
+                "id": "tel/003222845925",
+                "type": "Voice",
+                "hasValue": "tel:+3222845925"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIE"
+            },
+            {
+              "id": "contact-point/257109-m-17425-M05092",
+              "type": "ContactPoint",
+              "officeAddress": "M05092",
+              "hasTelephone": {
+                "id": "tel/0033388175925",
+                "type": "Voice",
+                "hasValue": "tel:+33388175925"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257109-f-175152",
+          "type": "Membership",
+          "identifier": "257109-f-175152",
+          "notation_codictFunctionId": "175152",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6589",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257109-f-170629",
+          "type": "Membership",
+          "identifier": "257109-f-170629",
+          "notation_codictFunctionId": "170629",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257109-f-174710",
+          "type": "Membership",
+          "identifier": "257109-f-174710",
+          "notation_codictFunctionId": "174710",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6584",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257109-f-180422",
+          "type": "Membership",
+          "identifier": "257109-f-180422",
+          "notation_codictFunctionId": "180422",
+          "memberDuring": {
+            "id": "time-period/20250623",
+            "type": "PeriodOfTime",
+            "startDate": "2025-06-23"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257109-f-174451",
+          "type": "Membership",
+          "identifier": "257109-f-174451",
+          "notation_codictFunctionId": "174451",
+          "memberDuring": {
+            "id": "time-period/20240719-20250622",
+            "type": "PeriodOfTime",
+            "endDate": "2025-06-22",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257109-f-177632",
+          "type": "Membership",
+          "identifier": "257109-f-177632",
+          "notation_codictFunctionId": "177632",
+          "memberDuring": {
+            "id": "time-period/20241217",
+            "type": "PeriodOfTime",
+            "startDate": "2024-12-17"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER_BUREAU",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ITA",
+      "placeOfBirth": "Perugia",
+      "familyName": "Squarta",
+      "givenName": "Marco",
+      "img": "https://www.europarl.europa.eu/mepphoto/257109.jpg",
+      "sortLabel": "SQUARTAM",
+      "upperFamilyName": "SQUARTA",
+      "upperGivenName": "MARCO"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

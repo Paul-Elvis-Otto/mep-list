@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "person/245858",
+      "type": "Person",
+      "identifier": "245858",
+      "label": "Thomas RUDNER",
+      "notation_codictPersonId": "245858",
+      "bday": "1961-09-11",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/245858-f-168512",
+          "type": "Membership",
+          "identifier": "245858-f-168512",
+          "notation_codictFunctionId": "168512",
+          "memberDuring": {
+            "id": "time-period/20230710-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-10"
+          },
+          "organization": "org/5124",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/245858-f-168507",
+          "type": "Membership",
+          "identifier": "245858-f-168507",
+          "notation_codictFunctionId": "168507",
+          "memberDuring": {
+            "id": "time-period/20230707-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-07"
+          },
+          "organization": "org/5114",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/245858-f-168506",
+          "type": "Membership",
+          "identifier": "245858-f-168506",
+          "notation_codictFunctionId": "168506",
+          "memberDuring": {
+            "id": "time-period/20230707-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-07"
+          },
+          "organization": "org/6359",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/245858-f-168488",
+          "type": "Membership",
+          "identifier": "245858-f-168488",
+          "notation_codictFunctionId": "168488",
+          "memberDuring": {
+            "id": "time-period/20230703-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-03"
+          },
+          "organization": "org/5154",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/245858-m-16769",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "245858-m-16769",
+          "notation_codictMandateId": "16769",
+          "memberDuring": {
+            "id": "time-period/20230703-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-03"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/245858-f-168487",
+          "type": "Membership",
+          "identifier": "245858-f-168487",
+          "notation_codictFunctionId": "168487",
+          "memberDuring": {
+            "id": "time-period/20230703-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-03"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/245858-f-168513",
+          "type": "Membership",
+          "identifier": "245858-f-168513",
+          "notation_codictFunctionId": "168513",
+          "memberDuring": {
+            "id": "time-period/20230710-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-10"
+          },
+          "organization": "org/6361",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/245858-f-168495",
+          "type": "Membership",
+          "identifier": "245858-f-168495",
+          "notation_codictFunctionId": "168495",
+          "memberDuring": {
+            "id": "time-period/20230703-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-07-03"
+          },
+          "organization": "org/5196",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Schwäbisch Gmünd",
+      "familyName": "Rudner",
+      "givenName": "Thomas",
+      "img": "https://www.europarl.europa.eu/mepphoto/245858.jpg",
+      "sortLabel": "RUDNERT",
+      "upperFamilyName": "RUDNER",
+      "upperGivenName": "THOMAS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

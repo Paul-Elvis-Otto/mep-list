@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "id": "person/256935",
+      "type": "Person",
+      "identifier": "256935",
+      "label": "Sabrina REPP",
+      "notation_codictPersonId": "256935",
+      "bday": "1999-02-01",
+      "hasEmail": "mailto:sabrina.repp@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256935-f-174089",
+          "type": "Membership",
+          "identifier": "256935-f-174089",
+          "notation_codictFunctionId": "174089",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6581",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256935-f-176119",
+          "type": "Membership",
+          "identifier": "256935-f-176119",
+          "notation_codictFunctionId": "176119",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6618",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256935-m-17052",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256935-m-17052",
+          "notation_codictMandateId": "17052",
+          "contactPoint": [
+            {
+              "id": "contact-point/256935-m-17052-T07017",
+              "type": "ContactPoint",
+              "officeAddress": "T07017",
+              "hasTelephone": {
+                "id": "tel/0033388175783",
+                "type": "Voice",
+                "hasValue": "tel:+33388175783"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256935-m-17052-12G162",
+              "type": "ContactPoint",
+              "officeAddress": "12G162",
+              "hasTelephone": {
+                "id": "tel/003222845783",
+                "type": "Voice",
+                "hasValue": "tel:+3222845783"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256935-f-172314",
+          "type": "Membership",
+          "identifier": "256935-f-172314",
+          "notation_codictFunctionId": "172314",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7038",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256935-f-178525",
+          "type": "Membership",
+          "identifier": "256935-f-178525",
+          "notation_codictFunctionId": "178525",
+          "memberDuring": {
+            "id": "time-period/20250127",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-27"
+          },
+          "organization": "org/7900",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256935-f-171549",
+          "type": "Membership",
+          "identifier": "256935-f-171549",
+          "notation_codictFunctionId": "171549",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6772",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256935-f-173775",
+          "type": "Membership",
+          "identifier": "256935-f-173775",
+          "notation_codictFunctionId": "173775",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6584",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256935-f-179219",
+          "type": "Membership",
+          "identifier": "256935-f-179219",
+          "notation_codictFunctionId": "179219",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7891",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256935-f-173956",
+          "type": "Membership",
+          "identifier": "256935-f-173956",
+          "notation_codictFunctionId": "173956",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6588",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256935-f-169887",
+          "type": "Membership",
+          "identifier": "256935-f-169887",
+          "notation_codictFunctionId": "169887",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256935-f-178727",
+          "type": "Membership",
+          "identifier": "256935-f-178727",
+          "notation_codictFunctionId": "178727",
+          "memberDuring": {
+            "id": "time-period/20250129",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-29"
+          },
+          "organization": "org/7903",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256935-f-175177",
+          "type": "Membership",
+          "identifier": "256935-f-175177",
+          "notation_codictFunctionId": "175177",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6589",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Rostock",
+      "account": [
+        {
+          "id": "https://www.instagram.com/sabrina.repp/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Repp",
+      "givenName": "Sabrina",
+      "homepage": "https://sabrina-repp.eu/",
+      "img": "https://www.europarl.europa.eu/mepphoto/256935.jpg",
+      "sortLabel": "REPPS",
+      "upperFamilyName": "REPP",
+      "upperGivenName": "SABRINA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

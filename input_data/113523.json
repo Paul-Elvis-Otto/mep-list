@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "id": "person/113523",
+      "type": "Person",
+      "identifier": "113523",
+      "label": "Peter AGIUS",
+      "notation_codictPersonId": "113523",
+      "bday": "1979-04-09",
+      "hasEmail": "mailto:peter.agius@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/113523-f-174546",
+          "type": "Membership",
+          "identifier": "113523-f-174546",
+          "notation_codictFunctionId": "174546",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6591",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/113523-f-178242",
+          "type": "Membership",
+          "identifier": "113523-f-178242",
+          "notation_codictFunctionId": "178242",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7912",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/113523-f-178085",
+          "type": "Membership",
+          "identifier": "113523-f-178085",
+          "notation_codictFunctionId": "178085",
+          "memberDuring": {
+            "id": "time-period/20250116",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-16"
+          },
+          "organization": "org/7882",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/113523-f-174201",
+          "type": "Membership",
+          "identifier": "113523-f-174201",
+          "notation_codictFunctionId": "174201",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6582",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/113523-f-169913",
+          "type": "Membership",
+          "identifier": "113523-f-169913",
+          "notation_codictFunctionId": "169913",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/113523-f-173402",
+          "type": "Membership",
+          "identifier": "113523-f-173402",
+          "notation_codictFunctionId": "173402",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/113523-f-179359",
+          "type": "Membership",
+          "identifier": "113523-f-179359",
+          "notation_codictFunctionId": "179359",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7905",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/113523-m-17064",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/MLT"
+          ],
+          "identifier": "113523-m-17064",
+          "notation_codictMandateId": "17064",
+          "contactPoint": [
+            {
+              "id": "contact-point/113523-m-17064-T11008",
+              "type": "ContactPoint",
+              "officeAddress": "T11008",
+              "hasTelephone": {
+                "id": "tel/0033388175192",
+                "type": "Voice",
+                "hasValue": "tel:+33388175192"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/113523-m-17064-07F136",
+              "type": "ContactPoint",
+              "officeAddress": "07F136",
+              "hasTelephone": {
+                "id": "tel/003222845192",
+                "type": "Voice",
+                "hasValue": "tel:+3222845192"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/113523-f-172543",
+          "type": "Membership",
+          "identifier": "113523-f-172543",
+          "notation_codictFunctionId": "172543",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/113523-f-170808",
+          "type": "Membership",
+          "identifier": "113523-f-170808",
+          "notation_codictFunctionId": "170808",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6690",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/113523-f-179831",
+          "type": "Membership",
+          "identifier": "113523-f-179831",
+          "notation_codictFunctionId": "179831",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7885",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/MLT",
+      "placeOfBirth": "St. Julians",
+      "account": [
+        {
+          "id": "https://www.facebook.com/PeterAgiusMalta/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://x.com/peteragius_eu",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/peteragius/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Agius",
+      "givenName": "Peter",
+      "img": "https://www.europarl.europa.eu/mepphoto/113523.jpg",
+      "sortLabel": "AGIUSP",
+      "upperFamilyName": "AGIUS",
+      "upperGivenName": "PETER"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

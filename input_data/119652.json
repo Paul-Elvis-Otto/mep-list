@@ -1,0 +1,286 @@
+{
+  "data": [
+    {
+      "id": "person/119652",
+      "type": "Person",
+      "identifier": "119652",
+      "label": "Vytenis Povilas ANDRIUKAITIS",
+      "notation_codictPersonId": "119652",
+      "bday": "1951-08-09",
+      "hasEmail": [
+        "mailto:vytenispovilas.andriukaitis@europarl.europa.eu",
+        "mailto:vytenis.andriukaitis@europarl.europa.eu"
+      ],
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/119652-m-16835",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/LTU"
+          ],
+          "identifier": "119652-m-16835",
+          "notation_codictMandateId": "16835",
+          "contactPoint": [
+            {
+              "id": "contact-point/119652-m-16835-11G257",
+              "type": "ContactPoint",
+              "officeAddress": "11G257",
+              "hasTelephone": {
+                "id": "tel/003222845185",
+                "type": "Voice",
+                "hasValue": "tel:+3222845185"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/119652-m-16835-T08078",
+              "type": "ContactPoint",
+              "officeAddress": "T08078",
+              "hasTelephone": {
+                "id": "tel/0033388175185",
+                "type": "Voice",
+                "hasValue": "tel:+33388175185"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/119652-f-172941",
+          "type": "Membership",
+          "identifier": "119652-f-172941",
+          "notation_codictFunctionId": "172941",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6587",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/119652-f-175336",
+          "type": "Membership",
+          "identifier": "119652-f-175336",
+          "notation_codictFunctionId": "175336",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6596",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/119652-f-179129",
+          "type": "Membership",
+          "identifier": "119652-f-179129",
+          "notation_codictFunctionId": "179129",
+          "memberDuring": {
+            "id": "time-period/20250204",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-04"
+          },
+          "organization": "org/7891",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/119652-f-177711",
+          "type": "Membership",
+          "identifier": "119652-f-177711",
+          "notation_codictFunctionId": "177711",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/119652-f-169456",
+          "type": "Membership",
+          "identifier": "119652-f-169456",
+          "notation_codictFunctionId": "169456",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/119652-f-176114",
+          "type": "Membership",
+          "identifier": "119652-f-176114",
+          "notation_codictFunctionId": "176114",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6618",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/119652-f-179471",
+          "type": "Membership",
+          "identifier": "119652-f-179471",
+          "notation_codictFunctionId": "179471",
+          "memberDuring": {
+            "id": "time-period/20250127",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-27"
+          },
+          "organization": "org/7898",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/119652-f-172381",
+          "type": "Membership",
+          "identifier": "119652-f-172381",
+          "notation_codictFunctionId": "172381",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7038",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/119652-f-178134",
+          "type": "Membership",
+          "identifier": "119652-f-178134",
+          "notation_codictFunctionId": "178134",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7912",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/119652-f-175311",
+          "type": "Membership",
+          "identifier": "119652-f-175311",
+          "notation_codictFunctionId": "175311",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6595",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/119652-f-179228",
+          "type": "Membership",
+          "identifier": "119652-f-179228",
+          "notation_codictFunctionId": "179228",
+          "memberDuring": {
+            "id": "time-period/20250205",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-05"
+          },
+          "organization": "org/7908",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/119652-f-171872",
+          "type": "Membership",
+          "identifier": "119652-f-171872",
+          "notation_codictFunctionId": "171872",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6797",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/119652-f-173833",
+          "type": "Membership",
+          "identifier": "119652-f-173833",
+          "notation_codictFunctionId": "173833",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7008",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/119652-f-174194",
+          "type": "Membership",
+          "identifier": "119652-f-174194",
+          "notation_codictFunctionId": "174194",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/119652-f-180109",
+          "type": "Membership",
+          "identifier": "119652-f-180109",
+          "notation_codictFunctionId": "180109",
+          "memberDuring": {
+            "id": "time-period/20250311",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-11"
+          },
+          "organization": "org/7887",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/LTU",
+      "familyName": "Andriukaitis",
+      "givenName": "Vytenis Povilas",
+      "img": "https://www.europarl.europa.eu/mepphoto/119652.jpg",
+      "sortLabel": "ANDRIUKAITISV",
+      "upperFamilyName": "ANDRIUKAITIS",
+      "upperGivenName": "VYTENIS POVILAS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

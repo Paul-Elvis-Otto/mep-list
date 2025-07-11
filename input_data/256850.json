@@ -1,0 +1,227 @@
+{
+  "data": [
+    {
+      "id": "person/256850",
+      "type": "Person",
+      "identifier": "256850",
+      "label": "Filip TUREK",
+      "notation_codictPersonId": "256850",
+      "bday": "1985-10-15",
+      "hasEmail": "mailto:filip.turek@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256850-f-174650",
+          "type": "Membership",
+          "identifier": "256850-f-174650",
+          "notation_codictFunctionId": "174650",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256850-m-16895",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/CZE"
+          ],
+          "identifier": "256850-m-16895",
+          "notation_codictMandateId": "16895",
+          "contactPoint": [
+            {
+              "id": "contact-point/256850-m-16895-G06007",
+              "type": "ContactPoint",
+              "officeAddress": "G06007",
+              "hasTelephone": {
+                "id": "tel/0033388175950",
+                "type": "Voice",
+                "hasValue": "tel:+33388175950"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/256850-m-16895-04M047",
+              "type": "ContactPoint",
+              "officeAddress": "04M047",
+              "hasTelephone": {
+                "id": "tel/003222845950",
+                "type": "Voice",
+                "hasValue": "tel:+3222845950"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256850-f-176053",
+          "type": "Membership",
+          "identifier": "256850-f-176053",
+          "notation_codictFunctionId": "176053",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6616",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256850-f-169576",
+          "type": "Membership",
+          "identifier": "256850-f-169576",
+          "notation_codictFunctionId": "169576",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256850-f-177242",
+          "type": "Membership",
+          "identifier": "256850-f-177242",
+          "notation_codictFunctionId": "177242",
+          "memberDuring": {
+            "id": "time-period/20241003",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-03"
+          },
+          "organization": "org/6602",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256850-f-172586",
+          "type": "Membership",
+          "identifier": "256850-f-172586",
+          "notation_codictFunctionId": "172586",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER_BUREAU",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256850-f-174491",
+          "type": "Membership",
+          "identifier": "256850-f-174491",
+          "notation_codictFunctionId": "174491",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6579",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256850-f-171981",
+          "type": "Membership",
+          "identifier": "256850-f-171981",
+          "notation_codictFunctionId": "171981",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7034",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256850-f-177790",
+          "type": "Membership",
+          "identifier": "256850-f-177790",
+          "notation_codictFunctionId": "177790",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256850-f-176107",
+          "type": "Membership",
+          "identifier": "256850-f-176107",
+          "notation_codictFunctionId": "176107",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6618",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256850-f-173375",
+          "type": "Membership",
+          "identifier": "256850-f-173375",
+          "notation_codictFunctionId": "173375",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256850-f-175511",
+          "type": "Membership",
+          "identifier": "256850-f-175511",
+          "notation_codictFunctionId": "175511",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6603",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/CZE",
+      "placeOfBirth": "Prague",
+      "familyName": "Turek",
+      "givenName": "Filip",
+      "img": "https://www.europarl.europa.eu/mepphoto/256850.jpg",
+      "sortLabel": "TUREKF",
+      "upperFamilyName": "TUREK",
+      "upperGivenName": "FILIP"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

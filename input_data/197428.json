@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "id": "person/197428",
+      "type": "Person",
+      "identifier": "197428",
+      "label": "Nicolas SCHMIT",
+      "notation_codictPersonId": "197428",
+      "bday": "1953-12-10",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/197428-f-158851",
+          "type": "Membership",
+          "identifier": "197428-f-158851",
+          "notation_codictFunctionId": "158851",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5112",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/197428-f-156887",
+          "type": "Membership",
+          "identifier": "197428-f-156887",
+          "notation_codictFunctionId": "156887",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5086",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197428-f-156152",
+          "type": "Membership",
+          "identifier": "197428-f-156152",
+          "notation_codictFunctionId": "156152",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5154",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197428-f-153302",
+          "type": "Membership",
+          "identifier": "197428-f-153302",
+          "notation_codictFunctionId": "153302",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5283",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197428-f-159807",
+          "type": "Membership",
+          "identifier": "197428-f-159807",
+          "notation_codictFunctionId": "159807",
+          "memberDuring": {
+            "id": "time-period/20190702-20191020",
+            "type": "PeriodOfTime",
+            "endDate": "2019-10-20",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5143",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/197428-f-153300",
+          "type": "Membership",
+          "identifier": "197428-f-153300",
+          "notation_codictFunctionId": "153300",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/197428-f-156996",
+          "type": "Membership",
+          "identifier": "197428-f-156996",
+          "notation_codictFunctionId": "156996",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5087",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197428-f-159328",
+          "type": "Membership",
+          "identifier": "197428-f-159328",
+          "notation_codictFunctionId": "159328",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5124",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/197428-m-15941",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/LUX"
+          ],
+          "identifier": "197428-m-15941",
+          "notation_codictMandateId": "15941",
+          "memberDuring": {
+            "id": "time-period/20190702-20191130",
+            "type": "PeriodOfTime",
+            "endDate": "2019-11-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/LUX",
+      "placeOfBirth": "Differdange",
+      "familyName": "Schmit",
+      "givenName": "Nicolas",
+      "img": "https://www.europarl.europa.eu/mepphoto/197428.jpg",
+      "sortLabel": "SCHMITNI",
+      "upperFamilyName": "SCHMIT",
+      "upperGivenName": "NICOLAS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

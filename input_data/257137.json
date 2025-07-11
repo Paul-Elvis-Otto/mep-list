@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "id": "person/257137",
+      "type": "Person",
+      "identifier": "257137",
+      "label": "Marco FALCONE",
+      "notation_codictPersonId": "257137",
+      "bday": "1971-01-05",
+      "hasEmail": "mailto:marco.falcone@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257137-f-172551",
+          "type": "Membership",
+          "identifier": "257137-f-172551",
+          "notation_codictFunctionId": "172551",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257137-f-178322",
+          "type": "Membership",
+          "identifier": "257137-f-178322",
+          "notation_codictFunctionId": "178322",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7915",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_TEMPORARY"
+        },
+        {
+          "id": "membership/257137-f-170739",
+          "type": "Membership",
+          "identifier": "257137-f-170739",
+          "notation_codictFunctionId": "170739",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257137-f-175899",
+          "type": "Membership",
+          "identifier": "257137-f-175899",
+          "notation_codictFunctionId": "175899",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6612",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257137-f-173437",
+          "type": "Membership",
+          "identifier": "257137-f-173437",
+          "notation_codictFunctionId": "173437",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6583",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257137-f-175411",
+          "type": "Membership",
+          "identifier": "257137-f-175411",
+          "notation_codictFunctionId": "175411",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6599",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257137-m-17481",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ITA"
+          ],
+          "identifier": "257137-m-17481",
+          "notation_codictMandateId": "17481",
+          "contactPoint": [
+            {
+              "id": "contact-point/257137-m-17481-T09050",
+              "type": "ContactPoint",
+              "officeAddress": "T09050",
+              "hasTelephone": {
+                "id": "tel/0033388175405",
+                "type": "Voice",
+                "hasValue": "tel:+33388175405"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/257137-m-17481-11E202",
+              "type": "ContactPoint",
+              "officeAddress": "11E202",
+              "hasTelephone": {
+                "id": "tel/003222845405",
+                "type": "Voice",
+                "hasValue": "tel:+3222845405"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257137-f-173257",
+          "type": "Membership",
+          "identifier": "257137-f-173257",
+          "notation_codictFunctionId": "173257",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257137-f-171668",
+          "type": "Membership",
+          "identifier": "257137-f-171668",
+          "notation_codictFunctionId": "171668",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6744",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ITA",
+      "placeOfBirth": "Catania",
+      "account": [
+        {
+          "id": "https://www.instagram.com/marcofalconeofficial/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://x.com/marcofalconect?s=21&t=9BkYUyqgWm_Sc5Vzdf9d1w",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.facebook.com/avvmarcofalcone",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.linkedin.com/in/marco-falcone-mep/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/LNK"
+        }
+      ],
+      "familyName": "Falcone",
+      "givenName": "Marco",
+      "homepage": "https://www.falconemarco.it/",
+      "img": "https://www.europarl.europa.eu/mepphoto/257137.jpg",
+      "sortLabel": "FALCONEM",
+      "upperFamilyName": "FALCONE",
+      "upperGivenName": "MARCO"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

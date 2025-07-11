@@ -1,0 +1,221 @@
+{
+  "data": [
+    {
+      "id": "person/256943",
+      "type": "Person",
+      "officialFamilyName": "Μελέτη",
+      "officialGivenName": "Ελεονώρα",
+      "identifier": "256943",
+      "label": "Eleonora MELETI",
+      "notation_codictPersonId": "256943",
+      "hasEmail": "mailto:eleonora.meleti@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256943-f-179412",
+          "type": "Membership",
+          "identifier": "256943-f-179412",
+          "notation_codictFunctionId": "179412",
+          "memberDuring": {
+            "id": "time-period/20250131",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-31"
+          },
+          "organization": "org/7906",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256943-f-178753",
+          "type": "Membership",
+          "identifier": "256943-f-178753",
+          "notation_codictFunctionId": "178753",
+          "memberDuring": {
+            "id": "time-period/20250129",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-29"
+          },
+          "organization": "org/7903",
+          "role": "def/ep-roles/CHAIR_CO",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256943-f-171689",
+          "type": "Membership",
+          "identifier": "256943-f-171689",
+          "notation_codictFunctionId": "171689",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6730",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256943-f-176131",
+          "type": "Membership",
+          "identifier": "256943-f-176131",
+          "notation_codictFunctionId": "176131",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6619",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256943-f-174198",
+          "type": "Membership",
+          "identifier": "256943-f-174198",
+          "notation_codictFunctionId": "174198",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6584",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256943-f-169944",
+          "type": "Membership",
+          "identifier": "256943-f-169944",
+          "notation_codictFunctionId": "169944",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256943-f-179274",
+          "type": "Membership",
+          "identifier": "256943-f-179274",
+          "notation_codictFunctionId": "179274",
+          "memberDuring": {
+            "id": "time-period/20250205",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-05"
+          },
+          "organization": "org/7908",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256943-f-174160",
+          "type": "Membership",
+          "identifier": "256943-f-174160",
+          "notation_codictFunctionId": "174160",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6588",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256943-m-17081",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GRC"
+          ],
+          "identifier": "256943-m-17081",
+          "notation_codictMandateId": "17081",
+          "contactPoint": [
+            {
+              "id": "contact-point/256943-m-17081-T09023",
+              "type": "ContactPoint",
+              "officeAddress": "T09023",
+              "hasTelephone": {
+                "id": "tel/0033388175733",
+                "type": "Voice",
+                "hasValue": "tel:+33388175733"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/256943-m-17081-09E115",
+              "type": "ContactPoint",
+              "officeAddress": "09E115",
+              "hasTelephone": {
+                "id": "tel/003222845733",
+                "type": "Voice",
+                "hasValue": "tel:+3222845733"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256943-f-174587",
+          "type": "Membership",
+          "identifier": "256943-f-174587",
+          "notation_codictFunctionId": "174587",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256943-f-172364",
+          "type": "Membership",
+          "identifier": "256943-f-172364",
+          "notation_codictFunctionId": "172364",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GRC",
+      "account": [
+        {
+          "id": "https://www.instagram.com/nonoram/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Meleti",
+      "givenName": "Eleonora",
+      "img": "https://www.europarl.europa.eu/mepphoto/256943.jpg",
+      "sortLabel": "MELETIE",
+      "upperFamilyName": "MELETI",
+      "upperGivenName": "ELEONORA",
+      "upperOfficialFamilyName": "ΜΕΛΕΤΗ",
+      "upperOfficialGivenName": "ΕΛΕΟΝΩΡΑ"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

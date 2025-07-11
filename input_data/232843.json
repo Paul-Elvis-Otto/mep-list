@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": "person/232843",
+      "type": "Person",
+      "identifier": "232843",
+      "label": "Jan OVELGÖNNE",
+      "notation_codictPersonId": "232843",
+      "bday": "1975-06-30",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/232843-f-169276",
+          "type": "Membership",
+          "identifier": "232843-f-169276",
+          "notation_codictFunctionId": "169276",
+          "memberDuring": {
+            "id": "time-period/20240312-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-12"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/232843-f-169282",
+          "type": "Membership",
+          "identifier": "232843-f-169282",
+          "notation_codictFunctionId": "169282",
+          "memberDuring": {
+            "id": "time-period/20240319-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-19"
+          },
+          "organization": "org/6366",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/232843-f-169280",
+          "type": "Membership",
+          "identifier": "232843-f-169280",
+          "notation_codictFunctionId": "169280",
+          "memberDuring": {
+            "id": "time-period/20240312-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-12"
+          },
+          "organization": "org/5197",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/232843-f-169283",
+          "type": "Membership",
+          "identifier": "232843-f-169283",
+          "notation_codictFunctionId": "169283",
+          "memberDuring": {
+            "id": "time-period/20240319-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-19"
+          },
+          "organization": "org/6365",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/232843-f-169277",
+          "type": "Membership",
+          "identifier": "232843-f-169277",
+          "notation_codictFunctionId": "169277",
+          "memberDuring": {
+            "id": "time-period/20240312-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-12"
+          },
+          "organization": "org/5155",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/232843-f-169284",
+          "type": "Membership",
+          "identifier": "232843-f-169284",
+          "notation_codictFunctionId": "169284",
+          "memberDuring": {
+            "id": "time-period/20240319-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-19"
+          },
+          "organization": "org/6367",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/232843-m-16792",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "232843-m-16792",
+          "notation_codictMandateId": "16792",
+          "memberDuring": {
+            "id": "time-period/20240312-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-03-12"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Volkach",
+      "familyName": "Ovelgönne",
+      "givenName": "Jan",
+      "img": "https://www.europarl.europa.eu/mepphoto/232843.jpg",
+      "sortLabel": "OVELGÖNNEJ",
+      "upperFamilyName": "OVELGÖNNE",
+      "upperGivenName": "JAN"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "id": "person/261796",
+      "type": "Person",
+      "identifier": "261796",
+      "label": "Séverine WERBROUCK",
+      "notation_codictPersonId": "261796",
+      "bday": "1978-10-31",
+      "hasEmail": "mailto:severine.werbrouck@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/261796-m-17553",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "261796-m-17553",
+          "notation_codictMandateId": "17553",
+          "contactPoint": [
+            {
+              "id": "contact-point/261796-m-17553-06M071",
+              "type": "ContactPoint",
+              "officeAddress": "06M071",
+              "hasTelephone": {
+                "id": "tel/003222845847",
+                "type": "Voice",
+                "hasValue": "tel:+3222845847"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            },
+            {
+              "id": "contact-point/261796-m-17553-G07013",
+              "type": "ContactPoint",
+              "officeAddress": "G07013",
+              "hasTelephone": {
+                "id": "tel/0033388175847",
+                "type": "Voice",
+                "hasValue": "tel:+33388175847"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240927",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-27"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/261796-f-177393",
+          "type": "Membership",
+          "identifier": "261796-f-177393",
+          "notation_codictFunctionId": "177393",
+          "memberDuring": {
+            "id": "time-period/20241010",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-10"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/261796-f-179820",
+          "type": "Membership",
+          "identifier": "261796-f-179820",
+          "notation_codictFunctionId": "179820",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/261796-f-177327",
+          "type": "Membership",
+          "identifier": "261796-f-177327",
+          "notation_codictFunctionId": "177327",
+          "memberDuring": {
+            "id": "time-period/20240927",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-27"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/261796-f-177394",
+          "type": "Membership",
+          "identifier": "261796-f-177394",
+          "notation_codictFunctionId": "177394",
+          "memberDuring": {
+            "id": "time-period/20241010",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-10"
+          },
+          "organization": "org/6614",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/261796-f-177592",
+          "type": "Membership",
+          "identifier": "261796-f-177592",
+          "notation_codictFunctionId": "177592",
+          "memberDuring": {
+            "id": "time-period/20241212",
+            "type": "PeriodOfTime",
+            "startDate": "2024-12-12"
+          },
+          "organization": "org/6583",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/261796-f-180286",
+          "type": "Membership",
+          "identifier": "261796-f-180286",
+          "notation_codictFunctionId": "180286",
+          "memberDuring": {
+            "id": "time-period/20250312",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-12"
+          },
+          "organization": "org/7893",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/261796-f-177384",
+          "type": "Membership",
+          "identifier": "261796-f-177384",
+          "notation_codictFunctionId": "177384",
+          "memberDuring": {
+            "id": "time-period/20241009",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-09"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/261796-f-177383",
+          "type": "Membership",
+          "identifier": "261796-f-177383",
+          "notation_codictFunctionId": "177383",
+          "memberDuring": {
+            "id": "time-period/20241009-20241211",
+            "type": "PeriodOfTime",
+            "endDate": "2024-12-11",
+            "startDate": "2024-10-09"
+          },
+          "organization": "org/7005",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/261796-f-177326",
+          "type": "Membership",
+          "identifier": "261796-f-177326",
+          "notation_codictFunctionId": "177326",
+          "memberDuring": {
+            "id": "time-period/20240927",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-27"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/261796-f-177381",
+          "type": "Membership",
+          "identifier": "261796-f-177381",
+          "notation_codictFunctionId": "177381",
+          "memberDuring": {
+            "id": "time-period/20240927",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-27"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Pau",
+      "familyName": "Werbrouck",
+      "givenName": "Séverine",
+      "img": "https://www.europarl.europa.eu/mepphoto/261796.jpg",
+      "sortLabel": "WERBROUCKS",
+      "upperFamilyName": "WERBROUCK",
+      "upperGivenName": "SÉVERINE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

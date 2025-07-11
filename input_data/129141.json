@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "id": "person/129141",
+      "type": "Person",
+      "identifier": "129141",
+      "label": "Frans TIMMERMANS",
+      "notation_codictPersonId": "129141",
+      "bday": "1961-05-06",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/129141-f-154681",
+          "type": "Membership",
+          "identifier": "129141-f-154681",
+          "notation_codictFunctionId": "154681",
+          "memberDuring": {
+            "id": "time-period/20190702-20190702",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-02",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/129141-f-154682",
+          "type": "Membership",
+          "identifier": "129141-f-154682",
+          "notation_codictFunctionId": "154682",
+          "memberDuring": {
+            "id": "time-period/20190702-20190702",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-02",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5298",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/129141-f-156161",
+          "type": "Membership",
+          "identifier": "129141-f-156161",
+          "notation_codictFunctionId": "156161",
+          "memberDuring": {
+            "id": "time-period/20190702-20190702",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-02",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5154",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/129141-m-16399",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/NLD"
+          ],
+          "identifier": "129141-m-16399",
+          "notation_codictMandateId": "16399",
+          "memberDuring": {
+            "id": "time-period/20190702-20190702",
+            "type": "PeriodOfTime",
+            "endDate": "2019-07-02",
+            "startDate": "2019-07-02"
+          },
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/NLD",
+      "familyName": "Timmermans",
+      "givenName": "Frans",
+      "img": "https://www.europarl.europa.eu/mepphoto/129141.jpg",
+      "sortLabel": "TIMMERMANS",
+      "upperFamilyName": "TIMMERMANS",
+      "upperGivenName": "FRANS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

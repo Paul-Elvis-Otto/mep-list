@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "person/257042",
+      "type": "Person",
+      "identifier": "257042",
+      "label": "Marcin KIERWIŃSKI",
+      "notation_codictPersonId": "257042",
+      "bday": "1976-08-22",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257042-f-171970",
+          "type": "Membership",
+          "identifier": "257042-f-171970",
+          "notation_codictFunctionId": "171970",
+          "memberDuring": {
+            "id": "time-period/20240716-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6703",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257042-m-17312",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/POL"
+          ],
+          "identifier": "257042-m-17312",
+          "notation_codictMandateId": "17312",
+          "memberDuring": {
+            "id": "time-period/20240716-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257042-f-174897",
+          "type": "Membership",
+          "identifier": "257042-f-174897",
+          "notation_codictFunctionId": "174897",
+          "memberDuring": {
+            "id": "time-period/20240719-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257042-f-172872",
+          "type": "Membership",
+          "identifier": "257042-f-172872",
+          "notation_codictFunctionId": "172872",
+          "memberDuring": {
+            "id": "time-period/20240719-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257042-f-174465",
+          "type": "Membership",
+          "identifier": "257042-f-174465",
+          "notation_codictFunctionId": "174465",
+          "memberDuring": {
+            "id": "time-period/20240719-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7006",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/257042-f-170405",
+          "type": "Membership",
+          "identifier": "257042-f-170405",
+          "notation_codictFunctionId": "170405",
+          "memberDuring": {
+            "id": "time-period/20240716-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257042-f-172449",
+          "type": "Membership",
+          "identifier": "257042-f-172449",
+          "notation_codictFunctionId": "172449",
+          "memberDuring": {
+            "id": "time-period/20240716-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257042-f-175246",
+          "type": "Membership",
+          "identifier": "257042-f-175246",
+          "notation_codictFunctionId": "175246",
+          "memberDuring": {
+            "id": "time-period/20240919-20240925",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-25",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6593",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/POL",
+      "placeOfBirth": "Warszawa",
+      "familyName": "Kierwiński",
+      "givenName": "Marcin",
+      "img": "https://www.europarl.europa.eu/mepphoto/257042.jpg",
+      "sortLabel": "KIERWINSKIM",
+      "upperFamilyName": "KIERWIŃSKI",
+      "upperGivenName": "MARCIN"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

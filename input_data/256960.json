@@ -1,0 +1,195 @@
+{
+  "data": [
+    {
+      "id": "person/256960",
+      "type": "Person",
+      "identifier": "256960",
+      "label": "Sibylle BERG",
+      "notation_codictPersonId": "256960",
+      "hasEmail": "mailto:sibylle.berg@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/NKN",
+      "hasMembership": [
+        {
+          "id": "membership/256960-f-174481",
+          "type": "Membership",
+          "identifier": "256960-f-174481",
+          "notation_codictFunctionId": "174481",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6584",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256960-m-17140",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256960-m-17140",
+          "notation_codictMandateId": "17140",
+          "contactPoint": [
+            {
+              "id": "contact-point/256960-m-17140-G00016",
+              "type": "ContactPoint",
+              "officeAddress": "G00016",
+              "hasTelephone": {
+                "id": "tel/0033388175407",
+                "type": "Voice",
+                "hasValue": "tel:+33388175407"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/256960-m-17140-03F364",
+              "type": "ContactPoint",
+              "officeAddress": "03F364",
+              "hasTelephone": {
+                "id": "tel/003222845407",
+                "type": "Voice",
+                "hasValue": "tel:+3222845407"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256960-f-175821",
+          "type": "Membership",
+          "identifier": "256960-f-175821",
+          "notation_codictFunctionId": "175821",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6611",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256960-f-170062",
+          "type": "Membership",
+          "identifier": "256960-f-170062",
+          "notation_codictFunctionId": "170062",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6561",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256960-f-170061",
+          "type": "Membership",
+          "identifier": "256960-f-170061",
+          "notation_codictFunctionId": "170061",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256960-f-180395",
+          "type": "Membership",
+          "identifier": "256960-f-180395",
+          "notation_codictFunctionId": "180395",
+          "memberDuring": {
+            "id": "time-period/20250521",
+            "type": "PeriodOfTime",
+            "startDate": "2025-05-21"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256960-f-176128",
+          "type": "Membership",
+          "identifier": "256960-f-176128",
+          "notation_codictFunctionId": "176128",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6619",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256960-f-173049",
+          "type": "Membership",
+          "identifier": "256960-f-173049",
+          "notation_codictFunctionId": "173049",
+          "memberDuring": {
+            "id": "time-period/20240719-20250520",
+            "type": "PeriodOfTime",
+            "endDate": "2025-05-20",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6581",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256960-f-171877",
+          "type": "Membership",
+          "identifier": "256960-f-171877",
+          "notation_codictFunctionId": "171877",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6803",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "account": [
+        {
+          "id": "https://x.com/SibylleBerg?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.instagram.com/sibylle_berg/?hl=de",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        }
+      ],
+      "familyName": "Berg",
+      "givenName": "Sibylle",
+      "homepage": "https://sibylleberg.com/",
+      "img": "https://www.europarl.europa.eu/mepphoto/256960.jpg",
+      "sortLabel": "BERGS",
+      "upperFamilyName": "BERG",
+      "upperGivenName": "SIBYLLE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

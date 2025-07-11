@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "id": "person/257113",
+      "type": "Person",
+      "identifier": "257113",
+      "label": "Antonella SBERNA",
+      "notation_codictPersonId": "257113",
+      "bday": "1982-01-11",
+      "hasEmail": "mailto:antonella.sberna@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/257113-f-178314",
+          "type": "Membership",
+          "identifier": "257113-f-178314",
+          "notation_codictFunctionId": "178314",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7915",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_TEMPORARY"
+        },
+        {
+          "id": "membership/257113-m-17433",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ITA"
+          ],
+          "identifier": "257113-m-17433",
+          "notation_codictMandateId": "17433",
+          "contactPoint": [
+            {
+              "id": "contact-point/257113-m-17433-08E257",
+              "type": "ContactPoint",
+              "officeAddress": "08E257",
+              "hasTelephone": {
+                "id": "tel/003222845922",
+                "type": "Voice",
+                "hasValue": "tel:+3222845922"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/257113-m-17433-T12071",
+              "type": "ContactPoint",
+              "officeAddress": "T12071",
+              "hasTelephone": {
+                "id": "tel/0033388175922",
+                "type": "Voice",
+                "hasValue": "tel:+33388175922"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257113-f-175378",
+          "type": "Membership",
+          "identifier": "257113-f-175378",
+          "notation_codictFunctionId": "175378",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6598",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257113-f-176516",
+          "type": "Membership",
+          "identifier": "257113-f-176516",
+          "notation_codictFunctionId": "176516",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6565",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/257113-f-177818",
+          "type": "Membership",
+          "identifier": "257113-f-177818",
+          "notation_codictFunctionId": "177818",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257113-f-179708",
+          "type": "Membership",
+          "identifier": "257113-f-179708",
+          "notation_codictFunctionId": "179708",
+          "memberDuring": {
+            "id": "time-period/20250219",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-19"
+          },
+          "organization": "org/7886",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257113-f-176933",
+          "type": "Membership",
+          "identifier": "257113-f-176933",
+          "notation_codictFunctionId": "176933",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/257113-f-172138",
+          "type": "Membership",
+          "identifier": "257113-f-172138",
+          "notation_codictFunctionId": "172138",
+          "memberDuring": {
+            "id": "time-period/20240716-20240716",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-16",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257113-f-172827",
+          "type": "Membership",
+          "identifier": "257113-f-172827",
+          "notation_codictFunctionId": "172827",
+          "memberDuring": {
+            "id": "time-period/20240717",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-17"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER_BUREAU",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257113-f-172822",
+          "type": "Membership",
+          "identifier": "257113-f-172822",
+          "notation_codictFunctionId": "172822",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/PRESIDENT_VICE",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257113-f-171663",
+          "type": "Membership",
+          "identifier": "257113-f-171663",
+          "notation_codictFunctionId": "171663",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6831",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257113-f-178528",
+          "type": "Membership",
+          "identifier": "257113-f-178528",
+          "notation_codictFunctionId": "178528",
+          "memberDuring": {
+            "id": "time-period/20250127",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-27"
+          },
+          "organization": "org/7900",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257113-f-172823",
+          "type": "Membership",
+          "identifier": "257113-f-172823",
+          "notation_codictFunctionId": "172823",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6630",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/257113-f-174174",
+          "type": "Membership",
+          "identifier": "257113-f-174174",
+          "notation_codictFunctionId": "174174",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6581",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257113-f-173507",
+          "type": "Membership",
+          "identifier": "257113-f-173507",
+          "notation_codictFunctionId": "173507",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257113-f-175930",
+          "type": "Membership",
+          "identifier": "257113-f-175930",
+          "notation_codictFunctionId": "175930",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6609",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ITA",
+      "placeOfBirth": "Roma",
+      "familyName": "Sberna",
+      "givenName": "Antonella",
+      "img": "https://www.europarl.europa.eu/mepphoto/257113.jpg",
+      "sortLabel": "SBERNAA",
+      "upperFamilyName": "SBERNA",
+      "upperGivenName": "ANTONELLA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "data": [
+    {
+      "id": "person/251859",
+      "type": "Person",
+      "identifier": "251859",
+      "label": "Guy LAVOCAT",
+      "notation_codictPersonId": "251859",
+      "bday": "1963-02-14",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/251859-f-169214",
+          "type": "Membership",
+          "identifier": "251859-f-169214",
+          "notation_codictFunctionId": "169214",
+          "memberDuring": {
+            "id": "time-period/20240205-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-02-05"
+          },
+          "organization": "org/5144",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/251859-f-169175",
+          "type": "Membership",
+          "identifier": "251859-f-169175",
+          "notation_codictFunctionId": "169175",
+          "memberDuring": {
+            "id": "time-period/20240125-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-25"
+          },
+          "organization": "org/5136",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/251859-m-16788",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "251859-m-16788",
+          "notation_codictMandateId": "16788",
+          "memberDuring": {
+            "id": "time-period/20240112-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-12"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/251859-f-169167",
+          "type": "Membership",
+          "identifier": "251859-f-169167",
+          "notation_codictFunctionId": "169167",
+          "memberDuring": {
+            "id": "time-period/20240112-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-12"
+          },
+          "organization": "org/6442",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/251859-f-169212",
+          "type": "Membership",
+          "identifier": "251859-f-169212",
+          "notation_codictFunctionId": "169212",
+          "memberDuring": {
+            "id": "time-period/20240205-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-02-05"
+          },
+          "organization": "org/6363",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/251859-f-169163",
+          "type": "Membership",
+          "identifier": "251859-f-169163",
+          "notation_codictFunctionId": "169163",
+          "memberDuring": {
+            "id": "time-period/20240112-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-12"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/251859-f-169213",
+          "type": "Membership",
+          "identifier": "251859-f-169213",
+          "notation_codictFunctionId": "169213",
+          "memberDuring": {
+            "id": "time-period/20240205-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-02-05"
+          },
+          "organization": "org/5122",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/251859-f-169174",
+          "type": "Membership",
+          "identifier": "251859-f-169174",
+          "notation_codictFunctionId": "169174",
+          "memberDuring": {
+            "id": "time-period/20240125-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-25"
+          },
+          "organization": "org/6368",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/251859-f-169164",
+          "type": "Membership",
+          "identifier": "251859-f-169164",
+          "notation_codictFunctionId": "169164",
+          "memberDuring": {
+            "id": "time-period/20240112-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-12"
+          },
+          "organization": "org/5704",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Pondichery",
+      "familyName": "Lavocat",
+      "givenName": "Guy",
+      "img": "https://www.europarl.europa.eu/mepphoto/251859.jpg",
+      "sortLabel": "LAVOCATG",
+      "upperFamilyName": "LAVOCAT",
+      "upperGivenName": "GUY"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

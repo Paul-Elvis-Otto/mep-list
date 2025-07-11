@@ -1,0 +1,185 @@
+{
+  "data": [
+    {
+      "id": "person/256939",
+      "type": "Person",
+      "identifier": "256939",
+      "label": "Thomas GEISEL",
+      "notation_codictPersonId": "256939",
+      "bday": "1963-10-26",
+      "hasEmail": "mailto:thomas.geisel@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256939-f-177469",
+          "type": "Membership",
+          "identifier": "256939-f-177469",
+          "notation_codictFunctionId": "177469",
+          "memberDuring": {
+            "id": "time-period/20241022",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-22"
+          },
+          "organization": "org/6617",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256939-f-173777",
+          "type": "Membership",
+          "identifier": "256939-f-173777",
+          "notation_codictFunctionId": "173777",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256939-f-175541",
+          "type": "Membership",
+          "identifier": "256939-f-175541",
+          "notation_codictFunctionId": "175541",
+          "memberDuring": {
+            "id": "time-period/20240919-20241021",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-21",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256939-m-17069",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256939-m-17069",
+          "notation_codictMandateId": "17069",
+          "contactPoint": [
+            {
+              "id": "contact-point/256939-m-17069-M01028",
+              "type": "ContactPoint",
+              "officeAddress": "M01028",
+              "hasTelephone": {
+                "id": "tel/0033388175659",
+                "type": "Voice",
+                "hasValue": "tel:+33388175659"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            },
+            {
+              "id": "contact-point/256939-m-17069-03K056",
+              "type": "ContactPoint",
+              "officeAddress": "03K056",
+              "hasTelephone": {
+                "id": "tel/003222845659",
+                "type": "Voice",
+                "hasValue": "tel:+3222845659"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ATR"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256939-f-175506",
+          "type": "Membership",
+          "identifier": "256939-f-175506",
+          "notation_codictFunctionId": "175506",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6603",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256939-f-169922",
+          "type": "Membership",
+          "identifier": "256939-f-169922",
+          "notation_codictFunctionId": "169922",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256939-f-169924",
+          "type": "Membership",
+          "identifier": "256939-f-169924",
+          "notation_codictFunctionId": "169924",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6561",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256939-f-172674",
+          "type": "Membership",
+          "identifier": "256939-f-172674",
+          "notation_codictFunctionId": "172674",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6850",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256939-f-173784",
+          "type": "Membership",
+          "identifier": "256939-f-173784",
+          "notation_codictFunctionId": "173784",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "ELLWANGEN",
+      "familyName": "Geisel",
+      "givenName": "Thomas",
+      "img": "https://www.europarl.europa.eu/mepphoto/256939.jpg",
+      "sortLabel": "GEISELT",
+      "upperFamilyName": "GEISEL",
+      "upperGivenName": "THOMAS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

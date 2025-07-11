@@ -1,0 +1,153 @@
+{
+  "data": [
+    {
+      "id": "person/197803",
+      "type": "Person",
+      "identifier": "197803",
+      "label": "Andrew ENGLAND KERR",
+      "notation_codictPersonId": "197803",
+      "bday": "1958-09-23",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/197803-f-157205",
+          "type": "Membership",
+          "identifier": "197803-f-157205",
+          "notation_codictFunctionId": "157205",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5089",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/197803-f-155136",
+          "type": "Membership",
+          "identifier": "197803-f-155136",
+          "notation_codictFunctionId": "155136",
+          "memberDuring": {
+            "id": "time-period/20190702-20190930",
+            "type": "PeriodOfTime",
+            "endDate": "2019-09-30",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5506",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197803-m-16551",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/GBR"
+          ],
+          "identifier": "197803-m-16551",
+          "notation_codictMandateId": "16551",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/197803-f-155137",
+          "type": "Membership",
+          "identifier": "197803-f-155137",
+          "notation_codictFunctionId": "155137",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5152",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197803-f-160595",
+          "type": "Membership",
+          "identifier": "197803-f-160595",
+          "notation_codictFunctionId": "160595",
+          "memberDuring": {
+            "id": "time-period/20191001-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-10-01"
+          },
+          "organization": "org/5463",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/197803-f-158209",
+          "type": "Membership",
+          "identifier": "197803-f-158209",
+          "notation_codictFunctionId": "158209",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5102",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/197803-f-155135",
+          "type": "Membership",
+          "identifier": "197803-f-155135",
+          "notation_codictFunctionId": "155135",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/197803-f-159529",
+          "type": "Membership",
+          "identifier": "197803-f-159529",
+          "notation_codictFunctionId": "159529",
+          "memberDuring": {
+            "id": "time-period/20190702-20200131",
+            "type": "PeriodOfTime",
+            "endDate": "2020-01-31",
+            "startDate": "2019-07-02"
+          },
+          "organization": "org/5131",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/GBR",
+      "placeOfBirth": "Birmingham",
+      "familyName": "England Kerr",
+      "givenName": "Andrew",
+      "img": "https://www.europarl.europa.eu/mepphoto/197803.jpg",
+      "sortLabel": "ENGLANDKERR",
+      "upperFamilyName": "ENGLAND KERR",
+      "upperGivenName": "ANDREW"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

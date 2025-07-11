@@ -1,0 +1,213 @@
+{
+  "data": [
+    {
+      "id": "person/256941",
+      "type": "Person",
+      "identifier": "256941",
+      "label": "Alexander JUNGBLUTH",
+      "notation_codictPersonId": "256941",
+      "bday": "1987-02-07",
+      "hasEmail": "mailto:alexander.jungbluth@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256941-f-174140",
+          "type": "Membership",
+          "identifier": "256941-f-174140",
+          "notation_codictFunctionId": "174140",
+          "memberDuring": {
+            "id": "time-period/20240719-20250121",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-21",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256941-f-174762",
+          "type": "Membership",
+          "identifier": "256941-f-174762",
+          "notation_codictFunctionId": "174762",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256941-f-176520",
+          "type": "Membership",
+          "identifier": "256941-f-176520",
+          "notation_codictFunctionId": "176520",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6565",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256941-f-174530",
+          "type": "Membership",
+          "identifier": "256941-f-174530",
+          "notation_codictFunctionId": "174530",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256941-f-171552",
+          "type": "Membership",
+          "identifier": "256941-f-171552",
+          "notation_codictFunctionId": "171552",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6802",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256941-f-172759",
+          "type": "Membership",
+          "identifier": "256941-f-172759",
+          "notation_codictFunctionId": "172759",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7151",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256941-m-17073",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256941-m-17073",
+          "notation_codictMandateId": "17073",
+          "contactPoint": [
+            {
+              "id": "contact-point/256941-m-17073-03F155",
+              "type": "ContactPoint",
+              "officeAddress": "03F155",
+              "hasTelephone": {
+                "id": "tel/003222845799",
+                "type": "Voice",
+                "hasValue": "tel:+3222845799"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/256941-m-17073-V03025",
+              "type": "ContactPoint",
+              "officeAddress": "V03025",
+              "hasTelephone": {
+                "id": "tel/0033388175799",
+                "type": "Voice",
+                "hasValue": "tel:+33388175799"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/HAV"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256941-f-178342",
+          "type": "Membership",
+          "identifier": "256941-f-178342",
+          "notation_codictFunctionId": "178342",
+          "memberDuring": {
+            "id": "time-period/20250122",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-22"
+          },
+          "organization": "org/6568",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256941-f-175441",
+          "type": "Membership",
+          "identifier": "256941-f-175441",
+          "notation_codictFunctionId": "175441",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6600",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256941-f-175770",
+          "type": "Membership",
+          "identifier": "256941-f-175770",
+          "notation_codictFunctionId": "175770",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6610",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256941-f-169930",
+          "type": "Membership",
+          "identifier": "256941-f-169930",
+          "notation_codictFunctionId": "169930",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "WUERSELEN",
+      "familyName": "Jungbluth",
+      "givenName": "Alexander",
+      "img": "https://www.europarl.europa.eu/mepphoto/256941.jpg",
+      "sortLabel": "JUNGBLUTHA",
+      "upperFamilyName": "JUNGBLUTH",
+      "upperGivenName": "ALEXANDER"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

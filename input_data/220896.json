@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "id": "person/220896",
+      "type": "Person",
+      "identifier": "220896",
+      "label": "Reinhold LOPATKA",
+      "notation_codictPersonId": "220896",
+      "bday": "1960-01-27",
+      "hasEmail": "mailto:reinhold.lopatka@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/220896-f-176775",
+          "type": "Membership",
+          "identifier": "220896-f-176775",
+          "notation_codictFunctionId": "176775",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6573",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/220896-f-174409",
+          "type": "Membership",
+          "identifier": "220896-f-174409",
+          "notation_codictFunctionId": "174409",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6563",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220896-f-177409",
+          "type": "Membership",
+          "identifier": "220896-f-177409",
+          "notation_codictFunctionId": "177409",
+          "memberDuring": {
+            "id": "time-period/20241003",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-03"
+          },
+          "organization": "org/6634",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        },
+        {
+          "id": "membership/220896-f-171308",
+          "type": "Membership",
+          "identifier": "220896-f-171308",
+          "notation_codictFunctionId": "171308",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6745",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/220896-f-172469",
+          "type": "Membership",
+          "identifier": "220896-f-172469",
+          "notation_codictFunctionId": "172469",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/220896-m-16864",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/AUT"
+          ],
+          "identifier": "220896-m-16864",
+          "notation_codictMandateId": "16864",
+          "contactPoint": [
+            {
+              "id": "contact-point/220896-m-16864-T09067",
+              "type": "ContactPoint",
+              "officeAddress": "T09067",
+              "hasTelephone": {
+                "id": "tel/0033388175676",
+                "type": "Voice",
+                "hasValue": "tel:+33388175676"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            },
+            {
+              "id": "contact-point/220896-m-16864-08F136",
+              "type": "ContactPoint",
+              "officeAddress": "08F136",
+              "hasTelephone": {
+                "id": "tel/003222845676",
+                "type": "Voice",
+                "hasValue": "tel:+3222845676"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/220896-f-175715",
+          "type": "Membership",
+          "identifier": "220896-f-175715",
+          "notation_codictFunctionId": "175715",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6607",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/220896-f-169514",
+          "type": "Membership",
+          "identifier": "220896-f-169514",
+          "notation_codictFunctionId": "169514",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/220896-f-175480",
+          "type": "Membership",
+          "identifier": "220896-f-175480",
+          "notation_codictFunctionId": "175480",
+          "memberDuring": {
+            "id": "time-period/20240919-20241002",
+            "type": "PeriodOfTime",
+            "endDate": "2024-10-02",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6601",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/220896-f-174952",
+          "type": "Membership",
+          "identifier": "220896-f-174952",
+          "notation_codictFunctionId": "174952",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7005",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/220896-f-176876",
+          "type": "Membership",
+          "identifier": "220896-f-176876",
+          "notation_codictFunctionId": "176876",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6575",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/220896-f-177315",
+          "type": "Membership",
+          "identifier": "220896-f-177315",
+          "notation_codictFunctionId": "177315",
+          "memberDuring": {
+            "id": "time-period/20241003",
+            "type": "PeriodOfTime",
+            "startDate": "2024-10-03"
+          },
+          "organization": "org/6601",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/220896-f-178418",
+          "type": "Membership",
+          "identifier": "220896-f-178418",
+          "notation_codictFunctionId": "178418",
+          "memberDuring": {
+            "id": "time-period/20250127",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-27"
+          },
+          "organization": "org/7902",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/220896-f-176959",
+          "type": "Membership",
+          "identifier": "220896-f-176959",
+          "notation_codictFunctionId": "176959",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/220896-f-172857",
+          "type": "Membership",
+          "identifier": "220896-f-172857",
+          "notation_codictFunctionId": "172857",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220896-f-180181",
+          "type": "Membership",
+          "identifier": "220896-f-180181",
+          "notation_codictFunctionId": "180181",
+          "memberDuring": {
+            "id": "time-period/20250313",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-13"
+          },
+          "organization": "org/6628",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/AUT",
+      "placeOfBirth": "Vorau",
+      "account": [
+        {
+          "id": "https://www.instagram.com/reinhold.lopatka/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://x.com/reinholdlopatka",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.facebook.com/reinhold.lopatka/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Lopatka",
+      "givenName": "Reinhold",
+      "homepage": "http://www.lopatka.at/",
+      "img": "https://www.europarl.europa.eu/mepphoto/220896.jpg",
+      "sortLabel": "LOPATKAR",
+      "upperFamilyName": "LOPATKA",
+      "upperGivenName": "REINHOLD"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

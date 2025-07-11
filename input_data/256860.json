@@ -1,0 +1,222 @@
+{
+  "data": [
+    {
+      "id": "person/256860",
+      "type": "Person",
+      "identifier": "256860",
+      "label": "András LÁSZLÓ",
+      "notation_codictPersonId": "256860",
+      "hasEmail": "mailto:andras.laszlo@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256860-f-169596",
+          "type": "Membership",
+          "identifier": "256860-f-169596",
+          "notation_codictFunctionId": "169596",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256860-m-16905",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/HUN"
+          ],
+          "identifier": "256860-m-16905",
+          "notation_codictMandateId": "16905",
+          "contactPoint": [
+            {
+              "id": "contact-point/256860-m-16905-03M033",
+              "type": "ContactPoint",
+              "officeAddress": "03M033",
+              "hasTelephone": {
+                "id": "tel/003222845268",
+                "type": "Voice",
+                "hasValue": "tel:+3222845268"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            },
+            {
+              "id": "contact-point/256860-m-16905-T03016",
+              "type": "ContactPoint",
+              "officeAddress": "T03016",
+              "hasTelephone": {
+                "id": "tel/0033388175268",
+                "type": "Voice",
+                "hasValue": "tel:+33388175268"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256860-f-176052",
+          "type": "Membership",
+          "identifier": "256860-f-176052",
+          "notation_codictFunctionId": "176052",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6616",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256860-f-175848",
+          "type": "Membership",
+          "identifier": "256860-f-175848",
+          "notation_codictFunctionId": "175848",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6611",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256860-f-173950",
+          "type": "Membership",
+          "identifier": "256860-f-173950",
+          "notation_codictFunctionId": "173950",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256860-f-172988",
+          "type": "Membership",
+          "identifier": "256860-f-172988",
+          "notation_codictFunctionId": "172988",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256860-f-179785",
+          "type": "Membership",
+          "identifier": "256860-f-179785",
+          "notation_codictFunctionId": "179785",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256860-f-172631",
+          "type": "Membership",
+          "identifier": "256860-f-172631",
+          "notation_codictFunctionId": "172631",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256860-f-171869",
+          "type": "Membership",
+          "identifier": "256860-f-171869",
+          "notation_codictFunctionId": "171869",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6737",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256860-f-173937",
+          "type": "Membership",
+          "identifier": "256860-f-173937",
+          "notation_codictFunctionId": "173937",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7005",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/256860-f-174422",
+          "type": "Membership",
+          "identifier": "256860-f-174422",
+          "notation_codictFunctionId": "174422",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/HUN",
+      "account": [
+        {
+          "id": "https://x.com/laszloan",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.facebook.com/LaszloAndras.FIDESZ",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "László",
+      "givenName": "András",
+      "img": "https://www.europarl.europa.eu/mepphoto/256860.jpg",
+      "sortLabel": "LASZLOA",
+      "upperFamilyName": "LÁSZLÓ",
+      "upperGivenName": "ANDRÁS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

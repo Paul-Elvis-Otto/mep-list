@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "id": "person/250918",
+      "type": "Person",
+      "identifier": "250918",
+      "label": "François THIOLLET",
+      "notation_codictPersonId": "250918",
+      "bday": "1975-10-21",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/250918-f-168729",
+          "type": "Membership",
+          "identifier": "250918-f-168729",
+          "notation_codictFunctionId": "168729",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/5155",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/250918-m-16784",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "250918-m-16784",
+          "notation_codictMandateId": "16784",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/250918-f-168876",
+          "type": "Membership",
+          "identifier": "250918-f-168876",
+          "notation_codictFunctionId": "168876",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/5225",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/250918-f-169060",
+          "type": "Membership",
+          "identifier": "250918-f-169060",
+          "notation_codictFunctionId": "169060",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6354",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250918-f-169059",
+          "type": "Membership",
+          "identifier": "250918-f-169059",
+          "notation_codictFunctionId": "169059",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6350",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250918-f-169061",
+          "type": "Membership",
+          "identifier": "250918-f-169061",
+          "notation_codictFunctionId": "169061",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6456",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/250918-f-168728",
+          "type": "Membership",
+          "identifier": "250918-f-168728",
+          "notation_codictFunctionId": "168728",
+          "memberDuring": {
+            "id": "time-period/20231130-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-11-30"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/250918-f-169125",
+          "type": "Membership",
+          "identifier": "250918-f-169125",
+          "notation_codictFunctionId": "169125",
+          "memberDuring": {
+            "id": "time-period/20231215-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-15"
+          },
+          "organization": "org/6358",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/250918-f-169065",
+          "type": "Membership",
+          "identifier": "250918-f-169065",
+          "notation_codictFunctionId": "169065",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6479",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/250918-f-169067",
+          "type": "Membership",
+          "identifier": "250918-f-169067",
+          "notation_codictFunctionId": "169067",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6480",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Châteaubriant",
+      "familyName": "Thiollet",
+      "givenName": "François",
+      "img": "https://www.europarl.europa.eu/mepphoto/250918.jpg",
+      "sortLabel": "THIOLLETF",
+      "upperFamilyName": "THIOLLET",
+      "upperGivenName": "FRANÇOIS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

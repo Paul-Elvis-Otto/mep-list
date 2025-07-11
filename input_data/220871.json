@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "id": "person/220871",
+      "type": "Person",
+      "identifier": "220871",
+      "label": "Rihards KOLS",
+      "notation_codictPersonId": "220871",
+      "bday": "1984-12-16",
+      "hasEmail": "mailto:rihards.kols@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/220871-f-175683",
+          "type": "Membership",
+          "identifier": "220871-f-175683",
+          "notation_codictFunctionId": "175683",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6565",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/220871-f-172996",
+          "type": "Membership",
+          "identifier": "220871-f-172996",
+          "notation_codictFunctionId": "172996",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6562",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220871-f-174486",
+          "type": "Membership",
+          "identifier": "220871-f-174486",
+          "notation_codictFunctionId": "174486",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220871-f-176417",
+          "type": "Membership",
+          "identifier": "220871-f-176417",
+          "notation_codictFunctionId": "176417",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6623",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/220871-f-174203",
+          "type": "Membership",
+          "identifier": "220871-f-174203",
+          "notation_codictFunctionId": "174203",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6564",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/220871-f-172098",
+          "type": "Membership",
+          "identifier": "220871-f-172098",
+          "notation_codictFunctionId": "172098",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/220871-f-171919",
+          "type": "Membership",
+          "identifier": "220871-f-171919",
+          "notation_codictFunctionId": "171919",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6685",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/220871-f-176281",
+          "type": "Membership",
+          "identifier": "220871-f-176281",
+          "notation_codictFunctionId": "176281",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6624",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/220871-m-17022",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/LVA"
+          ],
+          "identifier": "220871-m-17022",
+          "notation_codictMandateId": "17022",
+          "contactPoint": [
+            {
+              "id": "contact-point/220871-m-17022-00U042",
+              "type": "ContactPoint",
+              "officeAddress": "00U042",
+              "hasTelephone": {
+                "id": "tel/003222845666",
+                "type": "Voice",
+                "hasValue": "tel:+3222845666"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIE"
+            },
+            {
+              "id": "contact-point/220871-m-17022-T06045",
+              "type": "ContactPoint",
+              "officeAddress": "T06045",
+              "hasTelephone": {
+                "id": "tel/0033388175666",
+                "type": "Voice",
+                "hasValue": "tel:+33388175666"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/220871-f-169829",
+          "type": "Membership",
+          "identifier": "220871-f-169829",
+          "notation_codictFunctionId": "169829",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/220871-f-180294",
+          "type": "Membership",
+          "identifier": "220871-f-180294",
+          "notation_codictFunctionId": "180294",
+          "memberDuring": {
+            "id": "time-period/20250312",
+            "type": "PeriodOfTime",
+            "startDate": "2025-03-12"
+          },
+          "organization": "org/7893",
+          "role": "def/ep-roles/CHAIR_VICE",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/220871-f-175531",
+          "type": "Membership",
+          "identifier": "220871-f-175531",
+          "notation_codictFunctionId": "175531",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6604",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/LVA",
+      "placeOfBirth": "Riga",
+      "account": [
+        {
+          "id": "https://x.com/RihardsKols",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.facebook.com/KolsRihards/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        }
+      ],
+      "familyName": "Kols",
+      "givenName": "Rihards",
+      "homepage": "https://rihardskols.lv/",
+      "img": "https://www.europarl.europa.eu/mepphoto/220871.jpg",
+      "sortLabel": "KOLSR",
+      "upperFamilyName": "KOLS",
+      "upperGivenName": "RIHARDS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

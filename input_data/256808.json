@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "id": "person/256808",
+      "type": "Person",
+      "identifier": "256808",
+      "label": "Petras GRAŽULIS",
+      "notation_codictPersonId": "256808",
+      "hasEmail": "mailto:petras.grazulis@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256808-f-171678",
+          "type": "Membership",
+          "identifier": "256808-f-171678",
+          "notation_codictFunctionId": "171678",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7021",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256808-f-176096",
+          "type": "Membership",
+          "identifier": "256808-f-176096",
+          "notation_codictFunctionId": "176096",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6618",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256808-f-172742",
+          "type": "Membership",
+          "identifier": "256808-f-172742",
+          "notation_codictFunctionId": "172742",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7151",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256808-f-173506",
+          "type": "Membership",
+          "identifier": "256808-f-173506",
+          "notation_codictFunctionId": "173506",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256808-f-173142",
+          "type": "Membership",
+          "identifier": "256808-f-173142",
+          "notation_codictFunctionId": "173142",
+          "memberDuring": {
+            "id": "time-period/20240719-20250121",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-21",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6585",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256808-f-174040",
+          "type": "Membership",
+          "identifier": "256808-f-174040",
+          "notation_codictFunctionId": "174040",
+          "memberDuring": {
+            "id": "time-period/20240719-20250121",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-21",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6591",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256808-f-176368",
+          "type": "Membership",
+          "identifier": "256808-f-176368",
+          "notation_codictFunctionId": "176368",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6627",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_JOINT_COMMITTEE"
+        },
+        {
+          "id": "membership/256808-m-16826",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/LTU"
+          ],
+          "identifier": "256808-m-16826",
+          "notation_codictMandateId": "16826",
+          "contactPoint": [
+            {
+              "id": "contact-point/256808-m-16826-02M045",
+              "type": "ContactPoint",
+              "officeAddress": "02M045",
+              "hasTelephone": {
+                "id": "tel/003222845671",
+                "type": "Voice",
+                "hasValue": "tel:+3222845671"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            },
+            {
+              "id": "contact-point/256808-m-16826-G00032",
+              "type": "ContactPoint",
+              "officeAddress": "G00032",
+              "hasTelephone": {
+                "id": "tel/0033388175671",
+                "type": "Voice",
+                "hasValue": "tel:+33388175671"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256808-f-169438",
+          "type": "Membership",
+          "identifier": "256808-f-169438",
+          "notation_codictFunctionId": "169438",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256808-f-178344",
+          "type": "Membership",
+          "identifier": "256808-f-178344",
+          "notation_codictFunctionId": "178344",
+          "memberDuring": {
+            "id": "time-period/20250122",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-22"
+          },
+          "organization": "org/6591",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/LTU",
+      "familyName": "Gražulis",
+      "givenName": "Petras",
+      "img": "https://www.europarl.europa.eu/mepphoto/256808.jpg",
+      "sortLabel": "GRAZULISP",
+      "upperFamilyName": "GRAŽULIS",
+      "upperGivenName": "PETRAS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

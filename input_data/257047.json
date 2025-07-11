@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "id": "person/257047",
+      "type": "Person",
+      "identifier": "257047",
+      "label": "Borys BUDKA",
+      "notation_codictPersonId": "257047",
+      "bday": "1978-03-11",
+      "hasEmail": "mailto:borys.budka@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257047-f-173704",
+          "type": "Membership",
+          "identifier": "257047-f-173704",
+          "notation_codictFunctionId": "173704",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257047-f-176070",
+          "type": "Membership",
+          "identifier": "257047-f-176070",
+          "notation_codictFunctionId": "176070",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6617",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257047-f-175013",
+          "type": "Membership",
+          "identifier": "257047-f-175013",
+          "notation_codictFunctionId": "175013",
+          "memberDuring": {
+            "id": "time-period/20240723",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-23"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/CHAIR",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257047-f-173242",
+          "type": "Membership",
+          "identifier": "257047-f-173242",
+          "notation_codictFunctionId": "173242",
+          "memberDuring": {
+            "id": "time-period/20240719-20240722",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-22",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6576",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257047-f-177987",
+          "type": "Membership",
+          "identifier": "257047-f-177987",
+          "notation_codictFunctionId": "177987",
+          "memberDuring": {
+            "id": "time-period/20250116",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-16"
+          },
+          "organization": "org/7882",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257047-f-172433",
+          "type": "Membership",
+          "identifier": "257047-f-172433",
+          "notation_codictFunctionId": "172433",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7018",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257047-f-172572",
+          "type": "Membership",
+          "identifier": "257047-f-172572",
+          "notation_codictFunctionId": "172572",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6703",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257047-f-170419",
+          "type": "Membership",
+          "identifier": "257047-f-170419",
+          "notation_codictFunctionId": "170419",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257047-m-17319",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/POL"
+          ],
+          "identifier": "257047-m-17319",
+          "notation_codictMandateId": "17319",
+          "contactPoint": [
+            {
+              "id": "contact-point/257047-m-17319-12E130",
+              "type": "ContactPoint",
+              "officeAddress": "12E130",
+              "hasTelephone": {
+                "id": "tel/003222845210",
+                "type": "Voice",
+                "hasValue": "tel:+3222845210"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ASP"
+            },
+            {
+              "id": "contact-point/257047-m-17319-T12013",
+              "type": "ContactPoint",
+              "officeAddress": "T12013",
+              "hasTelephone": {
+                "id": "tel/0033388175210",
+                "type": "Voice",
+                "hasValue": "tel:+33388175210"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257047-f-175103",
+          "type": "Membership",
+          "identifier": "257047-f-175103",
+          "notation_codictFunctionId": "175103",
+          "memberDuring": {
+            "id": "time-period/20240723",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-23"
+          },
+          "organization": "org/6633",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/GOVERNING_BODY"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/POL",
+      "placeOfBirth": "Czeladz",
+      "account": [
+        {
+          "id": "https://www.instagram.com/borysbudka/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://x.com/bbudka",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Budka",
+      "givenName": "Borys",
+      "img": "https://www.europarl.europa.eu/mepphoto/257047.jpg",
+      "sortLabel": "BUDKAB",
+      "upperFamilyName": "BUDKA",
+      "upperGivenName": "BORYS"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

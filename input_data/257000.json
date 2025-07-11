@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "id": "person/257000",
+      "type": "Person",
+      "identifier": "257000",
+      "label": "Stephen Nikola BARTULICA",
+      "notation_codictPersonId": "257000",
+      "hasEmail": "mailto:stephennikola.bartulica@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/257000-f-177325",
+          "type": "Membership",
+          "identifier": "257000-f-177325",
+          "notation_codictFunctionId": "177325",
+          "memberDuring": {
+            "id": "time-period/20240928",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-28"
+          },
+          "organization": "org/7872",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257000-f-174061",
+          "type": "Membership",
+          "identifier": "257000-f-174061",
+          "notation_codictFunctionId": "174061",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257000-f-179988",
+          "type": "Membership",
+          "identifier": "257000-f-179988",
+          "notation_codictFunctionId": "179988",
+          "memberDuring": {
+            "id": "time-period/20250227",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-27"
+          },
+          "organization": "org/7892",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257000-f-171354",
+          "type": "Membership",
+          "identifier": "257000-f-171354",
+          "notation_codictFunctionId": "171354",
+          "memberDuring": {
+            "id": "time-period/20240716-20240927",
+            "type": "PeriodOfTime",
+            "endDate": "2024-09-27",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6644",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257000-f-174382",
+          "type": "Membership",
+          "identifier": "257000-f-174382",
+          "notation_codictFunctionId": "174382",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7006",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        },
+        {
+          "id": "membership/257000-f-178408",
+          "type": "Membership",
+          "identifier": "257000-f-178408",
+          "notation_codictFunctionId": "178408",
+          "memberDuring": {
+            "id": "time-period/20250127",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-27"
+          },
+          "organization": "org/7902",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/257000-m-17230",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/HRV"
+          ],
+          "identifier": "257000-m-17230",
+          "notation_codictMandateId": "17230",
+          "contactPoint": [
+            {
+              "id": "contact-point/257000-m-17230-07U043",
+              "type": "ContactPoint",
+              "officeAddress": "07U043",
+              "hasTelephone": {
+                "id": "tel/003222845272",
+                "type": "Voice",
+                "hasValue": "tel:+3222845272"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIE"
+            },
+            {
+              "id": "contact-point/257000-m-17230-T06014",
+              "type": "ContactPoint",
+              "officeAddress": "T06014",
+              "hasTelephone": {
+                "id": "tel/0033388175272",
+                "type": "Voice",
+                "hasValue": "tel:+33388175272"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/LOW"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257000-f-176928",
+          "type": "Membership",
+          "identifier": "257000-f-176928",
+          "notation_codictFunctionId": "176928",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/257000-f-178280",
+          "type": "Membership",
+          "identifier": "257000-f-178280",
+          "notation_codictFunctionId": "178280",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7911",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257000-f-170241",
+          "type": "Membership",
+          "identifier": "257000-f-170241",
+          "notation_codictFunctionId": "170241",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257000-f-175929",
+          "type": "Membership",
+          "identifier": "257000-f-175929",
+          "notation_codictFunctionId": "175929",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6609",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257000-f-175188",
+          "type": "Membership",
+          "identifier": "257000-f-175188",
+          "notation_codictFunctionId": "175188",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6590",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257000-f-173543",
+          "type": "Membership",
+          "identifier": "257000-f-173543",
+          "notation_codictFunctionId": "173543",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6584",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257000-f-174222",
+          "type": "Membership",
+          "identifier": "257000-f-174222",
+          "notation_codictFunctionId": "174222",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6583",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257000-f-172080",
+          "type": "Membership",
+          "identifier": "257000-f-172080",
+          "notation_codictFunctionId": "172080",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7037",
+          "role": "def/ep-roles/MEMBER_BUREAU",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/HRV",
+      "account": [
+        {
+          "id": "https://hr.linkedin.com/in/stephennikola-bartulica",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/LNK"
+        },
+        {
+          "id": "https://www.facebook.com/stephennikolabartulica/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.instagram.com/stjepobartulica/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://x.com/stjepobartulica",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.youtube.com/@BartulicaStjepo",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/YTB"
+        }
+      ],
+      "familyName": "Bartulica",
+      "givenName": "Stephen Nikola",
+      "homepage": "https://bartulica.hr/",
+      "img": "https://www.europarl.europa.eu/mepphoto/257000.jpg",
+      "sortLabel": "BARTULICAS",
+      "upperFamilyName": "BARTULICA",
+      "upperGivenName": "STEPHEN NIKOLA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": "person/251249",
+      "type": "Person",
+      "identifier": "251249",
+      "label": "Esther SANZ SELVA",
+      "notation_codictPersonId": "251249",
+      "bday": "1985-07-02",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/251249-m-16785",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/ESP"
+          ],
+          "identifier": "251249-m-16785",
+          "notation_codictMandateId": "16785",
+          "memberDuring": {
+            "id": "time-period/20231221-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-21"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/251249-f-168975",
+          "type": "Membership",
+          "identifier": "251249-f-168975",
+          "notation_codictFunctionId": "168975",
+          "memberDuring": {
+            "id": "time-period/20231221-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-21"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/251249-f-168991",
+          "type": "Membership",
+          "identifier": "251249-f-168991",
+          "notation_codictFunctionId": "168991",
+          "memberDuring": {
+            "id": "time-period/20231221-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-21"
+          },
+          "organization": "org/5395",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/251249-f-169058",
+          "type": "Membership",
+          "identifier": "251249-f-169058",
+          "notation_codictFunctionId": "169058",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/6364",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/251249-f-169008",
+          "type": "Membership",
+          "identifier": "251249-f-169008",
+          "notation_codictFunctionId": "169008",
+          "memberDuring": {
+            "id": "time-period/20240111-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-11"
+          },
+          "organization": "org/5144",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/251249-f-169119",
+          "type": "Membership",
+          "identifier": "251249-f-169119",
+          "notation_codictFunctionId": "169119",
+          "memberDuring": {
+            "id": "time-period/20240115-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2024-01-15"
+          },
+          "organization": "org/5120",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/251249-f-168976",
+          "type": "Membership",
+          "identifier": "251249-f-168976",
+          "notation_codictFunctionId": "168976",
+          "memberDuring": {
+            "id": "time-period/20231221-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-12-21"
+          },
+          "organization": "org/6259",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/ESP",
+      "placeOfBirth": "Valencia",
+      "familyName": "Sanz Selva",
+      "givenName": "Esther",
+      "img": "https://www.europarl.europa.eu/mepphoto/251249.jpg",
+      "sortLabel": "SANZSELVAE",
+      "upperFamilyName": "SANZ SELVA",
+      "upperGivenName": "ESTHER"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

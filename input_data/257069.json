@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "id": "person/257069",
+      "type": "Person",
+      "identifier": "257069",
+      "label": "Ewa ZAJĄCZKOWSKA-HERNIK",
+      "notation_codictPersonId": "257069",
+      "bday": "1990-01-20",
+      "hasEmail": "mailto:ewa.zajaczkowska-hernik@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/257069-f-171781",
+          "type": "Membership",
+          "identifier": "257069-f-171781",
+          "notation_codictFunctionId": "171781",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6856",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257069-f-175771",
+          "type": "Membership",
+          "identifier": "257069-f-175771",
+          "notation_codictFunctionId": "175771",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6610",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257069-f-174549",
+          "type": "Membership",
+          "identifier": "257069-f-174549",
+          "notation_codictFunctionId": "174549",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6586",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257069-f-175931",
+          "type": "Membership",
+          "identifier": "257069-f-175931",
+          "notation_codictFunctionId": "175931",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6609",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/257069-m-17344",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/POL"
+          ],
+          "identifier": "257069-m-17344",
+          "notation_codictMandateId": "17344",
+          "contactPoint": [
+            {
+              "id": "contact-point/257069-m-17344-V04015",
+              "type": "ContactPoint",
+              "officeAddress": "V04015",
+              "hasTelephone": {
+                "id": "tel/0033388175895",
+                "type": "Voice",
+                "hasValue": "tel:+33388175895"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/HAV"
+            },
+            {
+              "id": "contact-point/257069-m-17344-02M109",
+              "type": "ContactPoint",
+              "officeAddress": "02M109",
+              "hasTelephone": {
+                "id": "tel/003222845895",
+                "type": "Voice",
+                "hasValue": "tel:+3222845895"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/257069-f-172766",
+          "type": "Membership",
+          "identifier": "257069-f-172766",
+          "notation_codictFunctionId": "172766",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7151",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/257069-f-173632",
+          "type": "Membership",
+          "identifier": "257069-f-173632",
+          "notation_codictFunctionId": "173632",
+          "memberDuring": {
+            "id": "time-period/20240719-20250121",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-21",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257069-f-176944",
+          "type": "Membership",
+          "identifier": "257069-f-176944",
+          "notation_codictFunctionId": "176944",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6566",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/257069-f-178339",
+          "type": "Membership",
+          "identifier": "257069-f-178339",
+          "notation_codictFunctionId": "178339",
+          "memberDuring": {
+            "id": "time-period/20250122",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-22"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/257069-f-170469",
+          "type": "Membership",
+          "identifier": "257069-f-170469",
+          "notation_codictFunctionId": "170469",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/257069-f-173069",
+          "type": "Membership",
+          "identifier": "257069-f-173069",
+          "notation_codictFunctionId": "173069",
+          "memberDuring": {
+            "id": "time-period/20240719-20250121",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-21",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/7007",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_SUB"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/POL",
+      "placeOfBirth": "Radom",
+      "account": [
+        {
+          "id": "https://twitter.com/EwaZajaczkowska",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        },
+        {
+          "id": "https://www.facebook.com/EwaZajaczkowskacom",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/FBW"
+        },
+        {
+          "id": "https://www.youtube.com/channel/UCRxl7i3eZ9lvFWt-ymS_6NA",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/YTB"
+        }
+      ],
+      "familyName": "Zajączkowska-Hernik",
+      "givenName": "Ewa",
+      "img": "https://www.europarl.europa.eu/mepphoto/257069.jpg",
+      "sortLabel": "ZAJACZKOWSKAHERNIKE",
+      "upperFamilyName": "ZAJĄCZKOWSKA-HERNIK",
+      "upperGivenName": "EWA"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

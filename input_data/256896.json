@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "id": "person/256896",
+      "type": "Person",
+      "identifier": "256896",
+      "label": "Angéline FURET",
+      "notation_codictPersonId": "256896",
+      "bday": "1981-07-24",
+      "hasEmail": "mailto:angeline.furet@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/256896-f-177615",
+          "type": "Membership",
+          "identifier": "256896-f-177615",
+          "notation_codictFunctionId": "177615",
+          "memberDuring": {
+            "id": "time-period/20241216",
+            "type": "PeriodOfTime",
+            "startDate": "2024-12-16"
+          },
+          "organization": "org/6569",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256896-f-179772",
+          "type": "Membership",
+          "identifier": "256896-f-179772",
+          "notation_codictFunctionId": "179772",
+          "memberDuring": {
+            "id": "time-period/20250220",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-20"
+          },
+          "organization": "org/7888",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/WORKING_GROUP"
+        },
+        {
+          "id": "membership/256896-f-171937",
+          "type": "Membership",
+          "identifier": "256896-f-171937",
+          "notation_codictFunctionId": "171937",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6848",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256896-f-169766",
+          "type": "Membership",
+          "identifier": "256896-f-169766",
+          "notation_codictFunctionId": "169766",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256896-f-173723",
+          "type": "Membership",
+          "identifier": "256896-f-173723",
+          "notation_codictFunctionId": "173723",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6572",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256896-f-175846",
+          "type": "Membership",
+          "identifier": "256896-f-175846",
+          "notation_codictFunctionId": "175846",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6611",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256896-m-16990",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "256896-m-16990",
+          "notation_codictMandateId": "16990",
+          "contactPoint": [
+            {
+              "id": "contact-point/256896-m-16990-G07028",
+              "type": "ContactPoint",
+              "officeAddress": "G07028",
+              "hasTelephone": {
+                "id": "tel/0033388175759",
+                "type": "Voice",
+                "hasValue": "tel:+33388175759"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/SDM"
+            },
+            {
+              "id": "contact-point/256896-m-16990-05M035",
+              "type": "ContactPoint",
+              "officeAddress": "05M035",
+              "hasTelephone": {
+                "id": "tel/003222845759",
+                "type": "Voice",
+                "hasValue": "tel:+3222845759"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIB"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256896-f-173176",
+          "type": "Membership",
+          "identifier": "256896-f-173176",
+          "notation_codictFunctionId": "173176",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6567",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256896-f-175225",
+          "type": "Membership",
+          "identifier": "256896-f-175225",
+          "notation_codictFunctionId": "175225",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6592",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256896-f-172616",
+          "type": "Membership",
+          "identifier": "256896-f-172616",
+          "notation_codictFunctionId": "172616",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/7150",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Le Mans",
+      "familyName": "Furet",
+      "givenName": "Angéline",
+      "img": "https://www.europarl.europa.eu/mepphoto/256896.jpg",
+      "sortLabel": "FURETA",
+      "upperFamilyName": "FURET",
+      "upperGivenName": "ANGÉLINE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

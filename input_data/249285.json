@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "person/249285",
+      "type": "Person",
+      "identifier": "249285",
+      "label": "Lydie MASSARD",
+      "notation_codictPersonId": "249285",
+      "bday": "1978-08-24",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/FEMALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MS",
+      "hasMembership": [
+        {
+          "id": "membership/249285-f-168589",
+          "type": "Membership",
+          "identifier": "249285-f-168589",
+          "notation_codictFunctionId": "168589",
+          "memberDuring": {
+            "id": "time-period/20231013-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-10-13"
+          },
+          "organization": "org/6352",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/249285-f-168591",
+          "type": "Membership",
+          "identifier": "249285-f-168591",
+          "notation_codictFunctionId": "168591",
+          "memberDuring": {
+            "id": "time-period/20230924-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-24"
+          },
+          "organization": "org/5582",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/249285-f-168586",
+          "type": "Membership",
+          "identifier": "249285-f-168586",
+          "notation_codictFunctionId": "168586",
+          "memberDuring": {
+            "id": "time-period/20230924-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-24"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/249285-f-168587",
+          "type": "Membership",
+          "identifier": "249285-f-168587",
+          "notation_codictFunctionId": "168587",
+          "memberDuring": {
+            "id": "time-period/20230924-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-24"
+          },
+          "organization": "org/5155",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/249285-m-16776",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/FRA"
+          ],
+          "identifier": "249285-m-16776",
+          "notation_codictMandateId": "16776",
+          "memberDuring": {
+            "id": "time-period/20230924-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-09-24"
+          },
+          "organization": "org/ep-9",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/249285-f-168592",
+          "type": "Membership",
+          "identifier": "249285-f-168592",
+          "notation_codictFunctionId": "168592",
+          "memberDuring": {
+            "id": "time-period/20231016-20240715",
+            "type": "PeriodOfTime",
+            "endDate": "2024-07-15",
+            "startDate": "2023-10-16"
+          },
+          "organization": "org/6358",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/FRA",
+      "placeOfBirth": "Saint- Brieuc",
+      "familyName": "Massard",
+      "givenName": "Lydie",
+      "img": "https://www.europarl.europa.eu/mepphoto/249285.jpg",
+      "sortLabel": "MASSARD",
+      "upperFamilyName": "MASSARD",
+      "upperGivenName": "LYDIE"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}

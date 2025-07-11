@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "id": "person/256969",
+      "type": "Person",
+      "identifier": "256969",
+      "label": "Friedrich PÜRNER",
+      "notation_codictPersonId": "256969",
+      "hasEmail": "mailto:friedrich.puerner@europarl.europa.eu",
+      "hasGender": "http://publications.europa.eu/resource/authority/human-sex/MALE",
+      "hasHonorificPrefix": "http://publications.europa.eu/resource/authority/honorific/MR",
+      "hasMembership": [
+        {
+          "id": "membership/256969-f-170093",
+          "type": "Membership",
+          "identifier": "256969-f-170093",
+          "notation_codictFunctionId": "170093",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_INSTITUTION"
+        },
+        {
+          "id": "membership/256969-f-174885",
+          "type": "Membership",
+          "identifier": "256969-f-174885",
+          "notation_codictFunctionId": "174885",
+          "memberDuring": {
+            "id": "time-period/20240719",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6570",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256969-f-175654",
+          "type": "Membership",
+          "identifier": "256969-f-175654",
+          "notation_codictFunctionId": "175654",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6605",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY"
+        },
+        {
+          "id": "membership/256969-f-171644",
+          "type": "Membership",
+          "identifier": "256969-f-171644",
+          "notation_codictFunctionId": "171644",
+          "memberDuring": {
+            "id": "time-period/20240716-20250205",
+            "type": "PeriodOfTime",
+            "endDate": "2025-02-05",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6850",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256969-f-176746",
+          "type": "Membership",
+          "identifier": "256969-f-176746",
+          "notation_codictFunctionId": "176746",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6573",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256969-f-177065",
+          "type": "Membership",
+          "identifier": "256969-f-177065",
+          "notation_codictFunctionId": "177065",
+          "memberDuring": {
+            "id": "time-period/20240919",
+            "type": "PeriodOfTime",
+            "startDate": "2024-09-19"
+          },
+          "organization": "org/6578",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/DELEGATION_PARLIAMENTARY_ASSEMBLY"
+        },
+        {
+          "id": "membership/256969-m-17156",
+          "type": "Membership",
+          "represents": [
+            "http://publications.europa.eu/resource/authority/country/DEU"
+          ],
+          "identifier": "256969-m-17156",
+          "notation_codictMandateId": "17156",
+          "contactPoint": [
+            {
+              "id": "contact-point/256969-m-17156-M01036",
+              "type": "ContactPoint",
+              "officeAddress": "M01036",
+              "hasTelephone": {
+                "id": "tel/0033388175875",
+                "type": "Voice",
+                "hasValue": "tel:+33388175875"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/WIC"
+            },
+            {
+              "id": "contact-point/256969-m-17156-03K052",
+              "type": "ContactPoint",
+              "officeAddress": "03K052",
+              "hasTelephone": {
+                "id": "tel/003222845875",
+                "type": "Voice",
+                "hasValue": "tel:+3222845875"
+              },
+              "hasSite": "http://publications.europa.eu/resource/authority/site/ATR"
+            }
+          ],
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/ep-10",
+          "role": "def/ep-roles/MEMBER_PARLIAMENT"
+        },
+        {
+          "id": "membership/256969-f-170097",
+          "type": "Membership",
+          "identifier": "256969-f-170097",
+          "notation_codictFunctionId": "170097",
+          "memberDuring": {
+            "id": "time-period/20240716",
+            "type": "PeriodOfTime",
+            "startDate": "2024-07-16"
+          },
+          "organization": "org/6561",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/EU_POLITICAL_GROUP"
+        },
+        {
+          "id": "membership/256969-f-178076",
+          "type": "Membership",
+          "identifier": "256969-f-178076",
+          "notation_codictFunctionId": "178076",
+          "memberDuring": {
+            "id": "time-period/20250123",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-23"
+          },
+          "organization": "org/7912",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256969-f-174644",
+          "type": "Membership",
+          "identifier": "256969-f-174644",
+          "notation_codictFunctionId": "174644",
+          "memberDuring": {
+            "id": "time-period/20240719-20250119",
+            "type": "PeriodOfTime",
+            "endDate": "2025-01-19",
+            "startDate": "2024-07-19"
+          },
+          "organization": "org/6574",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256969-f-177779",
+          "type": "Membership",
+          "identifier": "256969-f-177779",
+          "notation_codictFunctionId": "177779",
+          "memberDuring": {
+            "id": "time-period/20250120",
+            "type": "PeriodOfTime",
+            "startDate": "2025-01-20"
+          },
+          "organization": "org/7913",
+          "role": "def/ep-roles/MEMBER_SUBSTITUTE",
+          "membershipClassification": "def/ep-entities/COMMITTEE_PARLIAMENTARY_STANDING"
+        },
+        {
+          "id": "membership/256969-f-179358",
+          "type": "Membership",
+          "identifier": "256969-f-179358",
+          "notation_codictFunctionId": "179358",
+          "memberDuring": {
+            "id": "time-period/20250206",
+            "type": "PeriodOfTime",
+            "startDate": "2025-02-06"
+          },
+          "organization": "org/6823",
+          "role": "def/ep-roles/MEMBER",
+          "membershipClassification": "def/ep-entities/NATIONAL_POLITICAL_GROUP"
+        }
+      ],
+      "citizenship": "http://publications.europa.eu/resource/authority/country/DEU",
+      "placeOfBirth": "Munich",
+      "account": [
+        {
+          "id": "https://www.instagram.com/puernerfriedrich/",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/IST"
+        },
+        {
+          "id": "https://twitter.com/DrPuerner",
+          "type": "OnlineAccount",
+          "dcterms_type": "http://publications.europa.eu/resource/authority/address-type/TWT"
+        }
+      ],
+      "familyName": "Pürner",
+      "givenName": "Friedrich",
+      "homepage": "https://www.friedrich-puerner.de/",
+      "img": "https://www.europarl.europa.eu/mepphoto/256969.jpg",
+      "sortLabel": "PURNERF",
+      "upperFamilyName": "PÜRNER",
+      "upperGivenName": "FRIEDRICH"
+    }
+  ],
+  "@context": [
+    {
+      "data": "@graph",
+      "@base": "https://data.europarl.europa.eu/"
+    },
+    "https://data.europarl.europa.eu/api/v2/context.jsonld"
+  ]
+}
